@@ -57,6 +57,13 @@ class RuleEngine:
         h2h_tags = TagGenerator.generate_h2h_tags(h2h, home_team, away_team)
         standings_tags = TagGenerator.generate_standings_tags(standings, home_team, away_team)
 
+        # Goal distribution & probabilities using GoalPredictor (moved early)
+        home_dist = GoalPredictor.predict_goals_distribution(home_form, home_team, True)
+        away_dist = GoalPredictor.predict_goals_distribution(away_form, away_team, False)
+
+        home_xg = sum(float(k.replace("3+", "3.5")) * v for k, v in home_dist["goals_scored"].items())
+        away_xg = sum(float(k.replace("3+", "3.5")) * v for k, v in away_dist["goals_scored"].items())
+
         # Prepare ML features
         ml_features = MLModel.prepare_features(vision_data)
         ml_prediction = MLModel.predict(ml_features) if ml_features else {"confidence": 0.5, "prediction": "UNKNOWN"}
@@ -67,6 +74,14 @@ class RuleEngine:
         # Weighted rule voting using learned weights
         home_score = away_score = draw_score = over25_score = 0
         reasoning = []
+
+        # Incorporate xG into voting early
+        if home_xg > away_xg + 0.5:
+            home_score += weights.get("xg_advantage", 3); reasoning.append("Home xG advantage")
+        elif away_xg > home_xg + 0.5:
+            away_score += weights.get("xg_advantage", 3); reasoning.append("Away xG advantage")
+        elif abs(home_xg - away_xg) < 0.3:
+            draw_score += weights.get("xg_draw", 2); reasoning.append("Close xG suggests draw")
 
         home_slug = home_team.replace(" ", "_").upper()
         away_slug = away_team.replace(" ", "_").upper()
@@ -111,20 +126,8 @@ class RuleEngine:
         if any("vs_top" in t.lower() and "_w" in t.lower() for t in home_tags): home_score += weights.get("form_vs_top_win", 3); reasoning.append("Beats top teams")
         if any("vs_top" in t.lower() and "_w" in t.lower() for t in away_tags): away_score += weights.get("form_vs_top_win", 3); reasoning.append("Beats top teams")
 
-        # Goal distribution & probabilities using GoalPredictor
-        home_dist = GoalPredictor.predict_goals_distribution(home_form, home_team, True)
-        away_dist = GoalPredictor.predict_goals_distribution(away_form, away_team, False)
+        # Calculate probabilities and scores from distributions
 
-        home_xg = sum(float(k.replace("3+", "3.5")) * v for k, v in home_dist["goals_scored"].items())
-        away_xg = sum(float(k.replace("3+", "3.5")) * v for k, v in away_dist["goals_scored"].items())
-
-        # Incorporate xG into voting for alignment with learned weights
-        if home_xg > away_xg + 0.5:
-            home_score += weights.get("xg_advantage", 3); reasoning.append("Home xG advantage")
-        elif away_xg > home_xg + 0.5:
-            away_score += weights.get("xg_advantage", 3); reasoning.append("Away xG advantage")
-        elif abs(home_xg - away_xg) < 0.3:
-            draw_score += weights.get("xg_draw", 2); reasoning.append("Close xG suggests draw")
 
         keys = ["0", "1", "2", "3+"]
         btts_prob = sum(home_dist["goals_scored"].get(h,0) * away_dist["goals_scored"].get(a,0)

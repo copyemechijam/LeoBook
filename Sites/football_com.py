@@ -18,7 +18,7 @@ from Helpers.utils import AUTH_DIR, log_error_state
 from Neo.intelligence import get_selector_auto
 from Helpers.Site_Helpers.site_helpers import get_main_frame
 from Helpers.Neo_Helpers.Managers.api_key_manager import gemini_api_call_with_rotation
-from constants import NAVIGATION_TIMEOUT, WAIT_FOR_LOAD_STATE_TIMEOUT
+from Helpers.constants import NAVIGATION_TIMEOUT, WAIT_FOR_LOAD_STATE_TIMEOUT
 
 PHONE = os.getenv("FB_PHONE")
 PASSWORD = os.getenv("FB_PASSWORD")

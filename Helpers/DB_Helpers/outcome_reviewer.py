@@ -30,7 +30,8 @@ VERSION = "2.6.0"
 COMPATIBLE_MODELS = ["2.5", "2.6"]  # Compatible with these model versions
 
 # --- IMPORTS ---
-from Helpers.DB_Helpers.db_helpers import PREDICTIONS_CSV, SCHEDULES_CSV, save_schedule_entry, REGION_LEAGUE_CSV, upsert_entry, files_and_headers
+from Helpers.DB_Helpers.db_helpers import PREDICTIONS_CSV, SCHEDULES_CSV, save_schedule_entry, REGION_LEAGUE_CSV, files_and_headers
+from Helpers.DB_Helpers.csv_operations import upsert_entry
 from Neo.intelligence import get_selector_auto, get_selector
 
 
@@ -153,7 +154,7 @@ def save_single_outcome(match_data: Dict, new_status: str):
         print(f"    [File Error] Failed to write CSV: {e}")
 
 
-async def process_review_task(match: Dict, browser, semaphore: asyncio.Semaphore):
+async def process_review_task(match: Dict, browser, semaphore: asyncio.Semaphore) -> None:
     """
     Worker function for a single match review.
     Includes a retry mechanism with progressive delays for transient errors.
@@ -294,7 +295,7 @@ async def get_final_score(page):
         # Check Status
         status_selector = get_selector("match_page", "meta_match_status") or "div.fixedHeaderDuel__detailStatus"
         try:
-            from constants import WAIT_FOR_LOAD_STATE_TIMEOUT
+            from Helpers.constants import WAIT_FOR_LOAD_STATE_TIMEOUT
             status_text = await page.locator(status_selector).inner_text(timeout=30000)
             ERROR_HEADER = page.get_by_text("Error:", exact=True)
             ERROR_MESSAGE = page.get_by_text("The requested page can't be displayed. Please try again later.")
@@ -317,7 +318,6 @@ async def get_final_score(page):
         home_score_sel = get_selector("match_page", "header_score_home") or "div.detailScore__wrapper > span:nth-child(1)"
         away_score_sel = get_selector("match_page", "header_score_away") or "div.detailScore__wrapper > span:nth-child(3)"
 
-        from constants import WAIT_FOR_LOAD_STATE_TIMEOUT
         # Use shorter timeout for score extraction to prevent hanging
         SCORE_TIMEOUT = 30000  # 30 seconds
         home_score = await page.locator(home_score_sel).first.inner_text(timeout=SCORE_TIMEOUT)

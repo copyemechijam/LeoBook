@@ -51,17 +51,29 @@ class BettingMarkets:
 
         # 2. Double Chance
         if home_score + draw_score > away_score + 2:
+            base_conf = calc_confidence((home_score + draw_score) / 2, 6)
+            # Reduce confidence if xG strongly opposes (away favored)
+            if away_xg > home_xg + 0.5:
+                base_conf *= 0.7  # Reduce by 30%
+            elif abs(home_xg - away_xg) < 0.2 and home_score < draw_score + 2:
+                base_conf *= 0.8  # Reduce if xG close and not strong home advantage
             predictions["double_chance"] = {
                 "market_type": "Double Chance",
                 "market_prediction": f"{home_team} or Draw",
-                "confidence_score": calc_confidence((home_score + draw_score) / 2, 6),
+                "confidence_score": base_conf,
                 "reason": f"{home_team} unlikely to lose"
             }
         elif away_score + draw_score > home_score + 2:
+            base_conf = calc_confidence((away_score + draw_score) / 2, 6)
+            # Reduce confidence if xG strongly opposes (home favored)
+            if home_xg > away_xg + 0.5:
+                base_conf *= 0.7  # Reduce by 30%
+            elif abs(home_xg - away_xg) < 0.2 and away_score < draw_score + 2:
+                base_conf *= 0.8  # Reduce if xG close and not strong away advantage
             predictions["double_chance"] = {
                 "market_type": "Double Chance",
                 "market_prediction": f"{away_team} or Draw",
-                "confidence_score": calc_confidence((away_score + draw_score) / 2, 6),
+                "confidence_score": base_conf,
                 "reason": f"{away_team} unlikely to lose"
             }
         else:
