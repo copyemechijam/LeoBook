@@ -34,7 +34,7 @@ def init_csvs():
         ],
         STANDINGS_CSV: [
             'region_league', 'position', 'team_name', 'team_id', 'played', 'wins', 'draws',
-            'losses', 'goals_for', 'goals_against', 'goal_difference', 'points', 'last_updated', 'url'
+            'losses', 'goals_for', 'goals_against', 'goal_difference', 'points', 'last_updated', 'url', 'standings_key'
         ],
         TEAMS_CSV: ['team_id', 'team_name', 'region_league', 'team_url'],
     REGION_LEAGUE_CSV: ['region_league_id', 'region', 'league_name', 'url']
@@ -175,19 +175,26 @@ def save_schedule_entry(match_info: Dict[str, Any]):
     upsert_entry(SCHEDULES_CSV, match_info, files_and_headers[SCHEDULES_CSV], 'fixture_id')
 
 def save_standings(standings_data: List[Dict[str, Any]], region_league: str):
-    """Overwrites the standings for a specific league in standings.csv."""
+    """UPSERTs standings data for a specific league in standings.csv."""
     if not standings_data or not region_league: return
 
     last_updated = dt.now().isoformat()
+    updated_count = 0
+
     for row in standings_data:
         row['region_league'] = region_league
         row['last_updated'] = last_updated
 
-    other_leagues_rows = [row for row in _read_csv(STANDINGS_CSV) if row.get('region_league') != region_league]
-    all_rows = other_leagues_rows + standings_data
-    fieldnames = files_and_headers[STANDINGS_CSV]
-    _write_csv(STANDINGS_CSV, all_rows, fieldnames)
-    print(f"      [DB] Updated standings for {region_league}")
+        # Create composite unique key from region_league + team_name
+        team_name = row.get('team_name', '').strip()
+        if team_name:
+            unique_key = f"{region_league}_{team_name}".replace(' ', '_').replace('-', '_').upper()
+            row['standings_key'] = unique_key
+            upsert_entry(STANDINGS_CSV, row, files_and_headers[STANDINGS_CSV], 'standings_key')
+            updated_count += 1
+
+    if updated_count > 0:
+        print(f"      [DB] UPSERTed {updated_count} standings entries for {region_league}")
 
 def save_region_league_entry(region_league_info: Dict[str, Any]):
     """Saves or updates a single region-league entry in region_league.csv."""
@@ -249,7 +256,7 @@ files_and_headers = {
     ],
     STANDINGS_CSV: [
         'region_league', 'position', 'team_name', 'team_id', 'played', 'wins', 'draws',
-        'losses', 'goals_for', 'goals_against', 'goal_difference', 'points', 'last_updated', 'url'
+        'losses', 'goals_for', 'goals_against', 'goal_difference', 'points', 'last_updated', 'url', 'standings_key'
     ],
     TEAMS_CSV: ['team_id', 'team_name', 'region_league', 'team_url'],
     REGION_LEAGUE_CSV: ['region_league_id', 'region', 'league_name', 'url']

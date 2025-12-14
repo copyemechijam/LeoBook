@@ -16,28 +16,29 @@ async def extract_h2h_data(page: Page, home_team_main: str, away_team_main: str,
 
     # Get ALL selectors from knowledge base matching exact keys from fs_h2h_tab.txt
     selectors = {
-        "h2h_section_home_last_5": await get_selector_auto(page, context, "h2h_section_home_last_5") or ".h2h__section:nth-of-type(1)",
-        "h2h_section_away_last_5": await get_selector_auto(page, context, "h2h_section_away_last_5") or ".h2h__section:nth-of-type(2)",
-        "h2h_section_mutual": await get_selector_auto(page, context, "h2h_section_mutual") or ".h2h__section:nth-of-type(3)",
-        "h2h_section_title": await get_selector_auto(page, context, "h2h_section_title") or ".h2h__sectionHeader",
-        "h2h_row_general": await get_selector_auto(page, context, "h2h_row_general") or ".h2h__row",
-        "h2h_row_link": await get_selector_auto(page, context, "h2h_row_link"), 
-        "h2h_row_date": await get_selector_auto(page, context, "h2h_row_date") or ".h2h__date",
-        "h2h_row_league_icon": await get_selector_auto(page, context, "h2h_row_league_icon") or ".h2h__eventIcon",
-        "h2h_row_participant_home": await get_selector_auto(page, context, "h2h_row_participant_home") or ".h2h__homeParticipant",
-        "h2h_row_participant_away": await get_selector_auto(page, context, "h2h_row_participant_away") or ".h2h__awayParticipant",
-        "h2h_row_score_home": await get_selector_auto(page, context, "h2h_row_score_home") or ".h2h__result span:nth-child(1)",
-        "h2h_row_score_away": await get_selector_auto(page, context, "h2h_row_score_away") or ".h2h__result span:nth-child(2)",
-        "h2h_row_win_marker": await get_selector_auto(page, context, "h2h_row_win_marker") or ".fontBold",
-        "h2h_badge_win": await get_selector_auto(page, context, "h2h_badge_win") or ".h2h__icon--win",
-        "h2h_badge_draw": await get_selector_auto(page, context, "h2h_badge_draw") or ".h2h__icon--draw",
-        "h2h_badge_loss": await get_selector_auto(page, context, "h2h_badge_loss") or ".h2h__icon--lost",
-        "meta_breadcrumb_country": await get_selector_auto(page, context, "meta_breadcrumb_country") or ".tournamentHeader__country",
-        "meta_breadcrumb_league": await get_selector_auto(page, context, "meta_breadcrumb_league") or ".tournamentHeader__league a",
+        "h2h_section_home_last_5": get_selector(context, "h2h_section_home_last_5") or ".h2h__section:nth-of-type(1)",
+        "h2h_section_away_last_5": get_selector(context, "h2h_section_away_last_5") or ".h2h__section:nth-of-type(2)",
+        "h2h_section_mutual": get_selector(context, "h2h_section_mutual") or ".h2h__section:nth-of-type(3)",
+        "h2h_section_title": get_selector(context, "h2h_section_title") or ".h2h__sectionHeader",
+        "h2h_row_general": get_selector(context, "h2h_row_general") or ".h2h__row",
+        "h2h_row_link": get_selector(context, "h2h_row_link"), 
+        "h2h_row_date": get_selector(context, "h2h_row_date") or ".h2h__date",
+        "h2h_row_league_icon": get_selector(context, "h2h_row_league_icon") or ".h2h__eventIcon",
+        "h2h_row_participant_home": get_selector(context, "h2h_row_participant_home") or ".h2h__homeParticipant",
+        "h2h_row_participant_away": get_selector(context, "h2h_row_participant_away") or ".h2h__awayParticipant",
+        "h2h_row_score_home": get_selector(context, "h2h_row_score_home") or ".h2h__result span:nth-child(1)",
+        "h2h_row_score_away": get_selector(context, "h2h_row_score_away") or ".h2h__result span:nth-child(2)",
+        "h2h_row_win_marker": get_selector(context, "h2h_row_win_marker") or ".fontBold",
+        "h2h_badge_win": get_selector(context, "h2h_badge_win") or ".h2h__icon--win",
+        "h2h_badge_draw": get_selector(context, "h2h_badge_draw") or ".h2h__icon--draw",
+        "h2h_badge_loss": get_selector(context, "h2h_badge_loss") or ".h2h__icon--lost",
+        "meta_breadcrumb_country": get_selector(context, "meta_breadcrumb_country") or ".tournamentHeader__country",
+        "meta_breadcrumb_league": get_selector(context, "meta_breadcrumb_league") or ".tournamentHeader__league a",
     }
 
     try:
-        await page.wait_for_selector(selectors['h2h_row_general'], timeout=10000)
+        from constants import WAIT_FOR_LOAD_STATE_TIMEOUT
+        await page.wait_for_selector(selectors['h2h_row_general'], timeout=WAIT_FOR_LOAD_STATE_TIMEOUT)
     except TimeoutError:
         print(f"      [Extractor] Warning: No H2H rows ('{selectors['h2h_row_general']}') found. Extraction will be empty.")
         return {"home_last_10_matches": [], "away_last_10_matches": [], "head_to_head": [], "parsing_errors": ["H2H rows not found on page."], "home_team": home_team_main, "away_team": away_team_main, "region_league": "Unknown"}
@@ -253,7 +254,8 @@ async def extract_standings_data(page: Page, context: str = "standings_tab") -> 
     }
 
     try:
-        await page.wait_for_selector(selectors['standings_row'], timeout=10000)
+        from constants import WAIT_FOR_LOAD_STATE_TIMEOUT
+        await page.wait_for_selector(selectors['standings_row'], timeout=WAIT_FOR_LOAD_STATE_TIMEOUT)
     except TimeoutError:
         print("      [Extractor] Warning: No standings table rows found.")
         return {"standings": [], "region_league": "Unknown", "parsing_errors": ["Standings table not found."]}
