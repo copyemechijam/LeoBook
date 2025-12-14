@@ -1,0 +1,862 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-14 18:16:00 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 0 past predictions to review (Limit: 50).
+--- No new past matches to review. ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.0% Accurate - 298 Predictions
+  High Confidence: 61.5% Accurate - 13 Predictions
+  Low Confidence: 54.9% Accurate - 142 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Saturday, 13th December, 2025: 53.2% Accurate - 453 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID SMn3YKpQ on 19.12.2025
+
+--- SKIPPING DAY: 14.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 15.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 16.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 17.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 18.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 19.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 121 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: SMn3YKpQ on this date.
+    [Resume] Match found at index 83. Skipping 84 previously processed matches.
+    [Batching] Processing 37 matches concurrently...
+    [Batch Start] Stade Nyonnais vs Xamax: 19.12.2025 - 18:30
+    [Batch Start] Flamurtari vs Teuta: 19.12.2025 - 18:30
+    [Batch Start] Gent U23 vs Seraing: 19.12.2025 - 19:00
+    [Batch Start] Lommel SK vs K. Lierse S.K.: 19.12.2025 - 19:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stade Nyonnais_vs_Xamax (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Gent U23_vs_Seraing (21 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Flamurtari_vs_Teuta (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'SWITZERLAND - CHALLENGE LEAGUE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+            [OK Signal] Stade Nyonnais_vs_Xamax
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 17 teams in standings for 'BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19'.
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [Extractor Validation] Updated League to: BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+            [OK Signal] Gent U23_vs_Seraing
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 teams in standings for 'ALBANIA - ABISSNET SUPERIORE - ROUND 17'.
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 17
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 17
+      [Extractor Validation] Updated League to: ALBANIA - ABISSNET SUPERIORE - ROUND 17
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 17
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 17
+            [OK Signal] Flamurtari_vs_Teuta
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Lommel SK_vs_K. Lierse S.K. (25 matches found)
+    [Batch Start] Leicester U21 vs Preston U21: 19.12.2025 - 19:00
+    [Batch Start] Norwich U21 vs Bromley U21: 19.12.2025 - 19:00
+    [Batch Start] QPR U21 vs Burnley U21: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 17 teams in standings for 'BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19'.
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [Extractor Validation] Updated League to: BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 19
+            [OK Signal] Lommel SK_vs_K. Lierse S.K.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Reading U21 vs Hull U21: 19.12.2025 - 19:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for QPR U21_vs_Burnley U21 (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Leicester U21_vs_Preston U21 (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] QPR U21_vs_Burnley U21
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 11 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Norwich U21_vs_Bromley U21 (24 matches found)
+    [Batch Start] Stockport U21 vs Cardiff U21: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Leicester U21_vs_Preston U21
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Norwich U21_vs_Bromley U21
+    [Batch Start] Everton U21 vs Monaco II: 19.12.2025 - 19:00
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Reading U21_vs_Hull U21 (22 matches found)
+    [Batch Start] Manchester Utd U21 vs Dortmund II: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Reading U21_vs_Hull U21
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] DVTK vs Ferencvaros: 19.12.2025 - 19:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Everton U21_vs_Monaco II (21 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'EUROPE - PREMIER LEAGUE INTERNATIONAL CUP'.
+      [DB] UPSERTed 8 standings entries for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [OK Standing] Standings tab data extracted for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [Extractor Validation] Updated League to: EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [DB] UPSERTed 8 standings entries for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [OK Standing] Standings tab data extracted for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+            [OK Signal] Everton U21_vs_Monaco II
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Cambuur vs Maastricht: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 11 home, 5 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Stockport U21_vs_Cardiff U21 (17 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Manchester Utd U21_vs_Dortmund II (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'EUROPE - PREMIER LEAGUE INTERNATIONAL CUP'.
+      [DB] UPSERTed 8 standings entries for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [OK Standing] Standings tab data extracted for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [Extractor Validation] Updated League to: EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [DB] UPSERTed 8 standings entries for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+      [OK Standing] Standings tab data extracted for EUROPE - PREMIER LEAGUE INTERNATIONAL CUP
+            [OK Signal] Manchester Utd U21_vs_Dortmund II
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Stockport U21_vs_Cardiff U21
+    [Batch Start] Den Haag vs Jong PSV: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for DVTK_vs_Ferencvaros (25 matches found)
+    [Batch Start] Eindhoven FC vs Jong AZ: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'HUNGARY - NB I. - ROUND 18'.
+      [DB] UPSERTed 12 standings entries for HUNGARY - NB I. - ROUND 18
+      [OK Standing] Standings tab data extracted for HUNGARY - NB I. - ROUND 18
+      [Extractor Validation] Updated League to: HUNGARY - NB I. - ROUND 18
+      [DB] UPSERTed 12 standings entries for HUNGARY - NB I. - ROUND 18
+      [OK Standing] Standings tab data extracted for HUNGARY - NB I. - ROUND 18
+            [OK Signal] DVTK_vs_Ferencvaros
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Venlo vs Dordrecht: 19.12.2025 - 19:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cambuur_vs_Maastricht (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NETHERLANDS - EERSTE DIVISIE - ROUND 21'.
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [Extractor Validation] Updated League to: NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+            [OK Signal] Cambuur_vs_Maastricht
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Eindhoven FC_vs_Jong AZ (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Den Haag_vs_Jong PSV (25 matches found)
+    [Batch Start] Etoile-Carouge vs Lausanne Ouchy: 19.12.2025 - 19:15
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Venlo_vs_Dordrecht (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NETHERLANDS - EERSTE DIVISIE - ROUND 21'.
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [Extractor Validation] Updated League to: NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+            [OK Signal] Eindhoven FC_vs_Jong AZ
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NETHERLANDS - EERSTE DIVISIE - ROUND 21'.
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [Extractor Validation] Updated League to: NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+            [OK Signal] Venlo_vs_Dordrecht
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NETHERLANDS - EERSTE DIVISIE - ROUND 21'.
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [Extractor Validation] Updated League to: NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [DB] UPSERTed 20 standings entries for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+      [OK Standing] Standings tab data extracted for NETHERLANDS - EERSTE DIVISIE - ROUND 21
+            [OK Signal] Den Haag_vs_Jong PSV
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Vaduz vs Aarau: 19.12.2025 - 19:15
+    [Batch Start] Dortmund vs B. Monchengladbach: 19.12.2025 - 19:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Bari vs Catanzaro: 19.12.2025 - 19:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Etoile-Carouge_vs_Lausanne Ouchy (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'SWITZERLAND - CHALLENGE LEAGUE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+            [OK Signal] Etoile-Carouge_vs_Lausanne Ouchy
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Dortmund_vs_B. Monchengladbach (25 matches found)
+    [Batch Start] Audace Cerignola vs Benevento: 19.12.2025 - 19:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Vaduz_vs_Aarau (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bari_vs_Catanzaro (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'GERMANY - BUNDESLIGA - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for GERMANY - BUNDESLIGA - ROUND 15
+      [OK Standing] Standings tab data extracted for GERMANY - BUNDESLIGA - ROUND 15
+      [Extractor Validation] Updated League to: GERMANY - BUNDESLIGA - ROUND 15
+      [DB] UPSERTed 18 standings entries for GERMANY - BUNDESLIGA - ROUND 15
+      [OK Standing] Standings tab data extracted for GERMANY - BUNDESLIGA - ROUND 15
+            [OK Signal] Dortmund_vs_B. Monchengladbach
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'SWITZERLAND - CHALLENGE LEAGUE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [DB] UPSERTed 10 standings entries for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - CHALLENGE LEAGUE - ROUND 18
+            [OK Signal] Vaduz_vs_Aarau
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE B - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 17
+      [Extractor Validation] Updated League to: ITALY - SERIE B - ROUND 17
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 17
+            [OK Signal] Bari_vs_Catanzaro
+    [Batch Start] Cosenza vs Cavese: 19.12.2025 - 19:30
+    [Batch Start] Giugliano vs Casertana: 19.12.2025 - 19:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Eibar vs Valladolid: 19.12.2025 - 19:30
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Audace Cerignola_vs_Benevento (24 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE C - GROUP C - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+      [Extractor Validation] Updated League to: ITALY - SERIE C - GROUP C - ROUND 19
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+            [OK Signal] Audace Cerignola_vs_Benevento
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Charleroi vs Genk: 19.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Cosenza_vs_Cavese (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Eibar_vs_Valladolid (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Giugliano_vs_Casertana (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE C - GROUP C - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+      [Extractor Validation] Updated League to: ITALY - SERIE C - GROUP C - ROUND 19
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+            [OK Signal] Cosenza_vs_Cavese
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE C - GROUP C - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+      [Extractor Validation] Updated League to: ITALY - SERIE C - GROUP C - ROUND 19
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE C - GROUP C - ROUND 19
+      [OK Standing] Standings tab data extracted for ITALY - SERIE C - GROUP C - ROUND 19
+            [OK Signal] Giugliano_vs_Casertana
+      [Extractor] Found 22 teams in standings for 'SPAIN - LALIGA2 - ROUND 19'.
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+      [Extractor Validation] Updated League to: SPAIN - LALIGA2 - ROUND 19
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+            [OK Signal] Eibar_vs_Valladolid
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Northampton vs AFC Wimbledon: 19.12.2025 - 19:45
+    [Batch Start] Barrow vs Cheltenham: 19.12.2025 - 19:45
+    [Batch Start] Cambridge Utd vs Accrington: 19.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Charleroi_vs_Genk (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BELGIUM - JUPILER PRO LEAGUE - ROUND 19'.
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 19
+      [Extractor Validation] Updated League to: BELGIUM - JUPILER PRO LEAGUE - ROUND 19
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 19
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 19
+            [OK Signal] Charleroi_vs_Genk
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Crewe vs Bristol Rovers: 19.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Northampton_vs_AFC Wimbledon (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Barrow_vs_Cheltenham (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 21'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 21
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 21
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 21
+            [OK Signal] Northampton_vs_AFC Wimbledon
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cambridge Utd_vs_Accrington (25 matches found)
+    [Batch Start] Glentoran vs Coleraine: 19.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 21'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 21
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+            [OK Signal] Barrow_vs_Cheltenham
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 21'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 21
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+            [OK Signal] Cambridge Utd_vs_Accrington
+    [Batch Start] Valencia vs Mallorca: 19.12.2025 - 20:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Crewe_vs_Bristol Rovers (25 matches found)
+    [Batch Start] Swansea vs Wrexham: 19.12.2025 - 20:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 21'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 21
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 21
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 21
+            [OK Signal] Crewe_vs_Bristol Rovers
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Hound Dogs vs Manchester 62: 19.12.2025 - 20:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Glentoran_vs_Coleraine (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 21
+            [OK Signal] Glentoran_vs_Coleraine
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Batch Start] Mosta vs Naxxar: 19.12.2025 - 20:00
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Valencia_vs_Mallorca (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - LALIGA - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - LALIGA - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - LALIGA - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - LALIGA - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA - ROUND 17
+            [OK Signal] Valencia_vs_Mallorca
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Swansea_vs_Wrexham (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Estoril vs Braga: 19.12.2025 - 20:15
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 22
+            [OK Signal] Swansea_vs_Wrexham
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Hound Dogs_vs_Manchester 62 (21 matches found)
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Merida AD vs Ath Bilbao B: 19.12.2025 - 20:15
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'GIBRALTAR - NATIONAL LEAGUE - ROUND 16'.
+      [DB] UPSERTed 12 standings entries for GIBRALTAR - NATIONAL LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for GIBRALTAR - NATIONAL LEAGUE - ROUND 16
+      [Extractor Validation] Updated League to: GIBRALTAR - NATIONAL LEAGUE - ROUND 16
+      [DB] UPSERTed 12 standings entries for GIBRALTAR - NATIONAL LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for GIBRALTAR - NATIONAL LEAGUE - ROUND 16
+            [OK Signal] Hound Dogs_vs_Manchester 62
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mosta_vs_Naxxar (25 matches found)
+    [Batch Start] Sando vs Police: 19.12.2025 - 22:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 6 teams in standings for 'MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14'.
+      [DB] UPSERTed 6 standings entries for MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14
+      [OK Standing] Standings tab data extracted for MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14
+      [Extractor Validation] Updated League to: MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14
+      [DB] UPSERTed 6 standings entries for MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14
+      [OK Standing] Standings tab data extracted for MALTA - PREMIER LEAGUE - FIRST STAGE - PLAY OUT - ROUND 14
+            [OK Signal] Mosta_vs_Naxxar
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Estoril_vs_Braga (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Merida AD_vs_Ath Bilbao B (20 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'PORTUGAL - LIGA PORTUGAL - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 15
+            [OK Signal] Estoril_vs_Braga
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+            [OK Signal] Merida AD_vs_Ath Bilbao B
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sando_vs_Police (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+            [OK Signal] Sando_vs_Police
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 20.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 334 valid fixtures. (Sorted by Time)
+    [Batching] Processing 334 matches concurrently...
+    [Batch Start] Deportivo Nacional vs Estrella: 20.12.2025 - 00:00
+    [Batch Start] Espoir vs Golden Star: 20.12.2025 - 00:00
+    [Batch Start] Aiglon Lamentin vs Golden Lion: 20.12.2025 - 00:00
+    [Batch Start] Morne des Esses vs Club Colonial: 20.12.2025 - 00:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 11 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Morne des Esses_vs_Club Colonial (16 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Aiglon Lamentin_vs_Golden Lion (23 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Espoir_vs_Golden Star (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12'.
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [Extractor Validation] Updated League to: MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+            [OK Signal] Morne des Esses_vs_Club Colonial
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 14 teams in standings for 'MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12'.
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [Extractor Validation] Updated League to: MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+            [OK Signal] Aiglon Lamentin_vs_Golden Lion
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Deportivo Nacional_vs_Estrella (25 matches found)
+    [Batch Start] Trenelle vs Robert: 20.12.2025 - 00:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] La Horquetta vs Defence Force: 20.12.2025 - 00:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12'.
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [Extractor Validation] Updated League to: MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+            [OK Signal] Espoir_vs_Golden Star
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ARUBA - DIVISION DI HONOR - ROUND 7'.
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 7
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 7
+      [Extractor Validation] Updated League to: ARUBA - DIVISION DI HONOR - ROUND 7
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 7
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 7
+            [OK Signal] Deportivo Nacional_vs_Estrella
+    [Batch Start] Wellington Phoenix W vs Sydney W: 20.12.2025 - 03:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Sethu W vs Kickstart W: 20.12.2025 - 03:30
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...

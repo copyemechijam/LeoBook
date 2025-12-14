@@ -1320,3 +1320,92 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Cottbus_vs_Regensburg (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 7 teams in standings for 'EGYPT - LEAGUE CUP - ROUND 2'.
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 2
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 2
+      [Extractor Validation] Updated League to: EGYPT - LEAGUE CUP - ROUND 2
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 2
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 2
+            [OK Signal] Ceramica Cleopatra_vs_Al Ahly
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 7 teams in standings for 'EGYPT - LEAGUE CUP - ROUND 2'.
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 2
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 2
+      [Extractor Validation] Updated League to: EGYPT - LEAGUE CUP - ROUND 2
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 2
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 2
+            [OK Signal] Ghazl El Mahallah_vs_Pharco
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'GERMANY - 3. LIGA - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for GERMANY - 3. LIGA - ROUND 19
+      [OK Standing] Standings tab data extracted for GERMANY - 3. LIGA - ROUND 19
+      [Extractor Validation] Updated League to: GERMANY - 3. LIGA - ROUND 19
+      [DB] UPSERTed 20 standings entries for GERMANY - 3. LIGA - ROUND 19
+      [OK Standing] Standings tab data extracted for GERMANY - 3. LIGA - ROUND 19
+            [OK Signal] Cottbus_vs_Regensburg
+    [Batch Start] Algeciras vs Villarreal B: 19.12.2025 - 18:00
+    [Batch Start] Flamurtari vs Teuta: 19.12.2025 - 18:30
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Stade Nyonnais vs Xamax: 19.12.2025 - 18:30
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for FC Botosani_vs_CFR Cluj (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'ROMANIA - SUPERLIGA - ROUND 21'.
+      [DB] UPSERTed 16 standings entries for ROMANIA - SUPERLIGA - ROUND 21
+      [OK Standing] Standings tab data extracted for ROMANIA - SUPERLIGA - ROUND 21
+      [Extractor Validation] Updated League to: ROMANIA - SUPERLIGA - ROUND 21
+      [DB] UPSERTed 16 standings entries for ROMANIA - SUPERLIGA - ROUND 21
+      [OK Standing] Standings tab data extracted for ROMANIA - SUPERLIGA - ROUND 21
+            [OK Signal] FC Botosani_vs_CFR Cluj
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Gent U23 vs Seraing: 19.12.2025 - 19:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Algeciras_vs_Villarreal B (24 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Flamurtari_vs_Teuta (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+            [OK Signal] Algeciras_vs_Villarreal B
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stade Nyonnais_vs_Xamax (25 matches found)
