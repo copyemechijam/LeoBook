@@ -256,7 +256,7 @@ def get_predictions_to_review() -> List[Dict]:
                 match_date = dt.strptime(match_date_str, "%d.%m.%Y").date()
                 status = row.get('status')
 
-                if match_date < today and status not in ['reviewed', 'review_failed']:
+                if match_date < today and status not in ['reviewed', 'match_canceled', 'review_failed', 'match_postponed']:
                     fixture_id = row.get('fixture_id')
                     # --- OPTIMIZATION: Check local DB first ---
                     if fixture_id and fixture_id in schedule_db:
@@ -427,7 +427,7 @@ async def process_review_task(match, browser, semaphore):
             if url and not url.startswith('http'):
                 url = f"https://www.flashscore.com{url}"
                 
-            print(f"  [Web Check] {home_team} vs {away_team}")
+            print(f"  [Score Check] {home_team} vs {away_team}")
             
             try:
                 await page.goto(url, wait_until="domcontentloaded", timeout=30000)
@@ -452,7 +452,7 @@ async def process_review_task(match, browser, semaphore):
                 print(f"    [Fail] Could not extract score.")
                 save_single_outcome({'ID': match_id}, 'review_failed')
             else:
-                print(f"    [Success] Score: {final_score}")
+                print(f"    [Success] {home_team} vs {away_team} Score: {final_score}")
                 match['actual_score'] = final_score
                 save_single_outcome(match, 'reviewed')
 

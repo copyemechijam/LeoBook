@@ -387,8 +387,16 @@ async def run_flashscore_analysis(browser: Browser):
                 print(f"    [Resume] Match found at index {found_index}. Skipping {found_index + 1} previously processed matches.")
                 valid_matches = valid_matches[found_index + 1:]
             except IndexError:
-                 print(f"    [Resume] Last processed ID {last_id} not found in current scan. Starting day from beginning.")
-
+                 print(f"    [Resume] Last processed ID {last_id} not found in current scan. Trying to start from last 5 matches.")
+                 if len(valid_matches) >= 5:
+                     valid_matches = valid_matches[-5:]
+                 else:
+                     print(f"    [Resume] Less than 5 matches, trying last 10.")
+                     if len(valid_matches) >= 10:
+                         valid_matches = valid_matches[-10:]
+                     else:
+                         print(f"    [Resume] Less than 10 matches, starting from beginning.")
+                 
         # --- Batch Processing ---
         if valid_matches:
             print(f"    [Batching] Processing {len(valid_matches)} matches concurrently...")
