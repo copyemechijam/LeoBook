@@ -1,0 +1,123 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-14 15:04:13 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 0 past predictions to review (Limit: 50).
+--- No new past matches to review. ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+  [Accuracy] No reviewed predictions found.
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID 6XJZdCuI on 14.12.2025
+
+--- ANALYZING DATE: 14.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Extractor] Extracting match data from page...
+    [Time Filter] Removed 261 past matches for today.
+    [Matches Found] 88 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: 6XJZdCuI on this date.
+    [Resume] Match found at index 0. Skipping 1 previously processed matches.
+    [Batching] Processing 87 matches concurrently...
+    [Batch Start] Lens vs Nice: 14.12.2025 - 16:15
+    [Batch Start] Strasbourg vs Lorient: 14.12.2025 - 16:15
+    [Batch Start] Auxerre vs Lille: 14.12.2025 - 16:15
+    [Batch Start] Pescara vs Frosinone: 14.12.2025 - 16:15
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Pescara_vs_Frosinone (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Strasbourg_vs_Lorient (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Lens_vs_Nice (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Auxerre_vs_Lille (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'FRANCE - LIGUE 1 - ROUND 16'.
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+      [Extractor Validation] Updated League to: FRANCE - LIGUE 1 - ROUND 16
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+            [OK Signal] Strasbourg_vs_Lorient
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE B - ROUND 16'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 16
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 16
+      [Extractor Validation] Updated League to: ITALY - SERIE B - ROUND 16
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 16
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 16
+            [OK Signal] Pescara_vs_Frosinone
+      [Extractor] Found 18 teams in standings for 'FRANCE - LIGUE 1 - ROUND 16'.
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+      [Extractor Validation] Updated League to: FRANCE - LIGUE 1 - ROUND 16
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+            [OK Signal] Lens_vs_Nice
+    [Batch Start] Bullom Stars vs Star Sport Academy: 14.12.2025 - 16:15
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'FRANCE - LIGUE 1 - ROUND 16'.
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+      [Extractor Validation] Updated League to: FRANCE - LIGUE 1 - ROUND 16
+      [DB] UPSERTed 18 standings entries for FRANCE - LIGUE 1 - ROUND 16
+      [OK Standing] Standings tab data extracted for FRANCE - LIGUE 1 - ROUND 16
+            [OK Signal] Auxerre_vs_Lille
+    [Batch Start] Kamboi Eagles vs Wilberforce Strikers: 14.12.2025 - 16:15
+    [Batch Start] Diamond Stars vs Wusum Stars: 14.12.2025 - 16:15
+    [Batch Start] Brentford vs Leeds: 14.12.2025 - 16:30
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+
+   --- LEO: Shutting down gracefully. ---
