@@ -860,3 +860,408 @@
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
     [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
     [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 11 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Trenelle_vs_Robert (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for La Horquetta_vs_Defence Force (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12'.
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [Extractor Validation] Updated League to: MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [DB] UPSERTed 14 standings entries for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+      [OK Standing] Standings tab data extracted for MARTINIQUE - TROPHEE GERARD JANVION - ROUND 12
+            [OK Signal] Trenelle_vs_Robert
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 9
+            [OK Signal] La Horquetta_vs_Defence Force
+    [Batch Start] Kaohsiung W vs Taichung Sakura W: 20.12.2025 - 04:30
+    [Batch Start] Japan U18 vs Spain U19: 20.12.2025 - 04:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Sethu W_vs_Kickstart W (24 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Wellington Phoenix W_vs_Sydney W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 1'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 1
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 1
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 1
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 1
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 1
+            [OK Signal] Sethu W_vs_Kickstart W
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 8'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+            [OK Signal] Wellington Phoenix W_vs_Sydney W
+    [Batch Start] C-Osaka W vs Inac Kobe Leonesa W: 20.12.2025 - 05:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Mynavi Sendai W vs Omiya Ardija W: 20.12.2025 - 05:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Japan U18_vs_Spain U19 (20 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor Validation] Updated League to: WORLD - FRIENDLY INTERNATIONAL
+            [OK Signal] Japan U18_vs_Spain U19
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Parceiro Nagano W vs Beleza W: 20.12.2025 - 05:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Kaohsiung W_vs_Taichung Sakura W (21 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11'.
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [Extractor Validation] Updated League to: TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+            [OK Signal] Kaohsiung W_vs_Taichung Sakura W
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for C-Osaka W_vs_Inac Kobe Leonesa W (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Saitama W vs JEF United W: 20.12.2025 - 05:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] C-Osaka W_vs_Inac Kobe Leonesa W
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mynavi Sendai W_vs_Omiya Ardija W (25 matches found)
+    [Batch Start] Sanfrecce Hiroshima W vs Nojima Stella W: 20.12.2025 - 05:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Parceiro Nagano W_vs_Beleza W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] Mynavi Sendai W_vs_Omiya Ardija W
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] Parceiro Nagano W_vs_Beleza W
+    [Batch Start] Urawa W vs Albirex Niigata W: 20.12.2025 - 05:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Goa FT vs Services: 20.12.2025 - 05:30
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Saitama W_vs_JEF United W (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Cookies] Accepted via OneTrust
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sanfrecce Hiroshima W_vs_Nojima Stella W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] Saitama W_vs_JEF United W
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] Sanfrecce Hiroshima W_vs_Nojima Stella W
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Newcastle Jets vs Sydney FC: 20.12.2025 - 06:00
+    [Batch Start] Canberra W vs Central Coast Mariners W: 20.12.2025 - 06:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Urawa W_vs_Albirex Niigata W (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'JAPAN - WE LEAGUE WOMEN - ROUND 14'.
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [Extractor Validation] Updated League to: JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [DB] UPSERTed 12 standings entries for JAPAN - WE LEAGUE WOMEN - ROUND 14
+      [OK Standing] Standings tab data extracted for JAPAN - WE LEAGUE WOMEN - ROUND 14
+            [OK Signal] Urawa W_vs_Albirex Niigata W
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Goa FT_vs_Services (23 matches found)
+    [Batch Start] Taipei Bravo W vs Taichung Blue W: 20.12.2025 - 07:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Goa FT_vs_Services
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Hang Yuen W vs AC Taipei W: 20.12.2025 - 07:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Newcastle Jets_vs_Sydney FC (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Canberra W_vs_Central Coast Mariners W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 9
+            [OK Signal] Newcastle Jets_vs_Sydney FC
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 8'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+            [OK Signal] Canberra W_vs_Central Coast Mariners W
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Bangladesh Police vs Bashundara Kings: 20.12.2025 - 08:30
+    [Batch Start] Fortis vs Fakirerpool YMC: 20.12.2025 - 08:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 5 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Hang Yuen W_vs_AC Taipei W (16 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Taipei Bravo W_vs_Taichung Blue W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11'.
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [Extractor Validation] Updated League to: TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+            [OK Signal] Hang Yuen W_vs_AC Taipei W
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11'.
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [Extractor Validation] Updated League to: TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [DB] UPSERTed 8 standings entries for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+      [OK Standing] Standings tab data extracted for TAIWAN - MULAN FOOTBALL LEAGUE WOMEN - ROUND 11
+            [OK Signal] Taipei Bravo W_vs_Taichung Blue W
+    [Batch Start] Mohammedan vs Arambagh: 20.12.2025 - 08:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Dewa United vs Persis Solo: 20.12.2025 - 08:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bangladesh Police_vs_Bashundara Kings (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Fortis_vs_Fakirerpool YMC (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 7'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 7
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+            [OK Signal] Bangladesh Police_vs_Bashundara Kings
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 7'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 7
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+            [OK Signal] Fortis_vs_Fakirerpool YMC
+    [Batch Start] Melbourne City vs Melbourne Victory: 20.12.2025 - 08:35
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Batch Start] Karnataka vs Lakshadweep: 20.12.2025 - 09:30
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mohammedan_vs_Arambagh (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 7'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 7
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 7
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 7
+            [OK Signal] Mohammedan_vs_Arambagh
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Dewa United_vs_Persis Solo (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Garhwal United W vs Sesa FA W: 20.12.2025 - 09:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'INDONESIA - SUPER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: INDONESIA - SUPER LEAGUE - ROUND 15
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 15
+            [OK Signal] Dewa United_vs_Persis Solo
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Nita FA W vs Gokulam Kerala W: 20.12.2025 - 09:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Melbourne City_vs_Melbourne Victory (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 9
+            [OK Signal] Melbourne City_vs_Melbourne Victory
