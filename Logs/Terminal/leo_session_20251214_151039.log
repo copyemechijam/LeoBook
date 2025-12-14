@@ -1,0 +1,337 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-14 15:10:40 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 0 past predictions to review (Limit: 50).
+--- No new past matches to review. ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.0% Accurate - 298 Predictions
+  High Confidence: 61.5% Accurate - 13 Predictions
+  Low Confidence: 54.9% Accurate - 142 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Saturday, 13th December, 2025: 53.2% Accurate - 453 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID jDFYevjl on 16.12.2025
+
+--- SKIPPING DAY: 14.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via text: I Accept
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 15.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 16.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 46 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: jDFYevjl on this date.
+    [Resume] Match found at index 31. Skipping 32 previously processed matches.
+    [Batching] Processing 14 matches concurrently...
+    [Batch Start] Bristol City U21 vs Derby U21: 16.12.2025 - 19:00
+    [Batch Start] K. Lierse S.K. vs Kortrijk: 16.12.2025 - 19:00
+    [Batch Start] OC Charleroi vs Lommel SK: 16.12.2025 - 19:00
+    [Batch Start] Blackburn U21 vs Watford U21: 16.12.2025 - 19:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for OC Charleroi_vs_Lommel SK (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for K. Lierse S.K._vs_Kortrijk (21 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Blackburn U21_vs_Watford U21 (21 matches found)
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Bristol City U21_vs_Derby U21 (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 17 teams in standings for 'BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18'.
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+            [OK Signal] OC Charleroi_vs_Lommel SK
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 17 teams in standings for 'BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18'.
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [DB] UPSERTed 17 standings entries for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for BELGIUM - CHALLENGER PRO LEAGUE - ROUND 18
+            [OK Signal] K. Lierse S.K._vs_Kortrijk
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Bristol City U21_vs_Derby U21
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Blackburn U21_vs_Watford U21
+    [Batch Start] Charlton U21 vs Leicester U21: 16.12.2025 - 19:00
+    [Batch Start] Exeter U21 vs West Brom U21: 16.12.2025 - 19:00
+    [Batch Start] Millwall U21 vs Nottingham U21: 16.12.2025 - 19:00
+    [Batch Start] Leeds U21 vs Dortmund II: 16.12.2025 - 19:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Charlton U21_vs_Leicester U21 (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 12 home, 5 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Exeter U21_vs_West Brom U21 (18 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Millwall U21_vs_Nottingham U21 (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] No expansion buttons found or failed to load.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Warning] Failed to fully load/expand H2H tab for Leeds U21_vs_Dortmund II: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("a.h2h__row") to be visible
+
+      [Error] Match failed Leeds U21_vs_Dortmund II: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Leeds U21_vs_Dortmund II'. See 'Logs/Errors' folder.
+      [Extractor] Extracting Standings tab...
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Charlton U21_vs_Leicester U21
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Exeter U21_vs_West Brom U21
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'ENGLAND - PREMIER LEAGUE CUP'.
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE CUP
+      [DB] UPSERTed 4 standings entries for ENGLAND - PREMIER LEAGUE CUP
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE CUP
+            [OK Signal] Millwall U21_vs_Nottingham U21
+    [Batch Start] St. Gallen vs Sion: 16.12.2025 - 19:30
+    [Batch Start] Manchester City U21 vs Real Madrid U21: 16.12.2025 - 19:00
+    [Batch Start] Winterthur vs Thun: 16.12.2025 - 19:30
+    [Batch Start] Afan Lido vs Ynyshir Albions: 16.12.2025 - 19:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] No expansion buttons found or failed to load.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Warning] Failed to fully load/expand H2H tab for Manchester City U21_vs_Real Madrid U21: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("a.h2h__row") to be visible
+
+      [Error] Match failed Manchester City U21_vs_Real Madrid U21: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Manchester City U21_vs_Real Madrid U21'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Batch Start] Llandudno vs Mold Alexandra: 16.12.2025 - 19:30
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Afan Lido_vs_Ynyshir Albions (23 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Winterthur_vs_Thun (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for St. Gallen_vs_Sion (25 matches found)
+      [Error] Match failed St. Gallen_vs_Sion: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_St. Gallen_vs_Sion'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'WALES - CYMRU SOUTH - ROUND 16'.
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU SOUTH - ROUND 16
+      [OK Standing] Standings tab data extracted for WALES - CYMRU SOUTH - ROUND 16
+      [Extractor Validation] Updated League to: WALES - CYMRU SOUTH - ROUND 16
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU SOUTH - ROUND 16
+      [OK Standing] Standings tab data extracted for WALES - CYMRU SOUTH - ROUND 16
+            [OK Signal] Afan Lido_vs_Ynyshir Albions
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'SWITZERLAND - SUPER LEAGUE - ROUND 18'.
+      [DB] UPSERTed 12 standings entries for SWITZERLAND - SUPER LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - SUPER LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: SWITZERLAND - SUPER LEAGUE - ROUND 18
+      [DB] UPSERTed 12 standings entries for SWITZERLAND - SUPER LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for SWITZERLAND - SUPER LEAGUE - ROUND 18
+            [OK Signal] Winterthur_vs_Thun
+    [Batch Start] Cardiff Metropolitan vs Briton Ferry: 16.12.2025 - 19:45
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Llandudno_vs_Mold Alexandra (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'WALES - CYMRU NORTH - ROUND 16'.
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU NORTH - ROUND 16
+      [OK Standing] Standings tab data extracted for WALES - CYMRU NORTH - ROUND 16
+      [Extractor Validation] Updated League to: WALES - CYMRU NORTH - ROUND 16
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU NORTH - ROUND 16
+      [OK Standing] Standings tab data extracted for WALES - CYMRU NORTH - ROUND 16
+            [OK Signal] Llandudno_vs_Mold Alexandra
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cardiff Metropolitan_vs_Briton Ferry (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'WALES - CYMRU PREMIER - ROUND 17'.
+      [DB] UPSERTed 12 standings entries for WALES - CYMRU PREMIER - ROUND 17
+      [OK Standing] Standings tab data extracted for WALES - CYMRU PREMIER - ROUND 17
+      [Extractor Validation] Updated League to: WALES - CYMRU PREMIER - ROUND 17
+      [DB] UPSERTed 12 standings entries for WALES - CYMRU PREMIER - ROUND 17
+      [OK Standing] Standings tab data extracted for WALES - CYMRU PREMIER - ROUND 17
+            [OK Signal] Cardiff Metropolitan_vs_Briton Ferry
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("button[data-day-picker-arrow=\"next\"]").first
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 11 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+   --- LEO: Shutting down gracefully. ---
