@@ -1,0 +1,182 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-15 06:13:40 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 50 past predictions to review (Limit: 50).
+[Processing] Starting batch review for 50 matches...
+  [Score Check] Britannia vs Bubali (Attempt 1)
+  [Score Check] Libertad vs LDU Quito (Attempt 1)
+  [Score Check] Cavalier vs Racing United (Attempt 1)
+  [Score Check] Barcelona SC vs Orense (Attempt 1)
+  [Score Check] U. Catolica vs Ind. del Valle (Attempt 1)
+    [Success] Britannia vs Bubali -> Score: 2-5
+  [Score Check] Nacional Potosi vs Tomayapo (Attempt 1)
+    [Success] Cavalier vs Racing United -> Score: 1-4
+    [Success] U. Catolica vs Ind. del Valle -> Score: 0-1
+    [Success] Barcelona SC vs Orense -> Score: 2-1
+    [Success] Libertad vs LDU Quito -> Score: 2-1
+  [Score Check] Point Fortin vs 1976 Phoenix FC (Attempt 1)
+  [Score Check] Guabira vs Blooming (Attempt 1)
+  [Score Check] Arouca vs Alverca (Attempt 1)
+  [Score Check] Platense vs Olancho (Attempt 1)
+    [Success] Nacional Potosi vs Tomayapo -> Score: 1-0
+  [Score Check] Ceuta vs Las Palmas (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Arouca vs Alverca -> Score: 1-0
+  [Score Check] AD Fafe vs Trofense (Attempt 1)
+    [Success] Guabira vs Blooming -> Score: 1-0
+  [Score Check] Portmore vs Mount Pleasant (Attempt 1)
+    [Success] Platense vs Olancho -> Score: 1-1
+  [Score Check] Harbour View vs Molynes (Attempt 1)
+    [Success] Point Fortin vs 1976 Phoenix FC -> Score: 1-2
+  [Score Check] Dunbeholden vs Chapelton (Attempt 1)
+    [Success] Ceuta vs Las Palmas -> Score: 1-1
+  [Score Check] St. Davids vs St. John's (Attempt 1)
+    [Success] Harbour View vs Molynes -> Score: 0-0
+    [Success] Dunbeholden vs Chapelton -> Score: 0-0
+  [Score Check] SAB Spartans vs Queens Park Rangers (Attempt 1)
+  [Score Check] Shamrock vs Camerhogne (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] St. Davids vs St. John's -> Score: 2-7
+  [Score Check] North Stars vs Paradise (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] AD Fafe vs Trofense -> Score: 1-2
+  [Score Check] Dakota vs Sporting (Attempt 1)
+    [Success] Portmore vs Mount Pleasant -> Score: 0-2
+  [Score Check] Bologna vs Juventus (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Bologna vs Juventus -> Score: 0-1
+  [Score Check] Alaves vs Real Madrid (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Dakota vs Sporting -> Score: 4-1
+  [Score Check] Marseille vs Monaco (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Success] Marseille vs Monaco -> Score: 1-0
+  [Score Check] Atl. Madrid B vs Sevilla FC B (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Alaves vs Real Madrid -> Score: 1-2
+  [Score Check] Altamura vs Audace Cerignola (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Atl. Madrid B vs Sevilla FC B -> Score: 1-0
+  [Score Check] Arzignano vs Pro Patria (Attempt 1)
+    [Success] Altamura vs Audace Cerignola -> Score: 1-1
+  [Score Check] Universidad O&M vs Atlantico (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Arzignano vs Pro Patria -> Score: 2-1
+  [Score Check] Salcedo vs Cibao (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Universidad O&M vs Atlantico -> Score: 0-2
+  [Score Check] Legia vs Piast Gliwice (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Salcedo vs Cibao -> Score: 0-1
+  [Score Check] Panathinaikos vs Volos (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Legia vs Piast Gliwice -> Score: 0-1
+  [Score Check] Oriente Petrolero vs Bolivar (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Panathinaikos vs Volos -> Score: 2-1
+  [Score Check] The Strongest vs Wilstermann (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Oriente Petrolero vs Bolivar -> Score: 1-3
+  [Score Check] Independiente vs Always Ready (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] The Strongest vs Wilstermann -> Score: 6-0
+  [Score Check] FC Hermannstadt vs Univ. Craiova (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Independiente vs Always Ready -> Score: 5-2
+  [Score Check] Lions Gibraltar vs Lincoln Red Imps (Attempt 1)
+    [Success] FC Hermannstadt vs Univ. Craiova -> Score: 0-2
+  [Score Check] Schweinfurt vs TSV Havelse (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Schweinfurt vs TSV Havelse -> Score: 2-3
+  [Score Check] Werder Bremen vs Stuttgart (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Werder Bremen vs Stuttgart -> Score: 0-4
+  [Score Check] Maccabi Bnei Raina vs Maccabi Haifa (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Maccabi Bnei Raina vs Maccabi Haifa -> Score: 0-4
+  [Score Check] Genk vs Westerlo (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Shamrock vs Camerhogne Could not extract score from page.
+      Retrying in 5 seconds...
+    [Success] Genk vs Westerlo -> Score: 1-1
+  [Score Check] Pacos Ferreira vs Lusitania FC (Attempt 1)
+    [Fail] SAB Spartans vs Queens Park Rangers Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] North Stars vs Paradise Could not extract score from page.
+      Retrying in 5 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Pacos Ferreira vs Lusitania FC -> Score: 1-5
+  [Score Check] Moreirense vs Benfica (Attempt 1)
+  [Score Check] Shamrock vs Camerhogne (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] SAB Spartans vs Queens Park Rangers (Attempt 2)
+  [Score Check] North Stars vs Paradise (Attempt 2)
+    [Success] Moreirense vs Benfica -> Score: 0-4
+  [Score Check] Olympique Sport vs ASEC Mimosas (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Olympique Sport vs ASEC Mimosas -> Score: 1-1
+  [Score Check] Aris vs Olympiacos Piraeus (Attempt 1)
+    [Fail] Lions Gibraltar vs Lincoln Red Imps Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Lions Gibraltar vs Lincoln Red Imps (Attempt 2)
+    [Success] Aris vs Olympiacos Piraeus -> Score: 0-0
+  [Score Check] Atletic Escaldes vs Penya (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Atletic Escaldes vs Penya -> Score: 2-0
+  [Score Check] Dinamo Tirana vs Egnatia (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Dinamo Tirana vs Egnatia -> Score: 1-2
+  [Score Check] Kisvarda vs Zalaegerszegi (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Kisvarda vs Zalaegerszegi -> Score: 3-3
+  [Score Check] Os Belenenses vs Academica (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Os Belenenses vs Academica -> Score: 1-1
+  [Score Check] Almeria vs Burgos CF (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Almeria vs Burgos CF -> Score: 1-2
+  [Score Check] RB Leipzig W vs Hoffenheim W (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] RB Leipzig W vs Hoffenheim W -> Score: 2-3
+  [Score Check] Sparta Prague vs Liberec (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sparta Prague vs Liberec -> Score: 2-2
+    [Fail] Lions Gibraltar vs Lincoln Red Imps Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Lions Gibraltar vs Lincoln Red Imps (Attempt 3)
+    [Fail] Shamrock vs Camerhogne Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] North Stars vs Paradise Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] SAB Spartans vs Queens Park Rangers Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Shamrock vs Camerhogne (Attempt 3)
+  [Score Check] North Stars vs Paradise (Attempt 3)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] SAB Spartans vs Queens Park Rangers (Attempt 3)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Lions Gibraltar vs Lincoln Red Imps Could not extract score from page.
+    [Review Failed] Lions Gibraltar vs Lincoln Red Imps
+    [Fail] North Stars vs Paradise Could not extract score from page.
+    [Review Failed] North Stars vs Paradise
+    [Fail] SAB Spartans vs Queens Park Rangers Could not extract score from page.
+    [Review Failed] SAB Spartans vs Queens Park Rangers
+
+   --- LEO: Shutting down gracefully. ---

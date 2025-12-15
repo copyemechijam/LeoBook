@@ -1,0 +1,205 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-15 06:20:37 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 50 past predictions to review (Limit: 50).
+[Processing] Starting batch review for 50 matches...
+  [Score Check] Shamrock vs Camerhogne (Attempt 1)
+  [Score Check] Sanluqueno vs Hercules (Attempt 1)
+  [Score Check] Levante vs Villarreal (Attempt 1)
+  [Score Check] Gimnastic vs FC Cartagena SAD (Attempt 1)
+  [Score Check] Charleroi vs Royale Union SG (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sanluqueno vs Hercules -> Score: 1-1
+  [Score Check] Pontevedra vs Arenas Getxo (Attempt 1)
+    [Success] Gimnastic vs FC Cartagena SAD -> Score: 2-0
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Trabzonspor vs Besiktas (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Charleroi vs Royale Union SG -> Score: 1-1
+  [Score Check] Valletta vs Sliema (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Valletta vs Sliema -> Score: 1-2
+  [Score Check] Samsunspor vs Basaksehir (Attempt 1)
+    [Success] Trabzonspor vs Besiktas -> Score: 3-3
+  [Score Check] Paralimni vs Pafos (Attempt 1)
+    [Fail] Levante vs Villarreal Could not extract score from page.
+      Retrying in 5 seconds...
+    [Success] Pontevedra vs Arenas Getxo -> Score: 2-0
+  [Score Check] Apollon vs Aris (Attempt 1)
+    [Success] Samsunspor vs Basaksehir -> Score: 0-2
+  [Score Check] Genoa vs Inter (Attempt 1)
+  [Score Check] Levante vs Villarreal (Attempt 2)
+    [Success] Paralimni vs Pafos -> Score: 0-2
+  [Score Check] Istra 1961 vs Rijeka (Attempt 1)
+    [Success] Apollon vs Aris -> Score: 0-2
+    [Success] Genoa vs Inter -> Score: 1-2
+  [Score Check] US Goree vs Pikine (Attempt 1)
+  [Score Check] Ouakam vs AJEL (Attempt 1)
+    [Success] Istra 1961 vs Rijeka -> Score: 1-1
+  [Score Check] Linguere vs Sonacos (Attempt 1)
+    [Success] US Goree vs Pikine -> Score: 0-0
+  [Score Check] Guediawaye vs Jaraaf (Attempt 1)
+    [Success] Ouakam vs AJEL -> Score: 1-2
+  [Score Check] Casa vs Teungueth (Attempt 1)
+    [Fail] Shamrock vs Camerhogne Could not extract score from page.
+      Retrying in 5 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Linguere vs Sonacos -> Score: 0-1
+  [Score Check] ASC HLM vs Wally Daan (Attempt 1)
+  [Score Check] Shamrock vs Camerhogne (Attempt 2)
+    [Success] Guediawaye vs Jaraaf -> Score: 1-2
+    [Success] Casa vs Teungueth -> Score: 0-0
+  [Score Check] AS Camberene vs Mbour (Attempt 1)
+  [Score Check] Shamal vs Al Ahli Doha (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Fail] Levante vs Villarreal Could not extract score from page.
+      Retrying in 10 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] ASC HLM vs Wally Daan -> Score: 2-2
+  [Score Check] Al-Shahaniya vs Al-Duhail (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Levante vs Villarreal (Attempt 3)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] AS Camberene vs Mbour -> Score: 2-1
+  [Score Check] Motor Lublin vs Jagiellonia (Attempt 1)
+    [Success] Shamal vs Al Ahli Doha -> Score: 0-1
+  [Score Check] Casertana vs Latina (Attempt 1)
+    [Success] Al-Shahaniya vs Al-Duhail -> Score: 2-0
+  [DB Check] Benevento vs Giugliano -> Score: 4-0
+  [Score Check] Guidonia vs Ascoli (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Guidonia vs Ascoli -> Score: 0-0
+  [Score Check] Ospitaletto vs Pro Vercelli (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Motor Lublin vs Jagiellonia -> Score: 1-1
+  [DB Check] Triestina vs AlbinoLeffe -> Score: 5-2
+  [Score Check] Zrinjski vs FK Sarajevo (Attempt 1)
+    [Success] Casertana vs Latina -> Score: 3-1
+  [Score Check] Bayern Munich vs Mainz (Attempt 1)
+    [Success] Ospitaletto vs Pro Vercelli -> Score: 2-0
+  [Score Check] Brentford vs Leeds (Attempt 1)
+    [Fail] Levante vs Villarreal Could not extract score from page.
+    [Review Failed] Levante vs Villarreal
+  [Score Check] Kamboi Eagles vs Wilberforce Strikers (Attempt 1)
+    [Success] Zrinjski vs FK Sarajevo -> Score: 0-1
+  [Score Check] Bullom Stars vs Star Sport Academy (Attempt 1)
+    [Success] Bayern Munich vs Mainz -> Score: 2-2
+  [Score Check] Strasbourg vs Lorient (Attempt 1)
+    [Fail] Shamrock vs Camerhogne Could not extract score from page.
+      Retrying in 10 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Kamboi Eagles vs Wilberforce Strikers -> Score: 2-1
+    [Success] Brentford vs Leeds -> Score: 1-1
+  [Score Check] Lens vs Nice (Attempt 1)
+  [Score Check] Auxerre vs Lille (Attempt 1)
+    [Success] Strasbourg vs Lorient -> Score: 0-0
+  [Score Check] Shamrock vs Camerhogne (Attempt 3)
+  [Score Check] Rangers W vs Partick Thistle W (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Auxerre vs Lille -> Score: 3-4
+    [Success] Bullom Stars vs Star Sport Academy -> Score: 2-5
+    [Success] Lens vs Nice -> Score: 2-0
+  [Score Check] Shakhtar Donetsk vs Epitsentr (Attempt 1)
+  [DB Check] Pendikspor vs Igdir FK -> Score: 1-1
+  [DB Check] Novi Pazar vs Radnicki Nis -> Score: 1-0
+  [Score Check] Motherwell W vs Hearts W (Attempt 1)
+  [DB Check] Al-Merreikh vs Amagaju -> Score: 1-0
+  [Score Check] Urana vs Tahoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Urana vs Tahoua -> Score: 2-3
+  [Score Check] Police vs Sahel (Attempt 1)
+    [Success] Shakhtar Donetsk vs Epitsentr -> Score: 5-0
+    [Success] Motherwell W vs Hearts W -> Score: 0-3
+  [Score Check] AS UAM vs ASGNN (Attempt 1)
+  [Score Check] Stade Malien vs Djoliba (Attempt 1)
+    [Success] Rangers W vs Partick Thistle W -> Score: 3-0
+  [Score Check] Onze Createurs vs Foot Elite (Attempt 1)
+    [Success] Police vs Sahel -> Score: 1-0
+  [Score Check] Hafia vs Renaissance (Attempt 1)
+    [Success] Onze Createurs vs Foot Elite -> Score: 0-1
+  [Score Check] Atromitos vs PAOK (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] AS UAM vs ASGNN -> Score: 1-2
+  [Score Check] Asante Kotoko vs Dreams (Attempt 1)
+    [Success] Stade Malien vs Djoliba -> Score: 1-0
+    [Success] Hafia vs Renaissance -> Score: 2-1
+    [Success] Atromitos vs PAOK -> Score: 2-0
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Asante Kotoko vs Dreams -> Score: 1-0
+    [Fail] Shamrock vs Camerhogne Could not extract score from page.
+    [Review Failed] Shamrock vs Camerhogne
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 53.8% Accurate - 93 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.5% Accurate - 322 Predictions
+  High Confidence: 48.1% Accurate - 52 Predictions
+  Low Confidence: 56.4% Accurate - 172 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Sunday, 14th December, 2025: 53.3% Accurate - 546 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID tlT44NGt on 20.12.2025
+
+--- SKIPPING DAY: 15.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 16.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 17.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 18.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 20.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 341 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: tlT44NGt on this date.
+    [Resume] Match found at index 115. Skipping 116 previously processed matches.
+    [Batching] Processing 225 matches concurrently...
+
+   --- LEO: Shutting down gracefully. ---
