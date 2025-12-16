@@ -1,0 +1,395 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-16 04:52:19 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 63 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 63 matches...
+  [Score Check] Manchester 62 vs Glacis United (Attempt 1)
+  [Score Check] Bromley U21 vs Colchester U21 (Attempt 1)
+  [Score Check] FC Porto vs Estrela (Attempt 1)
+  [Score Check] Spanish Town Police vs Waterhouse (Attempt 1)
+  [Score Check] Sheffield Wed vs Derby (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Bromley U21 vs Colchester U21 -> Score: 2-3
+    [Success] Sheffield Wed vs Derby -> Score: 0-3
+  [Score Check] Manchester Utd vs Bournemouth (Attempt 1)
+  [Score Check] Fjolnir vs Fram (Attempt 1)
+    [Success] FC Porto vs Estrela -> Score: 3-1
+    [Success] Spanish Town Police vs Waterhouse -> Score: 2-1
+  [Score Check] AS Roma vs Como (Attempt 1)
+  [Score Check] Stockport U21 vs Burnley U21 (Attempt 1)
+    [Success] Manchester 62 vs Glacis United -> Score: 0-3
+  [Score Check] Foggia vs Monopoli (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Fjolnir vs Fram -> Score: 1-1
+  [Score Check] Castellon vs Mirandes (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] AS Roma vs Como -> Score: 1-0
+  [Score Check] Crotone vs Casarano (Attempt 1)
+    [Success] Manchester Utd vs Bournemouth -> Score: 4-4
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Vis Pesaro vs Ravenna (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Foggia vs Monopoli -> Score: 2-1
+  [Score Check] Arezzo vs Pineto (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Stockport U21 vs Burnley U21 Could not extract score from page.
+      Retrying in 5 seconds...
+    [Success] Castellon vs Mirandes -> Score: 3-1
+  [Score Check] Everton U21 vs Jong PSV (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Stockport U21 vs Burnley U21 (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Crotone vs Casarano -> Score: 2-0
+  [Score Check] Sheffield Utd U21 vs Stoke City U21 (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Vis Pesaro vs Ravenna -> Score: 1-0
+  [Score Check] Preston U21 vs Ipswich U21 (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Arezzo vs Pineto -> Score: 3-3
+  [Score Check] SA Bulo Bulo vs Real Oruro (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Everton U21 vs Jong PSV -> Score: 3-2
+  [Score Check] Braga vs Santa Clara (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sheffield Utd U21 vs Stoke City U21 -> Score: 4-2
+  [Score Check] TSC vs Crvena zvezda (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] SA Bulo Bulo vs Real Oruro -> Score: 5-3
+  [Score Check] Unirea Slobozia vs FCSB (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Braga vs Santa Clara -> Score: 1-0
+  [Score Check] Beitar Jerusalem vs Sakhnin (Attempt 1)
+    [Fail] Stockport U21 vs Burnley U21 Could not extract score from page.
+      Retrying in 10 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] TSC vs Crvena zvezda -> Score: 0-0
+  [Score Check] Maccabi Tel Aviv vs Hapoel Petah Tikva (Attempt 1)
+    [Fail] Preston U21 vs Ipswich U21 Could not extract score from page.
+      Retrying in 5 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Stockport U21 vs Burnley U21 (Attempt 3)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Preston U21 vs Ipswich U21 (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Unirea Slobozia vs FCSB -> Score: 0-2
+  [Score Check] Sakaryaspor vs Hatayspor (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Beitar Jerusalem vs Sakhnin -> Score: 2-1
+  [Score Check] H. Akko vs Hapoel Kfar Saba (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Maccabi Tel Aviv vs Hapoel Petah Tikva -> Score: 2-2
+  [Score Check] Hapoel Afula vs Kiryat Yam (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sakaryaspor vs Hatayspor -> Score: 3-0
+  [Score Check] Union Berlin W vs Eintracht Frankfurt W (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] H. Akko vs Hapoel Kfar Saba -> Score: 2-1
+  [Score Check] Bnei Yehuda vs M. Herzliya (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Hapoel Afula vs Kiryat Yam -> Score: 2-0
+  [Score Check] AEK Larnaca vs Omonia (Attempt 1)
+    [Fail] Stockport U21 vs Burnley U21 Could not extract score from page.
+    [Review Failed] Stockport U21 vs Burnley U21
+  [Score Check] Al-Hilal Omdurman vs Rutsiro (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Preston U21 vs Ipswich U21 Could not extract score from page.
+      Retrying in 10 seconds...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Union Berlin W vs Eintracht Frankfurt W -> Score: 2-2
+  [Score Check] East End Lions vs Old Edwardians (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Preston U21 vs Ipswich U21 (Attempt 3)
+    [Success] Bnei Yehuda vs M. Herzliya -> Score: 2-3
+  [Score Check] Wakriya vs CI Kamsar (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] AEK Larnaca vs Omonia -> Score: 1-1
+  [Score Check] Sangaredi vs Kaloum Star (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Al-Hilal Omdurman vs Rutsiro -> Score: 1-2
+  [Score Check] Milo FC vs ASFAG (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] East End Lions vs Old Edwardians -> Score: 2-1
+  [Score Check] Farul Constanta vs UTA Arad (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Wakriya vs CI Kamsar -> Score: 1-4
+  [Score Check] Rivers United vs Wikki Tourist (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sangaredi vs Kaloum Star -> Score: 0-0
+  [Score Check] Ikorodu City vs Katsina Utd (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Milo FC vs ASFAG -> Score: 1-0
+  [Score Check] Bolga AllStars vs Northern City (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Preston U21 vs Ipswich U21 Could not extract score from page.
+    [Review Failed] Preston U21 vs Ipswich U21
+  [Score Check] TF Exponential vs Real Tamale (Attempt 1)
+    [Success] Farul Constanta vs UTA Arad -> Score: 1-1
+  [Score Check] Accra Lions vs Great Ambitions (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Rivers United vs Wikki Tourist -> Score: 1-0
+  [Score Check] Neftci Baku vs Sumqayit (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Ikorodu City vs Katsina Utd -> Score: 0-0
+  [Score Check] Foolad vs Sepahan (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Bolga AllStars vs Northern City -> Score: 2-2
+  [Score Check] Gazelle vs Emat (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] TF Exponential vs Real Tamale -> Score: 1-0
+  [Score Check] Fehra vs As Dgssie (Attempt 1)
+    [Success] Accra Lions vs Great Ambitions -> Score: 1-1
+  [Score Check] Mathare Utd. vs Sofapaka (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Neftci Baku vs Sumqayit -> Score: 2-2
+  [Score Check] US Panda vs Tshikas (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Foolad vs Sepahan -> Score: 0-1
+  [Score Check] Kheybar Khorramabad vs Esteghlal F.C. (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Gazelle vs Emat -> Score: 2-0
+  [Score Check] Etoile de Kivu vs MK Etancheite (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Fehra vs As Dgssie -> Score: 0-2
+  [Score Check] Gol Gohar vs Mes Rafsanjan (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] US Panda vs Tshikas -> Score: 0-1
+  [Score Check] Malavan vs Fajr Sepasi (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Kheybar Khorramabad vs Esteghlal F.C. -> Score: 1-1
+  [Score Check] Mizoram vs Nagaland (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Etoile de Kivu vs MK Etancheite -> Score: 3-0
+  [Score Check] Chadormalu vs Esteghlal Khuzestan (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Mathare Utd. vs Sofapaka Could not extract score from page.
+      Retrying in 5 seconds...
+    [Success] Gol Gohar vs Mes Rafsanjan -> Score: 2-0
+  [Score Check] Jharkhand vs Delhi (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Mathare Utd. vs Sofapaka (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Malavan vs Fajr Sepasi -> Score: 0-4
+  [Score Check] Manipur vs Tripura (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Mizoram vs Nagaland -> Score: 0-1
+  [Score Check] Himachal Pradesh vs Punjab FT (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Chadormalu vs Esteghlal Khuzestan -> Score: 3-1
+  [Score Check] Jammu Kashmir vs Ladakh (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Manipur vs Tripura -> Score: 5-1
+  [Score Check] FC Chernihiv vs SK Metalurh (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Himachal Pradesh vs Punjab FT -> Score: 0-6
+  [Score Check] Bihar vs Railways (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Jammu Kashmir vs Ladakh -> Score: 3-0
+  [Score Check] Kariobangi Sharks vs Bidco United (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Jharkhand vs Delhi Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Mathare Utd. vs Sofapaka Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Jharkhand vs Delhi (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Mathare Utd. vs Sofapaka (Attempt 3)
+    [Success] FC Chernihiv vs SK Metalurh -> Score: 1-1
+  [Score Check] Imisli FK vs Karvan (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Imisli FK vs Karvan -> Score: 1-1
+  [Score Check] River Plate vs La Fama (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Bihar vs Railways Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Kariobangi Sharks vs Bidco United Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Bihar vs Railways (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Kariobangi Sharks vs Bidco United (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Jharkhand vs Delhi Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Mathare Utd. vs Sofapaka Could not extract score from page.
+    [Review Failed] Mathare Utd. vs Sofapaka
+  [Score Check] Police vs Morvant Caledonia Utd (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Jharkhand vs Delhi (Attempt 3)
+    [Success] River Plate vs La Fama -> Score: 2-6
+  [Score Check] Nacional vs Tondela (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Police vs Morvant Caledonia Utd -> Score: 3-2
+    [Success] Nacional vs Tondela -> Score: 3-1
+    [Fail] Bihar vs Railways Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Kariobangi Sharks vs Bidco United Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Bihar vs Railways (Attempt 3)
+  [Score Check] Kariobangi Sharks vs Bidco United (Attempt 3)
+    [Fail] Jharkhand vs Delhi Could not extract score from page.
+    [Review Failed] Jharkhand vs Delhi
+    [Fail] Bihar vs Railways Could not extract score from page.
+    [Review Failed] Bihar vs Railways
+    [Fail] Kariobangi Sharks vs Bidco United Could not extract score from page.
+    [Review Failed] Kariobangi Sharks vs Bidco United
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.9% Accurate - 461 Predictions
+  High Confidence: 41.9% Accurate - 105 Predictions
+  Low Confidence: 56.6% Accurate - 256 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Monday, 15th December, 2025: 52.7% Accurate - 822 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID tlT44NGt on 20.12.2025
+
+--- SKIPPING DAY: 16.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 17.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 18.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 20.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Info] Clicked scheduled tab.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 373 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: tlT44NGt on this date.
+    [Resume] Match found at index 133. Skipping 134 previously processed matches.
+    [Batching] Processing 239 matches concurrently...
+    [Batch Start] Salernitana vs Foggia: 20.12.2025 - 13:30
+    [Batch Start] Carpi vs Guidonia: 20.12.2025 - 13:30
+    [Batch Start] Torres vs Arezzo: 20.12.2025 - 13:30
+    [Batch Start] Sorrento vs Picerno: 20.12.2025 - 13:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Salernitana_vs_Foggia
+      [NO Signal] Salernitana_vs_Foggia
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Sorrento_vs_Picerno
+      [NO Signal] Sorrento_vs_Picerno
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Torres_vs_Arezzo
+      [NO Signal] Torres_vs_Arezzo
+    [Batch Start] Ittihad Gharyan vs Shabab Al-Ghar: 20.12.2025 - 13:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Carpi_vs_Guidonia
+      [NO Signal] Carpi_vs_Guidonia
+    [Batch Start] Saoura vs Mostaganem: 20.12.2025 - 14:00
+    [Batch Start] Osijek vs Slaven Belupo: 20.12.2025 - 14:00
+    [Batch Start] Bukavu Dawa vs Aigles du Congo: 20.12.2025 - 14:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Osijek_vs_Slaven Belupo
+      [NO Signal] Osijek_vs_Slaven Belupo
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Ittihad Gharyan_vs_Shabab Al-Ghar
+      [NO Signal] Ittihad Gharyan_vs_Shabab Al-Ghar
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Saoura_vs_Mostaganem
+      [NO Signal] Saoura_vs_Mostaganem
+    [Batch Start] Motema Pembe vs Renaissance: 20.12.2025 - 14:00
+    [Batch Start] Asteras Tripolis vs Aris: 20.12.2025 - 14:00
+    [Batch Start] Cesena vs Juve Stabia: 20.12.2025 - 14:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Bukavu Dawa_vs_Aigles du Congo
+      [NO Signal] Bukavu Dawa_vs_Aigles du Congo
+    [Batch Start] Frosinone vs Spezia: 20.12.2025 - 14:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Asteras Tripolis_vs_Aris
+      [NO Signal] Asteras Tripolis_vs_Aris
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Modena vs Venezia: 20.12.2025 - 14:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Motema Pembe_vs_Renaissance
+      [NO Signal] Motema Pembe_vs_Renaissance
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Cesena_vs_Juve Stabia
+      [NO Signal] Cesena_vs_Juve Stabia
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Warning] H2H tab inaccessible for Frosinone_vs_Spezia
+      [NO Signal] Frosinone_vs_Spezia
+    [Batch Start] Monza vs Carrarese: 20.12.2025 - 14:00
+    [Batch Start] Padova vs Sampdoria: 20.12.2025 - 14:00
+    [Batch Start] Queens Univ. vs Institute: 20.12.2025 - 14:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+
+   --- LEO: Shutting down gracefully. ---
