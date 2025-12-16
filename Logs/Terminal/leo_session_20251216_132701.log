@@ -340,3 +340,288 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Perth W_vs_Adelaide W (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Maharashtra_vs_Rajasthan FC
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Delhi_vs_Jharkhand
+    [Batch Start] Atletic Escaldes vs UE Santa Coloma: 21.12.2025 - 10:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 8'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 8
+            [OK Signal] Perth W_vs_Adelaide W
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Pondicherry_vs_Tamilnadu (20 matches found)
+    [Batch Start] Mechal vs Ethio Electric: 21.12.2025 - 10:00
+    [Batch Start] AS Roma U20 vs Verona U20: 21.12.2025 - 10:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Pondicherry_vs_Tamilnadu
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Frosinone U20 vs Sassuolo U20: 21.12.2025 - 10:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for AS Roma U20_vs_Verona U20 (22 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Frosinone U20_vs_Sassuolo U20 (20 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Atletic Escaldes_vs_UE Santa Coloma (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mechal_vs_Ethio Electric (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - PRIMAVERA 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for ITALY - PRIMAVERA 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - PRIMAVERA 1 - ROUND 17
+      [Extractor Validation] Updated League to: ITALY - PRIMAVERA 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for ITALY - PRIMAVERA 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - PRIMAVERA 1 - ROUND 17
+            [OK Signal] Frosinone U20_vs_Sassuolo U20
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - PRIMAVERA 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for ITALY - PRIMAVERA 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - PRIMAVERA 1 - ROUND 17
+      [Extractor Validation] Updated League to: ITALY - PRIMAVERA 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for ITALY - PRIMAVERA 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - PRIMAVERA 1 - ROUND 17
+            [OK Signal] AS Roma U20_vs_Verona U20
+      [Extractor] Found 10 teams in standings for 'ANDORRA - PRIMERA DIVISIÓ - ROUND 13'.
+      [DB] UPSERTed 10 standings entries for ANDORRA - PRIMERA DIVISIÓ - ROUND 13
+      [OK Standing] Standings tab data extracted for ANDORRA - PRIMERA DIVISIÓ - ROUND 13
+      [Extractor Validation] Updated League to: ANDORRA - PRIMERA DIVISIÓ - ROUND 13
+      [DB] UPSERTed 10 standings entries for ANDORRA - PRIMERA DIVISIÓ - ROUND 13
+      [OK Standing] Standings tab data extracted for ANDORRA - PRIMERA DIVISIÓ - ROUND 13
+            [OK Signal] Atletic Escaldes_vs_UE Santa Coloma
+    [Batch Start] Sikkim vs Arunachal: 21.12.2025 - 10:30
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 10
+            [OK Signal] Mechal_vs_Ethio Electric
+    [Batch Start] AC Taipei vs Ming Chuan University: 21.12.2025 - 10:30
+    [Batch Start] Taipower vs Taichung: 21.12.2025 - 10:30
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Hatayspor vs Serik Spor: 21.12.2025 - 10:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for AC Taipei_vs_Ming Chuan University (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Sikkim_vs_Arunachal (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TAIWAN - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 8 standings entries for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: TAIWAN - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 8 standings entries for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for TAIWAN - PREMIER LEAGUE - ROUND 12
+            [OK Signal] AC Taipei_vs_Ming Chuan University
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Hatayspor_vs_Serik Spor (20 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Taipower_vs_Taichung (25 matches found)
+    [Batch Start] Gabala vs Qarabag: 21.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 3 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 3 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 3 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Sikkim_vs_Arunachal
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TAIWAN - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 8 standings entries for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: TAIWAN - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 8 standings entries for TAIWAN - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for TAIWAN - PREMIER LEAGUE - ROUND 12
+            [OK Signal] Taipower_vs_Taichung
+      [Extractor] Found 20 teams in standings for 'TURKEY - 1. LIG - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for TURKEY - 1. LIG - ROUND 18
+      [OK Standing] Standings tab data extracted for TURKEY - 1. LIG - ROUND 18
+      [Extractor Validation] Updated League to: TURKEY - 1. LIG - ROUND 18
+      [DB] UPSERTed 20 standings entries for TURKEY - 1. LIG - ROUND 18
+      [OK Standing] Standings tab data extracted for TURKEY - 1. LIG - ROUND 18
+            [OK Signal] Hatayspor_vs_Serik Spor
+    [Batch Start] Life FC vs Visakha: 21.12.2025 - 11:00
+    [Batch Start] Phnom Penh Crown vs Boeung Ket: 21.12.2025 - 11:00
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Tiffy Army vs NagaWorld: 21.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Gabala_vs_Qarabag (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Phnom Penh Crown_vs_Boeung Ket (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'AZERBAIJAN - PREMIER LEAGUE - ROUND 16'.
+      [DB] UPSERTed 12 standings entries for AZERBAIJAN - PREMIER LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for AZERBAIJAN - PREMIER LEAGUE - ROUND 16
+      [Extractor Validation] Updated League to: AZERBAIJAN - PREMIER LEAGUE - ROUND 16
+      [DB] UPSERTed 12 standings entries for AZERBAIJAN - PREMIER LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for AZERBAIJAN - PREMIER LEAGUE - ROUND 16
+            [OK Signal] Gabala_vs_Qarabag
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Life FC_vs_Visakha (23 matches found)
+    [Batch Start] Uttar Pradesh vs Haryana: 21.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'CAMBODIA - CPL - ROUND 13'.
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+      [Extractor Validation] Updated League to: CAMBODIA - CPL - ROUND 13
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+            [OK Signal] Phnom Penh Crown_vs_Boeung Ket
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Tiffy Army_vs_NagaWorld (25 matches found)
+    [Batch Start] Uttarakhand vs Chandigarh: 21.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'CAMBODIA - CPL - ROUND 13'.
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+      [Extractor Validation] Updated League to: CAMBODIA - CPL - ROUND 13
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+            [OK Signal] Life FC_vs_Visakha
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'CAMBODIA - CPL - ROUND 13'.
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+      [Extractor Validation] Updated League to: CAMBODIA - CPL - ROUND 13
+      [DB] UPSERTed 11 standings entries for CAMBODIA - CPL - ROUND 13
+      [OK Standing] Standings tab data extracted for CAMBODIA - CPL - ROUND 13
+            [OK Signal] Tiffy Army_vs_NagaWorld
+    [Batch Start] Felgueiras vs FC Porto B: 21.12.2025 - 11:00
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Arenas Getxo vs CF Talavera: 21.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Uttar Pradesh_vs_Haryana (20 matches found)
