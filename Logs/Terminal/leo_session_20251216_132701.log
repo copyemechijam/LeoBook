@@ -625,3 +625,72 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 0 H2H matches.
       [OK H2H] H2H tab data extracted for Uttar Pradesh_vs_Haryana (20 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Uttar Pradesh_vs_Haryana
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Batch Start] Arenteiro vs Osasuna B: 21.12.2025 - 11:00
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Uttarakhand_vs_Chandigarh (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Felgueiras_vs_FC Porto B (22 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Arenas Getxo_vs_CF Talavera (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Uttarakhand_vs_Chandigarh
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'PORTUGAL - LIGA PORTUGAL 2 - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+            [OK Signal] Felgueiras_vs_FC Porto B
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+            [OK Signal] Arenas Getxo_vs_CF Talavera
+    [Batch Start] Alcorcon vs UD Ibiza: 21.12.2025 - 11:00
+    [Batch Start] ALG Spor W vs Yuksekova W: 21.12.2025 - 11:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Amed SK W vs Fatih Vatan Spor W: 21.12.2025 - 11:00
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+
+   --- LEO: Shutting down gracefully. ---
