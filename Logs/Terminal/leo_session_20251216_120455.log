@@ -2818,3 +2818,164 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Green Buffaloes_vs_Red Arrows (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ARUBA - DIVISION DI HONOR - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 8
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 8
+      [Extractor Validation] Updated League to: ARUBA - DIVISION DI HONOR - ROUND 8
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 8
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 8
+            [OK Signal] Deportivo Nacional_vs_Racing Club Aruba
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Green Buffaloes_vs_Red Arrows
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Konkola vs Nchanga Rangers: 20.12.2025 - N/A
+    [Batch Start] Mufulira vs Power Dynamos: 20.12.2025 - N/A
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 14 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Green Eagles_vs_Mines (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kabwe_vs_MUZA (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Green Eagles_vs_Mines
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Kabwe_vs_MUZA
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Mutondo Stars vs NAPSA Stars: 20.12.2025 - N/A
+    [Batch Start] Nkana vs Kansanshi: 20.12.2025 - N/A
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Konkola_vs_Nchanga Rangers (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mufulira_vs_Power Dynamos (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Konkola_vs_Nchanga Rangers
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Mufulira_vs_Power Dynamos
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Nkwazi vs Prison Leopards: 20.12.2025 - N/A
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Nkana_vs_Kansanshi (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Mutondo Stars_vs_NAPSA Stars (24 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Nkana_vs_Kansanshi
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Mutondo Stars_vs_NAPSA Stars
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Nkwazi_vs_Prison Leopards (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'ZAMBIA - SUPER LEAGUE - ROUND 17'.
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [Extractor Validation] Updated League to: ZAMBIA - SUPER LEAGUE - ROUND 17
+      [DB] UPSERTed 18 standings entries for ZAMBIA - SUPER LEAGUE - ROUND 17
+      [OK Standing] Standings tab data extracted for ZAMBIA - SUPER LEAGUE - ROUND 17
+            [OK Signal] Nkwazi_vs_Prison Leopards
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("button[data-day-picker-arrow=\"next\"]").first
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 154 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+   --- LEO: Shutting down gracefully. ---
