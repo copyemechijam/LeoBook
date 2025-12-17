@@ -1056,3 +1056,15 @@ Call log:
 Call log:
   - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
 
+2025-12-17T16:34:38.243615 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-17T16:35:51.549044 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-17T16:37:03.388555 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
