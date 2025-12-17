@@ -2116,3 +2116,349 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Vitoria Guimaraes B_vs_Paredes (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'PORTUGAL - LIGA 3 - ROUND 14'.
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA 3 - ROUND 14
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+            [OK Signal] Vitoria Guimaraes B_vs_Paredes
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Vegas_vs_Otoho d'Oyo (22 matches found)
+    [Batch Start] Guadalajara vs Zamora: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Barakaldo_vs_Pontevedra (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Celtic_vs_Aberdeen (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15
+      [OK Standing] Standings tab data extracted for REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15
+      [Extractor Validation] Updated League to: REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15
+      [DB] UPSERTed 16 standings entries for REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15
+      [OK Standing] Standings tab data extracted for REPUBLIC OF THE CONGO - LIGUE 1 - ROUND 15
+            [OK Signal] Vegas_vs_Otoho d'Oyo
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'SCOTLAND - PREMIERSHIP - ROUND 18'.
+      [DB] UPSERTed 12 standings entries for SCOTLAND - PREMIERSHIP - ROUND 18
+      [OK Standing] Standings tab data extracted for SCOTLAND - PREMIERSHIP - ROUND 18
+      [Extractor Validation] Updated League to: SCOTLAND - PREMIERSHIP - ROUND 18
+      [DB] UPSERTed 12 standings entries for SCOTLAND - PREMIERSHIP - ROUND 18
+      [OK Standing] Standings tab data extracted for SCOTLAND - PREMIERSHIP - ROUND 18
+            [OK Signal] Celtic_vs_Aberdeen
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+            [OK Signal] Barakaldo_vs_Pontevedra
+    [Batch Start] Sevilla FC B vs Sanluqueno: 21.12.2025 - 15:00
+    [Batch Start] Barracuda vs Entente II: 21.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Binah vs ASC Kara: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Guadalajara_vs_Zamora (23 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+            [OK Signal] Guadalajara_vs_Zamora
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Espoir vs Unisport: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Barracuda_vs_Entente II (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Binah_vs_ASC Kara (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sevilla FC B_vs_Sanluqueno (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 2 - ROUND 17
+            [OK Signal] Sevilla FC B_vs_Sanluqueno
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Barracuda_vs_Entente II
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Binah_vs_ASC Kara
+    [Batch Start] Etoile Filante vs Gbohloe-Su: 21.12.2025 - 15:00
+    [Batch Start] Semassi vs Gomido: 21.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Tambo vs Kara: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Espoir_vs_Unisport (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Espoir_vs_Unisport
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Villarreal vs Barcelona: 21.12.2025 - 15:15
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Etoile Filante_vs_Gbohloe-Su (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Tambo_vs_Kara (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Semassi_vs_Gomido (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Etoile Filante_vs_Gbohloe-Su
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Tambo_vs_Kara
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'TOGO - CHAMPIONNAT NATIONAL - ROUND 7'.
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [Extractor Validation] Updated League to: TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [DB] UPSERTed 14 standings entries for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+      [OK Standing] Standings tab data extracted for TOGO - CHAMPIONNAT NATIONAL - ROUND 7
+            [OK Signal] Semassi_vs_Gomido
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Mirandes vs Cordoba: 21.12.2025 - 15:15
+    [Batch Start] Real Sociedad B vs Ceuta: 21.12.2025 - 15:15
+    [Batch Start] Lugo vs Ourense CF: 21.12.2025 - 15:15
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Villarreal_vs_Barcelona (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - LALIGA - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - LALIGA - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - LALIGA - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - LALIGA - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA - ROUND 17
+            [OK Signal] Villarreal_vs_Barcelona
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Jeddah vs Abha: 21.12.2025 - 15:25
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mirandes_vs_Cordoba (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 22 teams in standings for 'SPAIN - LALIGA2 - ROUND 19'.
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+      [Extractor Validation] Updated League to: SPAIN - LALIGA2 - ROUND 19
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+            [OK Signal] Mirandes_vs_Cordoba
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Lugo_vs_Ourense CF (24 matches found)
+    [Batch Start] Hoffenheim II vs Wehen: 21.12.2025 - 15:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Jeddah_vs_Abha (25 matches found)
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Real Sociedad B_vs_Ceuta (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [Extractor Validation] Updated League to: SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [DB] UPSERTed 20 standings entries for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+      [OK Standing] Standings tab data extracted for SPAIN - PRIMERA RFEF - GROUP 1 - ROUND 17
+            [OK Signal] Lugo_vs_Ourense CF
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 22 teams in standings for 'SPAIN - LALIGA2 - ROUND 19'.
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+      [Extractor Validation] Updated League to: SPAIN - LALIGA2 - ROUND 19
+      [DB] UPSERTed 22 standings entries for SPAIN - LALIGA2 - ROUND 19
+      [OK Standing] Standings tab data extracted for SPAIN - LALIGA2 - ROUND 19
+            [OK Signal] Real Sociedad B_vs_Ceuta
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - DIVISION 1 - ROUND 12'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 12
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 12
+      [Extractor Validation] Updated League to: SAUDI ARABIA - DIVISION 1 - ROUND 12
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 12
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 12
+            [OK Signal] Jeddah_vs_Abha
+    [Batch Start] Aduana vs Hearts of Oak: 21.12.2025 - 15:30
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Lincoln Red Imps vs Lynx: 21.12.2025 - 15:30
+    [Batch Start] AEL Larissa vs Atromitos: 21.12.2025 - 15:30
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Hoffenheim II_vs_Wehen (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'GERMANY - 3. LIGA - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for GERMANY - 3. LIGA - ROUND 19
+      [OK Standing] Standings tab data extracted for GERMANY - 3. LIGA - ROUND 19
+      [Extractor Validation] Updated League to: GERMANY - 3. LIGA - ROUND 19
+      [DB] UPSERTed 20 standings entries for GERMANY - 3. LIGA - ROUND 19
+      [OK Standing] Standings tab data extracted for GERMANY - 3. LIGA - ROUND 19
+            [OK Signal] Hoffenheim II_vs_Wehen
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] AFS vs Nacional: 21.12.2025 - 15:30
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Aduana_vs_Hearts of Oak (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
