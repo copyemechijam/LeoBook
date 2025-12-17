@@ -1,7 +1,7 @@
 {
   "h2h_home_win": 10,
   "h2h_away_win": 10,
-  "h2h_draw": 9.431790764000008,
+  "h2h_draw": 10,
   "h2h_over25": 3,
   "standings_top_vs_bottom": 10,
   "standings_table_advantage": 3,
@@ -11,9 +11,9 @@
   "form_score_3plus": 2,
   "form_concede_2plus": 10,
   "form_no_score": 10,
-  "form_clean_sheet": 7.320500000000002,
+  "form_clean_sheet": 8.052550000000002,
   "form_vs_top_win": 3,
-  "xg_advantage": 3.630000000000001,
+  "xg_advantage": 3.993000000000001,
   "xg_draw": 2,
   "confidence_calibration": {
     "Very High": 0.75,
