@@ -1380,3 +1380,50 @@
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
       [Extractor] Extracting Standings tab...
       [Extractor] Found 18 teams in standings for 'PORTUGAL - LIGA PORTUGAL 2 - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL 2 - ROUND 15
+            [OK Signal] Lusitania FC_vs_Oliveirense
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Molynes_vs_Arnett Gardens (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Estrella_vs_Dakota (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'JAMAICA - PREMIER LEAGUE - ROUND 13'.
+      [DB] UPSERTed 14 standings entries for JAMAICA - PREMIER LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for JAMAICA - PREMIER LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: JAMAICA - PREMIER LEAGUE - ROUND 13
+      [DB] UPSERTed 14 standings entries for JAMAICA - PREMIER LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for JAMAICA - PREMIER LEAGUE - ROUND 13
+            [OK Signal] Molynes_vs_Arnett Gardens
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ARUBA - DIVISION DI HONOR - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 8
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 8
+      [Extractor Validation] Updated League to: ARUBA - DIVISION DI HONOR - ROUND 8
+      [DB] UPSERTed 10 standings entries for ARUBA - DIVISION DI HONOR - ROUND 8
+      [OK Standing] Standings tab data extracted for ARUBA - DIVISION DI HONOR - ROUND 8
+            [OK Signal] Estrella_vs_Dakota
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("button[data-day-picker-arrow=\"next\"]").first
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 71 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
