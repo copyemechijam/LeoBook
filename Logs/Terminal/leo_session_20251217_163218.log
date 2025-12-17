@@ -1032,3 +1032,76 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Kavala_vs_Niki Volos (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 teams in standings for 'GREECE - SUPER LEAGUE 2 - ROUND 15'.
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [Extractor Validation] Updated League to: GREECE - SUPER LEAGUE 2 - ROUND 15
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+            [OK Signal] Kavala_vs_Niki Volos
+    [Batch Start] Nairobi United vs Gor Mahia: 21.12.2025 - 13:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Panionios_vs_PAE Egaleo (25 matches found)
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Panargiakos_vs_Olympiacos Piraeus B (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for PAOK B_vs_Iraklis 1908 (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'GREECE - SUPER LEAGUE 2 - ROUND 15'.
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [Extractor Validation] Updated League to: GREECE - SUPER LEAGUE 2 - ROUND 15
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+            [OK Signal] Panargiakos_vs_Olympiacos Piraeus B
+      [Extractor] Found 10 teams in standings for 'GREECE - SUPER LEAGUE 2 - ROUND 15'.
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [Extractor Validation] Updated League to: GREECE - SUPER LEAGUE 2 - ROUND 15
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+            [OK Signal] Panionios_vs_PAE Egaleo
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'GREECE - SUPER LEAGUE 2 - ROUND 15'.
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [Extractor Validation] Updated League to: GREECE - SUPER LEAGUE 2 - ROUND 15
+      [DB] UPSERTed 10 standings entries for GREECE - SUPER LEAGUE 2 - ROUND 15
+      [OK Standing] Standings tab data extracted for GREECE - SUPER LEAGUE 2 - ROUND 15
+            [OK Signal] PAOK B_vs_Iraklis 1908
+    [Batch Start] Machokha vs LCS: 21.12.2025 - 13:00
+    [Batch Start] Majantja vs LMPS: 21.12.2025 - 13:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Manonyane vs Lifofane: 21.12.2025 - 13:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Nairobi United_vs_Gor Mahia (21 matches found)
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
