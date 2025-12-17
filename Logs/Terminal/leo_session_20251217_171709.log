@@ -1555,3 +1555,564 @@
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
       [Extractor] Found 10 home, 10 away, 4 H2H matches.
       [OK H2H] H2H tab data extracted for Home Stars_vs_Golden Kick (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Home Stars_vs_Golden Kick
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Hakla SC_vs_True Democracy
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Nsuopun Fidelity vs UCC Youngsters: 21.12.2025 - 15:00
+    [Batch Start] Okwawu vs ADVSA: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for King Faisal_vs_Future Stars (24 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Legon Cities_vs_Dormaa (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] King Faisal_vs_Future Stars
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Legon Cities_vs_Dormaa
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Pac Academy vs Elmina Sharks: 21.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Port City vs Semper: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Okwawu_vs_ADVSA (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 11 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Nsuopun Fidelity_vs_UCC Youngsters (16 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Okwawu_vs_ADVSA
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Nsuopun Fidelity_vs_UCC Youngsters
+    [Batch Start] Skyy vs Ashanti: 21.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Soccer Intellectuals vs Ebony FC: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Pac Academy_vs_Elmina Sharks (24 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Port City_vs_Semper (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Pac Academy_vs_Elmina Sharks
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Port City_vs_Semper
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Wa Power vs TF Exponential: 21.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Yapei vs Tamale City: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 11 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Soccer Intellectuals_vs_Ebony FC (21 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Skyy_vs_Ashanti (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Soccer Intellectuals_vs_Ebony FC
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Skyy_vs_Ashanti
+    [Batch Start] Hamrun vs Birkirkara: 21.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] ASFAN vs Sahel: 21.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 11 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Wa Power_vs_TF Exponential (22 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Cookies] Accepted via OneTrust
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Yapei_vs_Tamale City (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Wa Power_vs_TF Exponential
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 12'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 12
+            [OK Signal] Yapei_vs_Tamale City
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Nigelec vs US Gendarmerie: 21.12.2025 - 15:00
+    [Batch Start] Tahoua vs AS UAM: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for ASFAN_vs_Sahel (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Hamrun_vs_Birkirkara (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 10
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+            [OK Signal] ASFAN_vs_Sahel
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 6 teams in standings for 'MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14'.
+      [DB] UPSERTed 6 standings entries for MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14
+      [OK Standing] Standings tab data extracted for MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14
+      [Extractor Validation] Updated League to: MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14
+      [DB] UPSERTed 6 standings entries for MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14
+      [OK Standing] Standings tab data extracted for MALTA - PREMIER LEAGUE - FIRST STAGE - TOP 6 - ROUND 14
+            [OK Signal] Hamrun_vs_Birkirkara
+    [Batch Start] Urana vs ASGNN: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Abia Warriors vs Warri Wolves: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Tahoua_vs_AS UAM (22 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Nigelec_vs_US Gendarmerie (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 10
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+            [OK Signal] Tahoua_vs_AS UAM
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 10
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+            [OK Signal] Nigelec_vs_US Gendarmerie
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Abia Warriors_vs_Warri Wolves (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Urana_vs_ASGNN (25 matches found)
+    [Batch Start] El Kanemi vs Enyimba: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] Kano Pillars vs Plateau United: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 10
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 10
+            [OK Signal] Urana_vs_ASGNN
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Abia Warriors_vs_Warri Wolves
+    [Batch Start] Kwara vs Bayelsa United: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Nasarawa vs Barau: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for El Kanemi_vs_Enyimba (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kano Pillars_vs_Plateau United (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Nasarawa_vs_Barau (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kwara_vs_Bayelsa United (25 matches found)
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] El Kanemi_vs_Enyimba
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Kano Pillars_vs_Plateau United
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Nasarawa_vs_Barau
+    [Batch Start] Rangers Int'l vs Ikorodu City: 21.12.2025 - 15:00
+    [Batch Start] Remo Stars vs Bendel: 21.12.2025 - 15:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Kwara_vs_Bayelsa United
+    [Batch Start] Shooting vs Niger Tornadoes: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Wikki Tourist vs Kun Khalifa: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Rangers Int'l_vs_Ikorodu City (24 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Shooting_vs_Niger Tornadoes (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Remo Stars_vs_Bendel (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Wikki Tourist_vs_Kun Khalifa (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Rangers Int'l_vs_Ikorodu City
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Shooting_vs_Niger Tornadoes
+    [Batch Start] Academica vs Lusitano GC: 21.12.2025 - 15:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Wikki Tourist_vs_Kun Khalifa
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 18
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 18
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 18
+            [OK Signal] Remo Stars_vs_Bendel
+    [Batch Start] AD Marco 09 vs Sao Joao Ver: 21.12.2025 - 15:00
+    [Batch Start] Amarante vs AD Fafe: 21.12.2025 - 15:00
+    [Batch Start] Covilha vs Os Belenenses: 21.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Amarante_vs_AD Fafe (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Academica_vs_Lusitano GC (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'PORTUGAL - LIGA 3 - ROUND 14'.
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA 3 - ROUND 14
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+            [OK Signal] Amarante_vs_AD Fafe
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'PORTUGAL - LIGA 3 - ROUND 14'.
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA 3 - ROUND 14
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+            [OK Signal] Academica_vs_Lusitano GC
+    [Batch Start] Vitoria Guimaraes B vs Paredes: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for AD Marco 09_vs_Sao Joao Ver (23 matches found)
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Covilha_vs_Os Belenenses (23 matches found)
+    [Batch Start] Vegas vs Otoho d'Oyo: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'PORTUGAL - LIGA 3 - ROUND 14'.
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA 3 - ROUND 14
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+            [OK Signal] Covilha_vs_Os Belenenses
+      [Extractor] Found 10 teams in standings for 'PORTUGAL - LIGA 3 - ROUND 14'.
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA 3 - ROUND 14
+      [DB] UPSERTed 10 standings entries for PORTUGAL - LIGA 3 - ROUND 14
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA 3 - ROUND 14
+            [OK Signal] AD Marco 09_vs_Sao Joao Ver
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Celtic vs Aberdeen: 21.12.2025 - 15:00
+    [Batch Start] Barakaldo vs Pontevedra: 21.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Vitoria Guimaraes B_vs_Paredes (25 matches found)
