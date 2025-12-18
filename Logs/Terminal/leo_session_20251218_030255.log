@@ -613,3 +613,123 @@
     [Cookies] Accepted via OneTrust
       [Extractor] Extracting Standings tab...
       [Extractor] Found 3 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 3 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 3 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Arunachal_vs_Meghalaya
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+            [OK Signal] Yadanarbon_vs_Ispe FC
+    [Batch Start] Renaissance vs Anges Verts: 23.12.2025 - 12:00
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Persijap Jepara vs PSIM Yogyakarta: 23.12.2025 - 12:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Chandigarh_vs_Uttar Pradesh (21 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Chandigarh_vs_Uttar Pradesh
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Haryana_vs_Uttarakhand (22 matches found)
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Renaissance_vs_Anges Verts (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] Kocaelispor vs Erzurumspor: 23.12.2025 - 12:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Persijap Jepara_vs_PSIM Yogyakarta (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Haryana_vs_Uttarakhand
+      [Extractor] Found 15 teams in standings for 'DR CONGO - LIGUE 1 - ROUND 13'.
+      [DB] UPSERTed 15 standings entries for DR CONGO - LIGUE 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 13
+      [Extractor Validation] Updated League to: DR CONGO - LIGUE 1 - ROUND 13
+      [DB] UPSERTed 15 standings entries for DR CONGO - LIGUE 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 13
+            [OK Signal] Renaissance_vs_Anges Verts
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] DPMM vs Penang: 23.12.2025 - 12:15
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'INDONESIA - SUPER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: INDONESIA - SUPER LEAGUE - ROUND 15
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 15
+            [OK Signal] Persijap Jepara_vs_PSIM Yogyakarta
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] D.R. Congo vs Benin: 23.12.2025 - 12:30
+    [Batch Start] Dauphins Noirs vs Aigles du Congo: 23.12.2025 - 13:00
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kocaelispor_vs_Erzurumspor (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TURKEY - TURKISH CUP - ROUND 1'.
+      [DB] UPSERTed 8 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+      [Extractor Validation] Updated League to: TURKEY - TURKISH CUP - ROUND 1
+      [DB] UPSERTed 8 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+            [OK Signal] Kocaelispor_vs_Erzurumspor
