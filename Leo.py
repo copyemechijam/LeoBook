@@ -63,7 +63,7 @@ async def main():
                 # --- PHASE 3: SLEEP (The wait) ---
                 print("\n   --- LEO: Cycle Complete. ---")
                 print(f"Sleeping for {CYCLE_WAIT_HOURS} hours until the next cycle...")
-                await asyncio.sleep(CYCLE_WAIT_HOURS * 3600)
+                await asyncio.sleep(CYCLE_WAIT_HOURS * 36)
 
             except Exception as e:
                 print(f"[ERROR] An unexpected error occurred in the main loop: {e}")
