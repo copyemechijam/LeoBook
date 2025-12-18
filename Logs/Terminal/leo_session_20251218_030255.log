@@ -561,3 +561,55 @@
     [Cookies] Accepted via OneTrust
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Jharkhand_vs_Railways (20 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 12 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Rakhine United_vs_Yarmanya United (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Jharkhand_vs_Railways
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Arunachal_vs_Meghalaya (23 matches found)
+    [Batch Start] Chandigarh vs Uttar Pradesh: 23.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+            [OK Signal] Rakhine United_vs_Yarmanya United
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Yadanarbon_vs_Ispe FC (25 matches found)
+    [Batch Start] Haryana vs Uttarakhand: 23.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 3 teams in standings for 'INDIA - SANTOSH TROPHY'.
