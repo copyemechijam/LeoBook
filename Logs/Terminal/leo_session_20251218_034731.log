@@ -1,0 +1,270 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-18 03:47:32 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 1 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 1 matches...
+  [Score Check] Leopards vs Ulinzi Stars (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Leopards vs Ulinzi Stars Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 48.7% Accurate - 39 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 43.6% Accurate - 195 Predictions
+  Low Confidence: 56.6% Accurate - 272 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Wednesday, 17th December, 2025: 52.1% Accurate - 929 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID x2yvHF85 on 23.12.2025
+
+--- SKIPPING DAY: 18.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 23.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 64 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: x2yvHF85 on this date.
+    [Resume] Match found at index 50. Skipping 51 previously processed matches.
+    [Batching] Processing 13 matches concurrently...
+    [Batch Start] Partizani vs Dinamo Tirana: 23.12.2025 - 17:00
+    [Batch Start] Teuta vs Egnatia: 23.12.2025 - 17:00
+    [Batch Start] Al Qadisiya (Kuw) vs Sitra (Bhr): 23.12.2025 - 17:00
+    [Batch Start] MC Alger vs Ben Aknoun: 23.12.2025 - 17:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Teuta_vs_Egnatia (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for MC Alger_vs_Ben Aknoun (23 matches found)
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Qadisiya (Kuw)_vs_Sitra (Bhr) (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Partizani_vs_Dinamo Tirana (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ALBANIA - ABISSNET SUPERIORE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [Extractor Validation] Updated League to: ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+            [OK Signal] Teuta_vs_Egnatia
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'ALGERIA - LIGUE 1 - ROUND 3'.
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 3
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 3
+      [Extractor Validation] Updated League to: ALGERIA - LIGUE 1 - ROUND 3
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 3
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 3
+            [OK Signal] MC Alger_vs_Ben Aknoun
+      [Extractor] Found 4 teams in standings for 'ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4'.
+      [DB] UPSERTed 4 standings entries for ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4
+      [OK Standing] Standings tab data extracted for ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4
+      [Extractor Validation] Updated League to: ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4
+      [DB] UPSERTed 4 standings entries for ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4
+      [OK Standing] Standings tab data extracted for ASIA - GULF CLUB CHAMPIONS LEAGUE - ROUND 4
+            [OK Signal] Al Qadisiya (Kuw)_vs_Sitra (Bhr)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ALBANIA - ABISSNET SUPERIORE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [Extractor Validation] Updated League to: ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+            [OK Signal] Partizani_vs_Dinamo Tirana
+    [Batch Start] Nigeria vs Tanzania: 23.12.2025 - 17:30
+    [Batch Start] Fenerbahce vs Besiktas: 23.12.2025 - 17:30
+    [Batch Start] Ghazl El Mahallah vs Al Ahly: 23.12.2025 - 18:00
+    [Batch Start] Al Ittihad (Sau) vs Nasaf Qarshi (Uzb): 23.12.2025 - 18:15
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] No expansion buttons found or failed to load.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Ghazl El Mahallah_vs_Al Ahly (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Warning] Failed to fully load/expand H2H tab for Nigeria_vs_Tanzania: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("a.h2h__row") to be visible
+
+      [Error] Match failed Nigeria_vs_Tanzania: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Nigeria_vs_Tanzania'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Tunisia vs Uganda: 23.12.2025 - 20:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 7 teams in standings for 'EGYPT - LEAGUE CUP - ROUND 3'.
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 3
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 3
+      [Extractor Validation] Updated League to: EGYPT - LEAGUE CUP - ROUND 3
+      [DB] UPSERTed 7 standings entries for EGYPT - LEAGUE CUP - ROUND 3
+      [OK Standing] Standings tab data extracted for EGYPT - LEAGUE CUP - ROUND 3
+            [OK Signal] Ghazl El Mahallah_vs_Al Ahly
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Fenerbahce_vs_Besiktas (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Ittihad (Sau)_vs_Nasaf Qarshi (Uzb) (20 matches found)
+    [Batch Start] Vitoria Guimaraes vs Sporting CP: 23.12.2025 - 20:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'TURKEY - TURKISH CUP - ROUND 1'.
+      [DB] UPSERTed 11 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+      [Extractor Validation] Updated League to: TURKEY - TURKISH CUP - ROUND 1
+      [DB] UPSERTed 11 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+            [OK Signal] Fenerbahce_vs_Besiktas
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6'.
+      [DB] UPSERTed 12 standings entries for ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6
+      [OK Standing] Standings tab data extracted for ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6
+      [Extractor Validation] Updated League to: ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6
+      [DB] UPSERTed 12 standings entries for ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6
+      [OK Standing] Standings tab data extracted for ASIA - AFC CHAMPIONS LEAGUE - LEAGUE PHASE - ROUND 6
+            [OK Signal] Al Ittihad (Sau)_vs_Nasaf Qarshi (Uzb)
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Atlas (Mex) vs Tepatitlan de Morelos (Mex): 23.12.2025 - 21:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Necaxa (Mex) vs Atl. San Luis (Mex): 23.12.2025 - 21:00
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Tunisia_vs_Uganda (23 matches found)
+      [Error] Match failed Tunisia_vs_Uganda: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Tunisia_vs_Uganda'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Pachuca (Mex) vs Atlante (Mex): 23.12.2025 - 21:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Vitoria Guimaraes_vs_Sporting CP (25 matches found)
+    [Cookies] Accepted via OneTrust
