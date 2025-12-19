@@ -13,8 +13,8 @@
   "form_no_score": 10,
   "form_clean_sheet": 10,
   "form_vs_top_win": 3,
-  "xg_advantage": 9.415285130163006,
-  "xg_draw": 4.715895382000004,
+  "xg_advantage": 10,
+  "xg_draw": 5.187484920200005,
   "confidence_calibration": {
     "Very High": 0.75,
     "High": 0.6,

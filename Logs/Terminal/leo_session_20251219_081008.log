@@ -1,0 +1,393 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-19 08:10:08 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 7 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 7 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al-Shouleh vs Jableh (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Skip]  Al-Shouleh vs Jableh Match not finished yet.
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID S2GzkIbs on 25.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 25.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 30 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: S2GzkIbs on this date.
+    [Resume] Match found at index 29. Skipping 30 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Batching] Processing 130 matches concurrently...
+    [Batch Start] Newcastle Jets vs Macarthur FC: 26.12.2025 - 08:35
+    [Batch Start] Olancho vs Platense: 26.12.2025 - 01:00
+    [Batch Start] Madhya Pradesh vs Telangana: 26.12.2025 - 03:30
+    [Batch Start] Arambagh vs Bangladesh Police: 26.12.2025 - 08:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Olancho_vs_Platense (23 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 14 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Madhya Pradesh_vs_Telangana (19 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Newcastle Jets_vs_Macarthur FC (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 3 teams in standings for 'HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5'.
+      [DB] UPSERTed 3 standings entries for HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5
+      [OK Standing] Standings tab data extracted for HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5
+      [Extractor Validation] Updated League to: HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5
+      [DB] UPSERTed 3 standings entries for HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5
+      [OK Standing] Standings tab data extracted for HONDURAS - LIGA NACIONAL - APERTURA - TRIANGULARES - ROUND 5
+            [OK Signal] Olancho_vs_Platense
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Madhya Pradesh_vs_Telangana
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+            [OK Signal] Newcastle Jets_vs_Macarthur FC
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Arambagh_vs_Bangladesh Police (24 matches found)
+    [Batch Start] Chhattisgarh vs Odisha football team: 26.12.2025 - 09:30
+    [Batch Start] Adama City vs Mechal: 26.12.2025 - 12:00
+    [Batch Start] Barry vs Cardiff Metropolitan: 26.12.2025 - 12:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 8
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+            [OK Signal] Arambagh_vs_Bangladesh Police
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Cardiff Draconians vs Llantwit Major: 26.12.2025 - 12:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 13 home, 5 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Chhattisgarh_vs_Odisha football team (19 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Barry_vs_Cardiff Metropolitan (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Adama City_vs_Mechal (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Warning] Failed to load Standings tab for Chhattisgarh_vs_Odisha football team: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("div.ui-table__body > div.ui-table__row") to be visible
+
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+            [OK Signal] Chhattisgarh_vs_Odisha football team
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Cardiff Draconians_vs_Llantwit Major (21 matches found)
+    [Batch Start] Al Sahel vs Jwayya: 26.12.2025 - 12:15
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 11'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+            [OK Signal] Adama City_vs_Mechal
+      [Extractor] Found 12 teams in standings for 'WALES - CYMRU PREMIER - ROUND 20'.
+      [DB] UPSERTed 12 standings entries for WALES - CYMRU PREMIER - ROUND 20
+      [OK Standing] Standings tab data extracted for WALES - CYMRU PREMIER - ROUND 20
+      [Extractor Validation] Updated League to: WALES - CYMRU PREMIER - ROUND 20
+      [DB] UPSERTed 12 standings entries for WALES - CYMRU PREMIER - ROUND 20
+      [OK Standing] Standings tab data extracted for WALES - CYMRU PREMIER - ROUND 20
+            [OK Signal] Barry_vs_Cardiff Metropolitan
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+    [Batch Start] Al Raed vs Al Diriyah: 26.12.2025 - 12:20
+      [Extractor] Found 16 teams in standings for 'WALES - CYMRU SOUTH - ROUND 17'.
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU SOUTH - ROUND 17
+      [OK Standing] Standings tab data extracted for WALES - CYMRU SOUTH - ROUND 17
+      [Extractor Validation] Updated League to: WALES - CYMRU SOUTH - ROUND 17
+      [DB] UPSERTed 16 standings entries for WALES - CYMRU SOUTH - ROUND 17
+      [OK Standing] Standings tab data extracted for WALES - CYMRU SOUTH - ROUND 17
+            [OK Signal] Cardiff Draconians_vs_Llantwit Major
+    [Batch Start] Al Zulfi vs Al Orubah: 26.12.2025 - 12:20
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Angola vs Zimbabwe: 26.12.2025 - 12:30
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 9 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Sahel_vs_Jwayya (19 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'LEBANON - PREMIER LEAGUE - ROUND 11'.
+      [DB] UPSERTed 12 standings entries for LEBANON - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for LEBANON - PREMIER LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: LEBANON - PREMIER LEAGUE - ROUND 11
+      [DB] UPSERTed 12 standings entries for LEBANON - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for LEBANON - PREMIER LEAGUE - ROUND 11
+            [OK Signal] Al Sahel_vs_Jwayya
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Zulfi_vs_Al Orubah (20 matches found)
+    [Batch Start] Genk vs Club Brugge KV: 26.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Angola_vs_Zimbabwe (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - DIVISION 1 - ROUND 13'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [Extractor Validation] Updated League to: SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+            [OK Signal] Al Zulfi_vs_Al Orubah
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 2'.
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+            [OK Signal] Angola_vs_Zimbabwe
+    [Batch Start] Birmingham vs Derby: 26.12.2025 - 12:30
+    [Batch Start] Abha vs Al Taee: 26.12.2025 - 12:40
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Genk_vs_Club Brugge KV (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BELGIUM - JUPILER PRO LEAGUE - ROUND 20'.
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [Extractor Validation] Updated League to: BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+            [OK Signal] Genk_vs_Club Brugge KV
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Mes Rafsanjan vs Persepolis: 26.12.2025 - 12:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Abha_vs_Al Taee (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Birmingham_vs_Derby (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - DIVISION 1 - ROUND 13'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [Extractor Validation] Updated League to: SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+            [OK Signal] Abha_vs_Al Taee
+      [Extractor] Extracting Standings tab...
+      [Warning] Failed to load Standings tab for Birmingham_vs_Derby: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("div.ui-table__body > div.ui-table__row") to be visible
+
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Birmingham_vs_Derby
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Error] Match failed Mes Rafsanjan_vs_Persepolis: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"h2h\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Mes Rafsanjan_vs_Persepolis'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Batch Start] Saint-Luc vs Sanga Balende: 26.12.2025 - 13:00
+    [Batch Start] Millwall vs Ipswich: 26.12.2025 - 13:00
+
+   --- LEO: Shutting down gracefully. ---
