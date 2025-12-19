@@ -1272,3 +1272,15 @@ Call log:
 Call log:
   - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
 
+2025-12-19T08:39:51.550967 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Target crashed 
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(1)").first
+
+2025-12-19T08:39:56.566546 [MEDIUM] review_task_error: Review failed for dvb9CDlJ: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.flashscore.com/match/football/al-shouleh-4UvVEsjd/jableh-CYjuhojq/?mid=dvb9CDlJ", waiting until "domcontentloaded"
+
+2025-12-19T08:40:06.579235 [MEDIUM] review_task_error: Review failed for dvb9CDlJ: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.flashscore.com/match/football/al-shouleh-4UvVEsjd/jableh-CYjuhojq/?mid=dvb9CDlJ", waiting until "domcontentloaded"
+
