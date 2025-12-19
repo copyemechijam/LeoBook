@@ -1248,3 +1248,27 @@ Call log:
 Call log:
   - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
 
+2025-12-19T00:08:45.211177 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-19T00:08:45.673838 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-19T00:09:38.219759 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-19T00:09:38.347252 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-19T00:10:25.713482 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+
+2025-12-19T00:10:29.366586 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper span:nth-child(3)").first
+

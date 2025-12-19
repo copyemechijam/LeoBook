@@ -11,10 +11,10 @@
   "form_score_3plus": 2,
   "form_concede_2plus": 10,
   "form_no_score": 10,
-  "form_clean_sheet": 9.743585500000004,
+  "form_clean_sheet": 10,
   "form_vs_top_win": 3,
-  "xg_advantage": 4.831530000000002,
-  "xg_draw": 2.4200000000000004,
+  "xg_advantage": 5.846151300000003,
+  "xg_draw": 2.9282000000000012,
   "confidence_calibration": {
     "Very High": 0.75,
     "High": 0.6,

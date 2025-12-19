@@ -1,0 +1,545 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-19 00:05:48 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 70 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 70 matches...
+  [Score Check] Strasbourg vs Breidablik (Attempt 1)
+  [Score Check] Cibao vs Atletico Pantoja (Attempt 1)
+  [Score Check] Vega Real vs Salcedo (Attempt 1)
+  [Score Check] Zrinjski vs SK Rapid (Attempt 1)
+  [Score Check] Reading vs Luton (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Zrinjski vs SK Rapid -> Score: 1-1
+    [Success] Strasbourg vs Breidablik -> Score: 3-1
+    [Success] Vega Real vs Salcedo -> Score: 4-3
+  [Score Check] Sparta Prague vs Aberdeen (Attempt 1)
+  [Score Check] Shamrock Rovers vs Hamrun (Attempt 1)
+  [Score Check] Slovan Bratislava vs Hacken (Attempt 1)
+    [Success] Reading vs Luton -> Score: 3-2
+  [Score Check] Sigma Olomouc vs Lech Poznan (Attempt 1)
+    [Success] Cibao vs Atletico Pantoja -> Score: 0-0
+  [Score Check] Shakhtar Donetsk vs Rijeka (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Shakhtar Donetsk vs Rijeka -> Score: 0-0
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Rayo Vallecano vs Drita (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Shamrock Rovers vs Hamrun -> Score: 3-1
+  [Score Check] Omonia vs Rakow (Attempt 1)
+    [Success] Slovan Bratislava vs Hacken -> Score: 1-0
+  [Score Check] Mainz vs Samsunspor (Attempt 1)
+    [Success] Sparta Prague vs Aberdeen -> Score: 3-0
+  [Score Check] Lausanne vs Fiorentina (Attempt 1)
+    [Success] Sigma Olomouc vs Lech Poznan -> Score: 1-2
+  [Score Check] Legia vs Lincoln Red Imps (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Legia vs Lincoln Red Imps -> Score: 4-1
+  [Score Check] Crystal Palace vs KuPS (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Rayo Vallecano vs Drita -> Score: 3-0
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Dyn. Kyiv vs Noah (Attempt 1)
+    [Success] Omonia vs Rakow -> Score: 0-1
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Celje vs Shelbourne (Attempt 1)
+    [Success] Mainz vs Samsunspor -> Score: 2-0
+  [Score Check] AZ Alkmaar vs Jagiellonia (Attempt 1)
+    [Success] Lausanne vs Fiorentina -> Score: 1-0
+  [Score Check] AEK Athens vs Univ. Craiova (Attempt 1)
+    [Success] Crystal Palace vs KuPS -> Score: 2-2
+  [Score Check] AEK Larnaca vs Shkendija (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Celje vs Shelbourne -> Score: 0-0
+  [Score Check] Hibernians vs Zabbar (Attempt 1)
+    [Success] AZ Alkmaar vs Jagiellonia -> Score: 0-0
+    [Success] AEK Athens vs Univ. Craiova -> Score: 3-2
+    [Success] Dyn. Kyiv vs Noah -> Score: 2-0
+  [Score Check] Southampton U21 vs RB Leipzig II (Attempt 1)
+  [Score Check] Coventry U21 vs Leyton Orient U21 (Attempt 1)
+  [Score Check] RFC Liege vs Sporting Lokeren (Attempt 1)
+    [Success] AEK Larnaca vs Shkendija -> Score: 1-0
+  [Score Check] Patro Eisden vs Eupen (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Hibernians vs Zabbar -> Score: 3-3
+  [Score Check] USM Alger vs Ben Aknoun (Attempt 1)
+    [Success] Patro Eisden vs Eupen -> Score: 0-1
+  [Score Check] Rouisset vs MC Alger (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Success] USM Alger vs Ben Aknoun -> Score: 2-2
+  [Score Check] ASO Chlef vs Oran (Attempt 1)
+    [Success] RFC Liege vs Sporting Lokeren -> Score: 0-1
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Galatasaray vs Basaksehir (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] ASO Chlef vs Oran -> Score: 1-0
+  [Score Check] Al Ahly Tripoli vs Al Qadisiyah (Attempt 1)
+    [Success] Rouisset vs MC Alger -> Score: 1-0
+  [Score Check] Assabah vs Al Malaab El Libby (Attempt 1)
+    [Success] Al Ahly Tripoli vs Al Qadisiyah -> Score: 4-0
+  [Score Check] Umayya vs Horriya (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Assabah vs Al Malaab El Libby -> Score: 0-1
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+    [Success] Galatasaray vs Basaksehir -> Score: 1-0
+  [Score Check] Al-Shouleh vs Jableh (Attempt 1)
+    [Fail] Coventry U21 vs Leyton Orient U21 Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Southampton U21 vs RB Leipzig II Could not extract score from page.
+      Retrying in 5 seconds...
+    [Skip]  Umayya vs Horriya Match not finished yet.
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Coventry U21 vs Leyton Orient U21 (Attempt 2)
+  [Score Check] Southampton U21 vs RB Leipzig II (Attempt 2)
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+  [Score Check] Al-Ittihad Aleppo vs Khan Shaykhun (Attempt 1)
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al-Shouleh vs Jableh Match not finished yet.
+  [Score Check] Al Shorta vs Hottin (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Al-Ittihad Aleppo vs Khan Shaykhun -> Score: 2-1
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+  [Score Check] Al-Hilal Omdurman vs Kiyovu (Attempt 1)
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+  [Score Check] Medina United vs Gambia Ports (Attempt 1)
+    [Success] Al Shorta vs Hottin -> Score: 3-3
+  [Score Check] Brikama U. vs Dutch Lions (Attempt 1)
+    [Success] Al-Hilal Omdurman vs Kiyovu -> Score: 1-2
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Sabah Baku vs Qarabag (Attempt 1)
+    [Success] Medina United vs Gambia Ports -> Score: 0-2
+  [Score Check] Saham vs Al-Shabab (Attempt 1)
+    [Success] Brikama U. vs Dutch Lions -> Score: 5-4
+    [Fail] Southampton U21 vs RB Leipzig II Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Coventry U21 vs Leyton Orient U21 Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Success] Sabah Baku vs Qarabag -> Score: 2-1
+  [Score Check] Al Nahda vs Sohar (Attempt 1)
+    [Success] Saham vs Al-Shabab -> Score: 1-2
+  [Score Check] National Bank Egypt vs Modern Sport (Attempt 1)
+  [Score Check] Southampton U21 vs RB Leipzig II (Attempt 3)
+  [Score Check] Coventry U21 vs Leyton Orient U21 (Attempt 3)
+    [Skip]  Barau vs Rivers United Match not finished yet.
+  [Score Check] Genclerbirligi vs Bodrumspor (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Al Nahda vs Sohar -> Score: 2-1
+  [Score Check] Real Maldives vs Bazar Brothers (Attempt 1)
+    [Success] National Bank Egypt vs Modern Sport -> Score: 1-1
+  [Score Check] Al Nasr vs Oman Club (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Success] Al Nasr vs Oman Club -> Score: 2-1
+  [Score Check] Sagadam vs Kopetdag Asgabat (Attempt 1)
+    [Success] Genclerbirligi vs Bodrumspor -> Score: 3-2
+  [Score Check] Arkadag vs Nebitci (Attempt 1)
+    [Success] Real Maldives vs Bazar Brothers -> Score: 1-1
+  [Score Check] Altyn Asyr vs Merw (Attempt 1)
+    [Fail] Southampton U21 vs RB Leipzig II Could not extract score from page.
+    [Review Failed] Southampton U21 vs RB Leipzig II
+  [Score Check] Ahal vs FC Asgabat (Attempt 1)
+    [Success] Sagadam vs Kopetdag Asgabat -> Score: 4-1
+  [Score Check] Don Bosco vs Groupe Bazano (Attempt 1)
+    [Fail] Coventry U21 vs Leyton Orient U21 Could not extract score from page.
+    [Review Failed] Coventry U21 vs Leyton Orient U21
+  [Score Check] Sur Club vs Al Seeb (Attempt 1)
+    [Success] Arkadag vs Nebitci -> Score: 4-1
+  [Score Check] Entebbe UPPC vs Kitara (Attempt 1)
+    [Success] Ahal vs FC Asgabat -> Score: 1-2
+  [Score Check] Abu Salim vs Asswehly (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Sur Club vs Al Seeb -> Score: 0-3
+    [Success] Don Bosco vs Groupe Bazano -> Score: 1-0
+  [Score Check] Al-Anwar vs Al Ahly Benghazi (Attempt 1)
+  [Score Check] Al Sadaqa vs Al Borouq (Attempt 1)
+    [Success] Entebbe UPPC vs Kitara -> Score: 1-0
+  [DB Check] Gor Mahia vs Kakamega Homeboyz -> Score: 1-0
+  [Score Check] Sanga Balende vs Malole (Attempt 1)
+    [Success] Altyn Asyr vs Merw -> Score: 3-2
+  [Score Check] Juventus U20 vs Cesena U20 (Attempt 1)
+    [Success] Abu Salim vs Asswehly -> Score: 1-3
+  [Score Check] Bahla vs Al Khaboora (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Juventus U20 vs Cesena U20 -> Score: 0-2
+  [Score Check] Muranga vs Police FC (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Success] Al Sadaqa vs Al Borouq -> Score: 1-0
+  [Score Check] Gia Lai vs Cong An Ha Noi (Attempt 1)
+    [Success] Al-Anwar vs Al Ahly Benghazi -> Score: 2-2
+  [Score Check] Olimpia vs Motagua (Attempt 1)
+    [Success] Bahla vs Al Khaboora -> Score: 2-0
+  [Score Check] Spain U19 vs Australia U20 (Attempt 1)
+    [Success] Sanga Balende vs Malole -> Score: 1-0
+  [Score Check] Tshinkunku vs Mazembe (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Gia Lai vs Cong An Ha Noi -> Score: 1-3
+    [Success] Spain U19 vs Australia U20 -> Score: 3-0
+    [Cookies] Accepted via text: I Accept
+    [Success] Muranga vs Police FC -> Score: 1-0
+    [Success] Tshinkunku vs Mazembe -> Score: 1-1
+    [Success] Olimpia vs Motagua -> Score: 2-0
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID QDnUUHx3 on 23.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 23.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 66 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: QDnUUHx3 on this date.
+    [Resume] Match found at index 58. Skipping 59 previously processed matches.
+    [Batching] Processing 7 matches concurrently...
+    [Batch Start] MC Alger vs Ben Aknoun: 23.12.2025 - 18:30
+    [Batch Start] Vitoria Guimaraes vs Sporting CP: 23.12.2025 - 20:45
+    [Batch Start] Atlas (Mex) vs Tepatitlan de Morelos (Mex): 23.12.2025 - 21:00
+    [Batch Start] Tunisia vs Uganda: 23.12.2025 - 20:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Tunisia_vs_Uganda (23 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Vitoria Guimaraes_vs_Sporting CP (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for MC Alger_vs_Ben Aknoun (23 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Atlas (Mex)_vs_Tepatitlan de Morelos (Mex) (21 matches found)
+      [Extractor Validation] Updated League to: WORLD - CLUB FRIENDLY
+            [OK Signal] Atlas (Mex)_vs_Tepatitlan de Morelos (Mex)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 1'.
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+            [OK Signal] Tunisia_vs_Uganda
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'PORTUGAL - LIGA PORTUGAL - ROUND 15'.
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 15
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 15
+            [OK Signal] Vitoria Guimaraes_vs_Sporting CP
+    [Batch Start] Necaxa (Mex) vs Atl. San Luis (Mex): 23.12.2025 - 21:00
+      [Extractor] Extracting Standings tab...
+    [Batch Start] Pachuca (Mex) vs Atlante (Mex): 23.12.2025 - 21:00
+      [Extractor] Found 16 teams in standings for 'ALGERIA - LIGUE 1 - ROUND 3'.
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 3
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 3
+      [Extractor Validation] Updated League to: ALGERIA - LIGUE 1 - ROUND 3
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 3
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 3
+            [OK Signal] MC Alger_vs_Ben Aknoun
+    [Batch Start] Santos Laguna (Mex) vs Mazatlan FC (Mex): 23.12.2025 - 21:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Necaxa (Mex)_vs_Atl. San Luis (Mex) (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor Validation] Updated League to: WORLD - CLUB FRIENDLY
+            [OK Signal] Necaxa (Mex)_vs_Atl. San Luis (Mex)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Pachuca (Mex)_vs_Atlante (Mex) (25 matches found)
+      [Extractor Validation] Updated League to: WORLD - CLUB FRIENDLY
+            [OK Signal] Pachuca (Mex)_vs_Atlante (Mex)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Santos Laguna (Mex)_vs_Mazatlan FC (Mex) (25 matches found)
+      [Extractor Validation] Updated League to: WORLD - CLUB FRIENDLY
+            [OK Signal] Santos Laguna (Mex)_vs_Mazatlan FC (Mex)
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 24.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 63 valid fixtures. (Sorted by Time)
+    [Batching] Processing 63 matches concurrently...
+    [Batch Start] Telangana vs Odisha football team: 24.12.2025 - 03:30
+    [Batch Start] Gokulam Kerala W vs Sreebhumi W: 24.12.2025 - 03:30
+    [Batch Start] Lakshadweep vs Services: 24.12.2025 - 05:30
+    [Batch Start] Nita FA W vs Sesa FA W: 24.12.2025 - 03:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Lakshadweep_vs_Services (20 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 14 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Gokulam Kerala W_vs_Sreebhumi W (26 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Telangana_vs_Odisha football team (21 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 14 home, 0 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Nita FA W_vs_Sesa FA W (14 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Lakshadweep_vs_Services
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 2'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 2
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+            [OK Signal] Gokulam Kerala W_vs_Sreebhumi W
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 2'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 2
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+            [OK Signal] Nita FA W_vs_Sesa FA W
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Telangana_vs_Odisha football team
+    [Batch Start] Goa FT vs Karnataka: 24.12.2025 - 09:30
+    [Batch Start] Yangon Utd vs Ayeyawady: 24.12.2025 - 09:00
+    [Batch Start] Madhya Pradesh vs Chhattisgarh: 24.12.2025 - 09:30
+    [Batch Start] Kickstart W vs Garhwal United W: 24.12.2025 - 09:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Yangon Utd_vs_Ayeyawady (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Goa FT_vs_Karnataka (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+            [OK Signal] Yangon Utd_vs_Ayeyawady
+      [Extractor] Found 10 home, 0 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Kickstart W_vs_Garhwal United W (10 matches found)
+      [Extractor] Found 14 home, 5 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Madhya Pradesh_vs_Chhattisgarh (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] Sethu W vs East Bengal W: 24.12.2025 - 09:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Goa FT_vs_Karnataka
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 2'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 2
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+            [OK Signal] Kickstart W_vs_Garhwal United W
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'INDIA - SANTOSH TROPHY'.
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+      [Extractor Validation] Updated League to: INDIA - SANTOSH TROPHY
+      [DB] UPSERTed 4 standings entries for INDIA - SANTOSH TROPHY
+      [OK Standing] Standings tab data extracted for INDIA - SANTOSH TROPHY
+            [OK Signal] Madhya Pradesh_vs_Chhattisgarh
+    [Batch Start] Thitsar Arman vs Shan Utd: 24.12.2025 - 09:30
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Negele Arsi Ketema vs Welwalo Adigrat: 24.12.2025 - 10:00
+    [Batch Start] Igdir FK vs Aliaga: 24.12.2025 - 10:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.

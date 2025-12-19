@@ -268,3 +268,10 @@ Call log:
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Vitoria Guimaraes_vs_Sporting CP (25 matches found)
     [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Atlas (Mex)_vs_Tepatitlan de Morelos (Mex) (21 matches found)
+
+   --- LEO: Shutting down gracefully. ---
