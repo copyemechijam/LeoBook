@@ -747,3 +747,5 @@ Call log:
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for AS Cotonou_vs_Dadje (25 matches found)
     [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+
+   --- LEO: Shutting down gracefully. ---
