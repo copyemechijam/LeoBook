@@ -543,3 +543,266 @@
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
     [H2H Expansion] Expanding available match history...
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Sethu W_vs_East Bengal W (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 2'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 2
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 2
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 2
+            [OK Signal] Sethu W_vs_East Bengal W
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Ratchaburi vs Chiangrai Utd: 24.12.2025 - 11:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Igdir FK_vs_Aliaga (20 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 9 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Negele Arsi Ketema_vs_Welwalo Adigrat (14 matches found)
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Thitsar Arman_vs_Shan Utd (23 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'TURKEY - TURKISH CUP - ROUND 1'.
+      [DB] UPSERTed 8 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+      [Extractor Validation] Updated League to: TURKEY - TURKISH CUP - ROUND 1
+      [DB] UPSERTed 8 standings entries for TURKEY - TURKISH CUP - ROUND 1
+      [OK Standing] Standings tab data extracted for TURKEY - TURKISH CUP - ROUND 1
+            [OK Signal] Igdir FK_vs_Aliaga
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 9
+            [OK Signal] Thitsar Arman_vs_Shan Utd
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 11'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+            [OK Signal] Negele Arsi Ketema_vs_Welwalo Adigrat
+    [Batch Start] Sukhothai vs Buriram: 24.12.2025 - 11:00
+    [Batch Start] Arba Menche vs Mekelle 70 Enderta: 24.12.2025 - 12:00
+    [Batch Start] Drita vs Prishtina: 24.12.2025 - 12:00
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Ratchaburi_vs_Chiangrai Utd (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'THAILAND - THAI LEAGUE 1 - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 10
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 10
+      [Extractor Validation] Updated League to: THAILAND - THAI LEAGUE 1 - ROUND 10
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 10
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 10
+            [OK Signal] Ratchaburi_vs_Chiangrai Utd
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Pathum United vs Kanchanaburi: 24.12.2025 - 12:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Arba Menche_vs_Mekelle 70 Enderta (24 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Drita_vs_Prishtina (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sukhothai_vs_Buriram (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 11'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 11
+            [OK Signal] Arba Menche_vs_Mekelle 70 Enderta
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'KOSOVO - SUPERLIGA - ROUND 13'.
+      [DB] UPSERTed 10 standings entries for KOSOVO - SUPERLIGA - ROUND 13
+      [OK Standing] Standings tab data extracted for KOSOVO - SUPERLIGA - ROUND 13
+      [Extractor Validation] Updated League to: KOSOVO - SUPERLIGA - ROUND 13
+      [DB] UPSERTed 10 standings entries for KOSOVO - SUPERLIGA - ROUND 13
+      [OK Standing] Standings tab data extracted for KOSOVO - SUPERLIGA - ROUND 13
+            [OK Signal] Drita_vs_Prishtina
+      [Extractor] Found 16 teams in standings for 'THAILAND - THAI LEAGUE 1 - ROUND 8'.
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 8
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 8
+      [Extractor Validation] Updated League to: THAILAND - THAI LEAGUE 1 - ROUND 8
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 8
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 8
+            [OK Signal] Sukhothai_vs_Buriram
+    [Batch Start] Al Anwar vs Al Batin: 24.12.2025 - 12:10
+    [Batch Start] Kuala Lumpur City vs Kuching City FC: 24.12.2025 - 12:15
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Burkina Faso vs Equatorial Guinea: 24.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Pathum United_vs_Kanchanaburi (20 matches found)
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 16 teams in standings for 'THAILAND - THAI LEAGUE 1 - ROUND 13'.
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 13
+      [Extractor Validation] Updated League to: THAILAND - THAI LEAGUE 1 - ROUND 13
+      [DB] UPSERTed 16 standings entries for THAILAND - THAI LEAGUE 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for THAILAND - THAI LEAGUE 1 - ROUND 13
+            [OK Signal] Pathum United_vs_Kanchanaburi
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Vora vs Bylis: 24.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 12 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Anwar_vs_Al Batin (17 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - DIVISION 1 - ROUND 13'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [Extractor Validation] Updated League to: SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - DIVISION 1 - ROUND 13
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - DIVISION 1 - ROUND 13
+            [OK Signal] Al Anwar_vs_Al Batin
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Burkina Faso_vs_Equatorial Guinea (23 matches found)
+    [Batch Start] Blue Eagles vs Mighty Tigers: 24.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kuala Lumpur City_vs_Kuching City FC (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 1'.
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 1
+            [OK Signal] Burkina Faso_vs_Equatorial Guinea
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Vora_vs_Bylis (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Dedza Dynamos vs Creck Sporting: 24.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 13 teams in standings for 'MALAYSIA - SUPER LEAGUE - ROUND 13'.
+      [DB] UPSERTed 13 standings entries for MALAYSIA - SUPER LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for MALAYSIA - SUPER LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: MALAYSIA - SUPER LEAGUE - ROUND 13
+      [DB] UPSERTed 13 standings entries for MALAYSIA - SUPER LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for MALAYSIA - SUPER LEAGUE - ROUND 13
+            [OK Signal] Kuala Lumpur City_vs_Kuching City FC
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'ALBANIA - ABISSNET SUPERIORE - ROUND 18'.
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [Extractor Validation] Updated League to: ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [DB] UPSERTed 10 standings entries for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+      [OK Standing] Standings tab data extracted for ALBANIA - ABISSNET SUPERIORE - ROUND 18
+            [OK Signal] Vora_vs_Bylis
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Karonga United vs Civo Utd: 24.12.2025 - 12:30
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Silver Strikers vs Mzuzu City: 24.12.2025 - 12:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Blue Eagles_vs_Mighty Tigers (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'MALAWI - SUPER LEAGUE'.
+      [DB] UPSERTed 16 standings entries for MALAWI - SUPER LEAGUE
+      [OK Standing] Standings tab data extracted for MALAWI - SUPER LEAGUE
+      [Extractor Validation] Updated League to: MALAWI - SUPER LEAGUE
+      [DB] UPSERTed 16 standings entries for MALAWI - SUPER LEAGUE
+      [OK Standing] Standings tab data extracted for MALAWI - SUPER LEAGUE
+            [OK Signal] Blue Eagles_vs_Mighty Tigers
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
