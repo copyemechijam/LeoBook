@@ -1,0 +1,252 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-19 09:16:16 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Umayya vs Horriya Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID YkWaCx7D on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: YkWaCx7D on this date.
+    [Resume] Match found at index 48. Skipping 49 previously processed matches.
+    [Batching] Processing 81 matches concurrently...
+    [Batch Start] ASPAC vs Dynamo Abomey: 26.12.2025 - 15:00
+    [Batch Start] AS Cotonou vs Dadje: 26.12.2025 - 15:00
+    [Batch Start] Dragons vs Coton FC: 26.12.2025 - 15:00
+    [Batch Start] Espoir vs Buffles du Borgou: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Dragons_vs_Coton FC (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for AS Cotonou_vs_Dadje (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for ASPAC_vs_Dynamo Abomey (25 matches found)
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Espoir_vs_Buffles du Borgou (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'BENIN - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: BENIN - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+            [OK Signal] Dragons_vs_Coton FC
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'BENIN - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: BENIN - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+            [OK Signal] AS Cotonou_vs_Dadje
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'BENIN - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: BENIN - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+            [OK Signal] ASPAC_vs_Dynamo Abomey
+      [Extractor] Found 18 teams in standings for 'BENIN - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: BENIN - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+            [OK Signal] Espoir_vs_Buffles du Borgou
+    [Batch Start] JS Pobe vs Damissa: 26.12.2025 - 15:00
+    [Batch Start] Coventry vs Swansea: 26.12.2025 - 15:00
+    [Batch Start] Leicester vs Watford: 26.12.2025 - 15:00
+    [Batch Start] Middlesbrough vs Blackburn: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for JS Pobe_vs_Damissa (22 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Middlesbrough_vs_Blackburn (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'BENIN - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: BENIN - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 18 standings entries for BENIN - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for BENIN - LIGUE 1 - ROUND 14
+            [OK Signal] JS Pobe_vs_Damissa
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Coventry_vs_Swansea (25 matches found)
+    [Batch Start] Norwich vs Charlton: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Middlesbrough_vs_Blackburn
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Leicester_vs_Watford (25 matches found)
+    [Batch Start] Oxford Utd vs Southampton: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Coventry_vs_Swansea
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+
+   --- LEO: Shutting down gracefully. ---

@@ -1,0 +1,585 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-20 05:14:59 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 125 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 125 matches...
+  [Score Check] Merida AD vs Ath Bilbao B (Attempt 1)
+  [Score Check] Sando vs Police (Attempt 1)
+  [Score Check] Mosta vs Naxxar (Attempt 1)
+  [Score Check] Estoril vs Braga (Attempt 1)
+  [Score Check] Hound Dogs vs Manchester 62 (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Success] Mosta vs Naxxar -> Score: 2-3
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Swansea vs Wrexham (Attempt 1)
+    [Skip]  Sando vs Police Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Valencia vs Mallorca (Attempt 1)
+    [Success] Hound Dogs vs Manchester 62 -> Score: 1-3
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Glentoran vs Coleraine (Attempt 1)
+    [Success] Estoril vs Braga -> Score: 1-0
+  [Score Check] Crewe vs Bristol Rovers (Attempt 1)
+    [Success] Merida AD vs Ath Bilbao B -> Score: 2-3
+  [Score Check] Cambridge Utd vs Accrington (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Cambridge Utd vs Accrington -> Score: 2-0
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Valencia vs Mallorca -> Score: 1-1
+  [Score Check] Barrow vs Cheltenham (Attempt 1)
+  [Score Check] Northampton vs AFC Wimbledon (Attempt 1)
+    [Success] Glentoran vs Coleraine -> Score: 2-1
+    [Success] Crewe vs Bristol Rovers -> Score: 1-1
+    [Success] Swansea vs Wrexham -> Score: 2-1
+  [Score Check] Charleroi vs Genk (Attempt 1)
+  [Score Check] Eibar vs Valladolid (Attempt 1)
+  [Score Check] Giugliano vs Casertana (Attempt 1)
+    [Success] Barrow vs Cheltenham -> Score: 1-2
+    [Success] Northampton vs AFC Wimbledon -> Score: 3-1
+  [Score Check] Cosenza vs Cavese (Attempt 1)
+  [Score Check] Audace Cerignola vs Benevento (Attempt 1)
+    [Success] Eibar vs Valladolid -> Score: 3-0
+  [Score Check] Bari vs Catanzaro (Attempt 1)
+    [Success] Giugliano vs Casertana -> Score: 0-3
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Vaduz vs Aarau (Attempt 1)
+    [Success] Charleroi vs Genk -> Score: 2-2
+  [Score Check] Dortmund vs B. Monchengladbach (Attempt 1)
+    [Success] Cosenza vs Cavese -> Score: 2-1
+  [Score Check] Etoile-Carouge vs Lausanne Ouchy (Attempt 1)
+    [Success] Bari vs Catanzaro -> Score: 1-2
+  [Score Check] Den Haag vs Jong PSV (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Vaduz vs Aarau -> Score: 3-2
+  [Score Check] Venlo vs Dordrecht (Attempt 1)
+    [Success] Audace Cerignola vs Benevento -> Score: 0-4
+  [Score Check] Eindhoven FC vs Jong AZ (Attempt 1)
+    [Success] Dortmund vs B. Monchengladbach -> Score: 2-0
+  [Score Check] Cambuur vs Maastricht (Attempt 1)
+    [Success] Etoile-Carouge vs Lausanne Ouchy -> Score: 1-2
+  [Score Check] DVTK vs Ferencvaros (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Venlo vs Dordrecht -> Score: 3-1
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+    [Success] Eindhoven FC vs Jong AZ -> Score: 3-2
+  [Score Check] Manchester Utd U21 vs Dortmund II (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] DVTK vs Ferencvaros -> Score: 0-1
+  [Score Check] Everton U21 vs Monaco II (Attempt 1)
+    [Success] Den Haag vs Jong PSV -> Score: 1-2
+    [Success] Cambuur vs Maastricht -> Score: 4-0
+  [Score Check] Reading U21 vs Hull U21 (Attempt 1)
+  [Score Check] Norwich U21 vs Bromley U21 (Attempt 1)
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+  [Score Check] Leicester U21 vs Preston U21 (Attempt 1)
+    [Success] Everton U21 vs Monaco II -> Score: 2-1
+  [Score Check] QPR U21 vs Burnley U21 (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Leicester U21 vs Preston U21 -> Score: 3-0
+  [Score Check] Lommel SK vs K. Lierse S.K. (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Reading U21 vs Hull U21 -> Score: 1-0
+  [Score Check] Flamurtari vs Teuta (Attempt 1)
+    [Success] Manchester Utd U21 vs Dortmund II -> Score: 2-0
+  [Score Check] Gent U23 vs Seraing (Attempt 1)
+    [Success] QPR U21 vs Burnley U21 -> Score: 0-1
+  [Score Check] Stade Nyonnais vs Xamax (Attempt 1)
+    [Success] Norwich U21 vs Bromley U21 -> Score: 0-1
+  [Score Check] Algeciras vs Villarreal B (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Gent U23 vs Seraing -> Score: 3-1
+    [Success] Stade Nyonnais vs Xamax -> Score: 1-1
+    [Success] Algeciras vs Villarreal B -> Score: 0-0
+  [Score Check] FC Botosani vs CFR Cluj (Attempt 1)
+  [Score Check] Cottbus vs Regensburg (Attempt 1)
+  [Score Check] Ghazl El Mahallah vs Pharco (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Lommel SK vs K. Lierse S.K. -> Score: 4-3
+  [Score Check] Ceramica Cleopatra vs Al Ahly (Attempt 1)
+    [Success] Flamurtari vs Teuta -> Score: 2-2
+  [Score Check] Al Masry vs ZED (Attempt 1)
+    [Success] Ceramica Cleopatra vs Al Ahly -> Score: 0-1
+    [Cookies] Accepted via text: I Accept
+  [Score Check] El Bayadh vs Khenchela (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Al Masry vs ZED -> Score: 1-0
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] ES Setif vs Kabylie (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Ghazl El Mahallah vs Pharco -> Score: 0-1
+    [Success] Cottbus vs Regensburg -> Score: 2-2
+  [Score Check] Constantine vs Paradou (Attempt 1)
+  [Score Check] Caldas vs Santarem (Attempt 1)
+    [Success] FC Botosani vs CFR Cluj -> Score: 0-1
+  [Score Check] SGS Essen W vs Eintracht Frankfurt W (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] ES Setif vs Kabylie -> Score: 1-0
+  [Score Check] Gzira vs Tarxien (Attempt 1)
+    [Success] El Bayadh vs Khenchela -> Score: 1-2
+  [Score Check] Hertha Berlin vs Arminia Bielefeld (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Success] Gzira vs Tarxien -> Score: 2-1
+  [Score Check] Paderborn vs Darmstadt (Attempt 1)
+    [Success] Caldas vs Santarem -> Score: 0-2
+  [Score Check] Erokspor vs Sariyer (Attempt 1)
+    [Success] SGS Essen W vs Eintracht Frankfurt W -> Score: 1-4
+  [Score Check] Kocaelispor vs Antalyaspor (Attempt 1)
+    [Success] Constantine vs Paradou -> Score: 2-0
+  [Score Check] Varazdin vs Istra 1961 (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Hertha Berlin vs Arminia Bielefeld -> Score: 1-1
+  [Score Check] Ethnikos Latsion vs Nea Salamis (Attempt 1)
+    [Success] Paderborn vs Darmstadt -> Score: 2-2
+    [Success] Varazdin vs Istra 1961 -> Score: 1-3
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Gorilla vs Rayon Sport (Attempt 1)
+  [Score Check] Al Ittihad Misurata vs Al-Tirsana (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Erokspor vs Sariyer -> Score: 1-1
+  [Score Check] Al-Majd vs Al-Ittihad (Attempt 1)
+    [Success] Kocaelispor vs Antalyaspor -> Score: 2-1
+    [Success] Ethnikos Latsion vs Nea Salamis -> Score: 0-2
+  [Score Check] Star Sport Academy vs East End Lions (Attempt 1)
+  [Score Check] Renaissance vs Douanes Niamey (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Al-Majd vs Al-Ittihad -> Score: 1-2
+    [Success] Gorilla vs Rayon Sport -> Score: 1-2
+  [Score Check] Al-Fahaheel vs Al Tadamon (Attempt 1)
+  [Score Check] Al-Budaiya vs Al-Muharraq (Attempt 1)
+    [Skip]  Al Ittihad Misurata vs Al-Tirsana Match not finished yet.
+    [Success] Renaissance vs Douanes Niamey -> Score: 0-0
+  [DB Check] Vitesse vs Majestic -> Score: 0-1
+  [DB Check] Sonabel Ouagadougou vs AJEB -> Score: 2-0
+  [Score Check] Beroe vs Ludogorets (Attempt 1)
+  [DB Check] RDF vs Sporting Cascades -> Score: 1-0
+  [Score Check] Egnatia vs Partizani (Attempt 1)
+    [Success] Al-Fahaheel vs Al Tadamon -> Score: 1-0
+  [Score Check] Dinamo Tirana vs Vora (Attempt 1)
+    [Success] Al-Budaiya vs Al-Muharraq -> Score: 0-1
+  [Score Check] Mekelle 70 Enderta vs Hadiya Hossana (Attempt 1)
+    [Success] Egnatia vs Partizani -> Score: 2-1
+  [Score Check] Petrojet vs El Ismaily (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Dinamo Tirana vs Vora -> Score: 2-1
+    [Success] Beroe vs Ludogorets -> Score: 0-4
+  [Score Check] Al-Rustaq vs Dhofar (Attempt 1)
+  [Score Check] Al Jubail vs Al Jabalain (Attempt 1)
+    [Success] Mekelle 70 Enderta vs Hadiya Hossana -> Score: 1-2
+  [Score Check] Saint Louis vs St Michel United (Attempt 1)
+    [Success] Petrojet vs El Ismaily -> Score: 1-0
+  [Score Check] Pamplemousses vs Beau Bassin (Attempt 1)
+    [Success] Al-Rustaq vs Dhofar -> Score: 0-0
+  [Score Check] Tshinkunku vs Sanga Balende (Attempt 1)
+    [Success] Pamplemousses vs Beau Bassin -> Score: 5-1
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Nagaland vs Tripura (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Success] Al Jubail vs Al Jabalain -> Score: 0-0
+    [Fail] Star Sport Academy vs East End Lions Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Sitra vs Aali Club (Attempt 1)
+    [Success] Saint Louis vs St Michel United -> Score: 2-1
+  [Score Check] Al-Hidd vs Al Khalidiyah (Attempt 1)
+    [Success] Nagaland vs Tripura -> Score: 1-1
+  [Score Check] Star Sport Academy vs East End Lions (Attempt 2)
+  [Score Check] AS Kigali vs Bugesera (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Sitra vs Aali Club -> Score: 0-0
+  [Score Check] Penang vs PDRM FC (Attempt 1)
+    [Success] Al-Hidd vs Al Khalidiyah -> Score: 1-2
+  [Score Check] Al-Afreeki vs Al Tahaddi (Attempt 1)
+    [Success] AS Kigali vs Bugesera -> Score: 0-0
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Al Jahra vs Al Shabab (Attempt 1)
+    [Success] Penang vs PDRM FC -> Score: 3-0
+  [Score Check] Sofapaka vs Kariobangi Sharks (Attempt 1)
+    [Success] Al-Afreeki vs Al Tahaddi -> Score: 1-2
+  [Score Check] Nof Hagalil vs Ironi Modiin (Attempt 1)
+    [Success] Al Jahra vs Al Shabab -> Score: 1-2
+    [Fail] Tshinkunku vs Sanga Balende Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Maccabi Jaffa vs Hapoel Kfar Saba (Attempt 1)
+  [Score Check] Tshinkunku vs Sanga Balende (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Sofapaka vs Kariobangi Sharks Match not finished yet.
+  [Score Check] Hapoel Afula vs M. Herzliya (Attempt 1)
+    [Success] Nof Hagalil vs Ironi Modiin -> Score: 3-0
+  [Score Check] H. Raanana vs Kiryat Yam (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Maccabi Jaffa vs Hapoel Kfar Saba -> Score: 1-2
+  [Score Check] Saint-Luc vs Simba (Attempt 1)
+    [Success] Hapoel Afula vs M. Herzliya -> Score: 1-0
+  [Score Check] Bnei Yehuda vs H. Ironi Rishon (Attempt 1)
+    [Success] H. Raanana vs Kiryat Yam -> Score: 0-2
+  [Score Check] Al-Samail vs Ibri (Attempt 1)
+    [Success] Saint-Luc vs Simba -> Score: 1-1
+  [Score Check] Al Arabi vs Al Batin (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Bnei Yehuda vs H. Ironi Rishon -> Score: 1-1
+  [Score Check] Al-Andalus vs Wefaq Ajdabiya (Attempt 1)
+    [Success] Al-Samail vs Ibri -> Score: 0-1
+    [Success] Al Arabi vs Al Batin -> Score: 1-0
+  [Score Check] Kuching City FC vs Melaka FC (Attempt 1)
+  [Score Check] Tadamon vs Al Hikma (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Al-Andalus vs Wefaq Ajdabiya -> Score: 0-1
+  [Score Check] Al Anwar vs Al Bukiryah (Attempt 1)
+    [Fail] Tshinkunku vs Sanga Balende Could not extract score from page.
+      Retrying in 10 seconds...
+    [Success] Kuching City FC vs Melaka FC -> Score: 4-0
+  [Score Check] Bourj FC vs Al Riyadi Abbasiyah (Attempt 1)
+    [Success] Tadamon vs Al Hikma -> Score: 0-0
+  [Score Check] Shire Endaselassie vs Bahir Dar Kenema (Attempt 1)
+    [Success] Al Anwar vs Al Bukiryah -> Score: 1-2
+  [Score Check] Ethiopia Nigd Bank vs Arba Menche (Attempt 1)
+    [Fail] Star Sport Academy vs East End Lions Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Tshinkunku vs Sanga Balende (Attempt 3)
+    [Success] Bourj FC vs Al Riyadi Abbasiyah -> Score: 1-0
+  [Score Check] Malole vs St Eloi Lupopo (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Shire Endaselassie vs Bahir Dar Kenema -> Score: 0-0
+  [Score Check] Cote d'Or vs Anse Reunion (Attempt 1)
+  [Score Check] Star Sport Academy vs East End Lions (Attempt 3)
+    [Success] Ethiopia Nigd Bank vs Arba Menche -> Score: 3-1
+  [Score Check] Dauphins Noirs vs FC Renaissance (Attempt 1)
+    [Success] Cote d'Or vs Anse Reunion -> Score: 2-1
+  [Score Check] Meghalaya vs Sikkim (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Meghalaya vs Sikkim -> Score: 1-2
+  [Score Check] Pondicherry vs Andamans & Nicobar (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Pondicherry vs Andamans & Nicobar -> Score: 2-1
+  [Score Check] Rajasthan FC vs Gujarat (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Rajasthan FC vs Gujarat -> Score: 1-1
+  [Score Check] Kapaz vs Turan Tovuz (Attempt 1)
+    [Fail] Tshinkunku vs Sanga Balende Could not extract score from page.
+    [Review Failed] Tshinkunku vs Sanga Balende
+  [Score Check] Imigresen vs Terengganu (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Malole vs St Eloi Lupopo Could not extract score from page.
+      Retrying in 5 seconds...
+    [Success] Kapaz vs Turan Tovuz -> Score: 0-2
+  [Score Check] Manipur vs Mizoram (Attempt 1)
+    [Success] Imigresen vs Terengganu -> Score: 2-3
+  [Score Check] Rahmatgonj MFS vs Brothers U. (Attempt 1)
+  [Score Check] Malole vs St Eloi Lupopo (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Manipur vs Mizoram -> Score: 3-1
+  [Score Check] WS Wanderers vs Auckland FC (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Rahmatgonj MFS vs Brothers U. -> Score: 3-2
+  [Score Check] Punjab FT vs Jammu Kashmir (Attempt 1)
+    [Success] WS Wanderers vs Auckland FC -> Score: 0-2
+  [Score Check] Abahani Limited vs PWD Sports Club (Attempt 1)
+    [Success] Punjab FT vs Jammu Kashmir -> Score: 1-0
+  [Score Check] Macarthur FC vs Brisbane Roar (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Abahani Limited vs PWD Sports Club -> Score: 2-2
+  [Score Check] Maharashtra vs DNHDD FT (Attempt 1)
+    [Success] Macarthur FC vs Brisbane Roar -> Score: 2-1
+  [Score Check] Ladakh vs Himachal Pradesh (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Maharashtra vs DNHDD FT -> Score: 4-0
+  [Score Check] Newcastle W vs Melbourne Victory W (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Ladakh vs Himachal Pradesh -> Score: 1-0
+  [DB Check] Marathon vs Platense -> Score: 3-0
+  [Score Check] Railways vs Delhi (Attempt 1)
+    [Fail] Dauphins Noirs vs FC Renaissance Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Star Sport Academy vs East End Lions Could not extract score from page.
+    [Review Failed] Star Sport Academy vs East End Lions
+  [Score Check] Tamilnadu vs Andhra Pradesh (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Malole vs St Eloi Lupopo Could not extract score from page.
+      Retrying in 10 seconds...
+    [Success] Newcastle W vs Melbourne Victory W -> Score: 1-3
+  [Score Check] Dauphins Noirs vs FC Renaissance (Attempt 2)
+  [Score Check] Club Peleen vs Emulation (Attempt 1)
+    [Success] Railways vs Delhi -> Score: 0-0
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Malole vs St Eloi Lupopo (Attempt 3)
+    [Success] Tamilnadu vs Andhra Pradesh -> Score: 5-0
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+    [Success] Umayya vs Horriya -> Score: 0-0
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Success] Club Peleen vs Emulation -> Score: 1-0
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Success] Al Taliya vs Foutoua -> Score: 3-0
+    [Success] Al Karamah vs Al Wahda -> Score: 0-2
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Barau vs Rivers United -> Score: 4-1
+    [Fail] Malole vs St Eloi Lupopo Could not extract score from page.
+    [Review Failed] Malole vs St Eloi Lupopo
+    [Fail] Dauphins Noirs vs FC Renaissance Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Dauphins Noirs vs FC Renaissance (Attempt 3)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Dauphins Noirs vs FC Renaissance Could not extract score from page.
+    [Review Failed] Dauphins Noirs vs FC Renaissance
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 51.6% Accurate - 64 Predictions
+  Friday, 19th December, 2025: 48.6% Accurate - 111 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 47.7% Accurate - 346 Predictions
+  Low Confidence: 54.5% Accurate - 297 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Friday, 19th December, 2025: 51.8% Accurate - 1105 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 27.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 119 valid fixtures. (Sorted by Time)
+    [Batching] Processing 119 matches concurrently...
+    [Batch Start] Kickstart W vs Nita FA W: 27.12.2025 - 03:30
+    [Batch Start] Adelaide W vs WS Wanderers W: 27.12.2025 - 05:50
+    [Batch Start] East Bengal W vs Garhwal United W: 27.12.2025 - 03:30
+    [Batch Start] Sydney FC vs Auckland FC: 27.12.2025 - 06:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Sydney FC_vs_Auckland FC (23 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Adelaide W_vs_WS Wanderers W (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 0 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for East Bengal W_vs_Garhwal United W (10 matches found)
+      [Extractor] Found 10 home, 14 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Kickstart W_vs_Nita FA W (26 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+            [OK Signal] Sydney FC_vs_Auckland FC
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 9'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+            [OK Signal] Adelaide W_vs_WS Wanderers W
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 3'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 3
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+            [OK Signal] Kickstart W_vs_Nita FA W
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 3'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 3
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+            [OK Signal] East Bengal W_vs_Garhwal United W
+    [Batch Start] Central Coast Mariners W vs Melbourne Victory W: 27.12.2025 - 06:00
+    [Batch Start] Newcastle W vs Canberra W: 27.12.2025 - 07:00
+    [Batch Start] Brothers U. vs Fortis: 27.12.2025 - 08:30
+    [Batch Start] Mohammedan vs Rahmatgonj MFS: 27.12.2025 - 08:30
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Brothers U._vs_Fortis (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Newcastle W_vs_Canberra W (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Central Coast Mariners W_vs_Melbourne Victory W (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 8
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+            [OK Signal] Brothers U._vs_Fortis
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 9'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+            [OK Signal] Central Coast Mariners W_vs_Melbourne Victory W
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 11 teams in standings for 'AUSTRALIA - A-LEAGUE WOMEN - ROUND 9'.
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [DB] UPSERTed 11 standings entries for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE WOMEN - ROUND 9
+            [OK Signal] Newcastle W_vs_Canberra W
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mohammedan_vs_Rahmatgonj MFS (25 matches found)
+    [Batch Start] PWD Sports Club vs Fakirerpool YMC: 27.12.2025 - 08:30
+    [Batch Start] Adelaide United vs WS Wanderers: 27.12.2025 - 08:35
+    [Batch Start] Persik Kediri vs Persis Solo: 27.12.2025 - 08:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 8
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+            [OK Signal] Mohammedan_vs_Rahmatgonj MFS
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust

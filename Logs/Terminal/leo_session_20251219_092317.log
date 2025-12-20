@@ -1,0 +1,2512 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-19 09:23:19 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID MajXBFNh on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: MajXBFNh on this date.
+    [Resume] Match found at index 54. Skipping 55 previously processed matches.
+    [Batching] Processing 75 matches concurrently...
+    [Batch Start] Leicester vs Watford: 26.12.2025 - 15:00
+    [Batch Start] Middlesbrough vs Blackburn: 26.12.2025 - 15:00
+    [Batch Start] Norwich vs Charlton: 26.12.2025 - 15:00
+    [Batch Start] Oxford Utd vs Southampton: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Oxford Utd_vs_Southampton (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Middlesbrough_vs_Blackburn (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Leicester_vs_Watford (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Oxford Utd_vs_Southampton
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Norwich_vs_Charlton (25 matches found)
+    [Batch Start] Portsmouth vs QPR: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Leicester_vs_Watford
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Middlesbrough_vs_Blackburn
+    [Batch Start] Sheffield Wed vs Hull: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Norwich_vs_Charlton
+    [Batch Start] Stoke vs Preston: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] West Brom vs Bristol City: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Portsmouth_vs_QPR (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Portsmouth_vs_QPR
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] AFC Wimbledon vs Stevenage: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for West Brom_vs_Bristol City (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stoke_vs_Preston (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sheffield Wed_vs_Hull (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] West Brom_vs_Bristol City
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Sheffield Wed_vs_Hull
+    [Batch Start] Barnsley vs Mansfield: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Stoke_vs_Preston
+    [Batch Start] Blackpool vs Doncaster: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Bolton vs Rotherham: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for AFC Wimbledon_vs_Stevenage (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] AFC Wimbledon_vs_Stevenage
+    [Batch Start] Bradford City vs Wigan: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Barnsley_vs_Mansfield (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Barnsley_vs_Mansfield
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bolton_vs_Rotherham (25 matches found)
+    [Batch Start] Burton vs Northampton: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Blackpool_vs_Doncaster (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Bolton_vs_Rotherham
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Blackpool_vs_Doncaster
+    [Batch Start] Cardiff vs Exeter: 26.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bradford City_vs_Wigan (25 matches found)
+    [Batch Start] Huddersfield vs Port Vale: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Bradford City_vs_Wigan
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Batch Start] Luton vs Wycombe: 26.12.2025 - 15:00
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Burton_vs_Northampton (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Burton_vs_Northampton
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Peterborough vs Leyton Orient: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cardiff_vs_Exeter (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Huddersfield_vs_Port Vale (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Cardiff_vs_Exeter
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Huddersfield_vs_Port Vale
+    [Batch Start] Plymouth vs Reading: 26.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Stockport County vs Lincoln: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Luton_vs_Wycombe (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Peterborough_vs_Leyton Orient (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Luton_vs_Wycombe
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Peterborough_vs_Leyton Orient
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Accrington vs Barrow: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Bristol Rovers vs Bromley: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stockport County_vs_Lincoln (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Plymouth_vs_Reading (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Stockport County_vs_Lincoln
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 22
+            [OK Signal] Plymouth_vs_Reading
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Cheltenham vs Shrewsbury: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Chesterfield vs Notts Co: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Accrington_vs_Barrow (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Bristol Rovers_vs_Bromley (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Accrington_vs_Barrow
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Bristol Rovers_vs_Bromley
+    [Batch Start] Crawley vs Colchester: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Gillingham vs Cambridge Utd: 26.12.2025 - 15:00
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Chesterfield_vs_Notts Co (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cheltenham_vs_Shrewsbury (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Chesterfield_vs_Notts Co
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Cheltenham_vs_Shrewsbury
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Grimsby vs Oldham: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] MK Dons vs Swindon: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Crawley_vs_Colchester (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Gillingham_vs_Cambridge Utd (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Crawley_vs_Colchester
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Gillingham_vs_Cambridge Utd
+    [Batch Start] Newport vs Barnet: 26.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Salford vs Harrogate: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Grimsby_vs_Oldham (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for MK Dons_vs_Swindon (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Grimsby_vs_Oldham
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] MK Dons_vs_Swindon
+    [Batch Start] Tranmere vs Fleetwood: 26.12.2025 - 15:00
+    [Batch Start] Walsall vs Crewe: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Newport_vs_Barnet (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Salford_vs_Harrogate (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Newport_vs_Barnet
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Salford_vs_Harrogate
+    [Batch Start] Berekum Arsenal vs Mighty Royals: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] KAC Soccer vs Debibi: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Walsall_vs_Crewe (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Tranmere_vs_Fleetwood (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Walsall_vs_Crewe
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 22'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 22
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 22
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 22
+            [OK Signal] Tranmere_vs_Fleetwood
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Al Talaba vs Al Shorta: 26.12.2025 - 15:00
+    [Batch Start] Ballymena vs Coleraine: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for KAC Soccer_vs_Debibi (25 matches found)
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Berekum Arsenal_vs_Mighty Royals (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 13'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+            [OK Signal] KAC Soccer_vs_Debibi
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 13'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+            [OK Signal] Berekum Arsenal_vs_Mighty Royals
+    [Batch Start] Carrick Rangers vs Larne: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Cliftonville vs Crusaders: 26.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Ballymena_vs_Coleraine (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Talaba_vs_Al Shorta (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Ballymena_vs_Coleraine
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'IRAQ - STARS LEAGUE - ROUND 8'.
+      [DB] UPSERTed 20 standings entries for IRAQ - STARS LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for IRAQ - STARS LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: IRAQ - STARS LEAGUE - ROUND 8
+      [DB] UPSERTed 20 standings entries for IRAQ - STARS LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for IRAQ - STARS LEAGUE - ROUND 8
+            [OK Signal] Al Talaba_vs_Al Shorta
+    [Batch Start] Dungannon vs Bangor FC: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Batch Start] Linfield vs Glentoran: 26.12.2025 - 15:00
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cliftonville_vs_Crusaders (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Carrick Rangers_vs_Larne (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Cliftonville_vs_Crusaders
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Carrick Rangers_vs_Larne
+    [Batch Start] Portadown vs Glenavon: 26.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Ards vs Warrenpoint: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Cookies] Accepted via OneTrust
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Dungannon_vs_Bangor FC (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Linfield_vs_Glentoran (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Dungannon_vs_Bangor FC
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Linfield_vs_Glentoran
+    [Batch Start] Limavady vs Institute: 26.12.2025 - 15:00
+    [Batch Start] Loughgall vs Armagh: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Ards_vs_Warrenpoint (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Portadown_vs_Glenavon (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+            [OK Signal] Ards_vs_Warrenpoint
+      [Extractor] Extracting Standings tab...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL PREMIERSHIP - ROUND 22
+            [OK Signal] Portadown_vs_Glenavon
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Newington vs Queens Univ.: 26.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Al Kholood vs Al Taawon: 26.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Limavady_vs_Institute (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Loughgall_vs_Armagh (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+            [OK Signal] Limavady_vs_Institute
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+            [OK Signal] Loughgall_vs_Armagh
+    [Batch Start] AJEB vs RDF: 26.12.2025 - 15:30
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Newington_vs_Queens Univ. (24 matches found)
+    [Batch Start] ASF Dioulasso vs CFFEB: 26.12.2025 - 15:30
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Kholood_vs_Al Taawon (22 matches found)
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 12 teams in standings for 'NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22'.
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [Extractor Validation] Updated League to: NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [DB] UPSERTed 12 standings entries for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+      [OK Standing] Standings tab data extracted for NORTHERN IRELAND - NIFL CHAMPIONSHIP - ROUND 22
+            [OK Signal] Newington_vs_Queens Univ.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Etoile Filante vs Sonabel Ouagadougou: 26.12.2025 - 15:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+            [OK Signal] Al Kholood_vs_Al Taawon
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Kadiogo vs Sporting Cascades: 26.12.2025 - 15:30
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for AJEB_vs_RDF (20 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 12 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for ASF Dioulasso_vs_CFFEB (22 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] AJEB_vs_RDF
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] ASF Dioulasso_vs_CFFEB
+    [Batch Start] Majestic vs Bobo-Dioulasso: 26.12.2025 - 15:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Etoile Filante_vs_Sonabel Ouagadougou (25 matches found)
+    [Batch Start] Aali Club vs Al-Hidd: 26.12.2025 - 16:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] Etoile Filante_vs_Sonabel Ouagadougou
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Kadiogo_vs_Sporting Cascades (24 matches found)
+    [Batch Start] Hearts of Oak vs Samartex: 26.12.2025 - 16:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] Kadiogo_vs_Sporting Cascades
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Al Tahaddi vs Al Nasr: 26.12.2025 - 16:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 7 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Aali Club_vs_Al-Hidd (12 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Majestic_vs_Bobo-Dioulasso (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'BAHRAIN - PREMIER LEAGUE - ROUND 9'.
+      [DB] UPSERTed 12 standings entries for BAHRAIN - PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for BAHRAIN - PREMIER LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: BAHRAIN - PREMIER LEAGUE - ROUND 9
+      [DB] UPSERTed 12 standings entries for BAHRAIN - PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for BAHRAIN - PREMIER LEAGUE - ROUND 9
+            [OK Signal] Aali Club_vs_Al-Hidd
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] Majestic_vs_Bobo-Dioulasso
+    [Batch Start] AS ZAM vs Liberte: 26.12.2025 - 16:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Douanes Niamey vs Sahel: 26.12.2025 - 16:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Hearts of Oak_vs_Samartex (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Found 18 teams in standings for 'GHANA - PREMIER LEAGUE - ROUND 16'.
+      [DB] UPSERTed 18 standings entries for GHANA - PREMIER LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for GHANA - PREMIER LEAGUE - ROUND 16
+      [Extractor Validation] Updated League to: GHANA - PREMIER LEAGUE - ROUND 16
+      [DB] UPSERTed 18 standings entries for GHANA - PREMIER LEAGUE - ROUND 16
+      [OK Standing] Standings tab data extracted for GHANA - PREMIER LEAGUE - ROUND 16
+            [OK Signal] Hearts of Oak_vs_Samartex
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Modena vs Monza: 26.12.2025 - 16:15
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Tahaddi_vs_Al Nasr (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 9 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for AS ZAM_vs_Liberte (14 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'LIBYA - PREMIER LEAGUE - ROUND 2'.
+      [DB] UPSERTed 8 standings entries for LIBYA - PREMIER LEAGUE - ROUND 2
+      [OK Standing] Standings tab data extracted for LIBYA - PREMIER LEAGUE - ROUND 2
+      [Extractor Validation] Updated League to: LIBYA - PREMIER LEAGUE - ROUND 2
+      [DB] UPSERTed 8 standings entries for LIBYA - PREMIER LEAGUE - ROUND 2
+      [OK Standing] Standings tab data extracted for LIBYA - PREMIER LEAGUE - ROUND 2
+            [OK Signal] Al Tahaddi_vs_Al Nasr
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Douanes Niamey_vs_Sahel (25 matches found)
+    [Batch Start] Kallon vs Bai Bureh Warriors: 26.12.2025 - 16:15
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 11'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 11
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 11
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 11
+            [OK Signal] AS ZAM_vs_Liberte
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'NIGER - SUPER LIGUE - ROUND 11'.
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 11
+      [Extractor Validation] Updated League to: NIGER - SUPER LIGUE - ROUND 11
+      [DB] UPSERTed 16 standings entries for NIGER - SUPER LIGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for NIGER - SUPER LIGUE - ROUND 11
+            [OK Signal] Douanes Niamey_vs_Sahel
+    [Batch Start] Kamboi Eagles vs Luawa: 26.12.2025 - 16:15
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Modena_vs_Monza (21 matches found)
+    [Batch Start] Sakaryaspor vs Manisa FK: 26.12.2025 - 17:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE B - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 18
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 18
+      [Extractor Validation] Updated League to: ITALY - SERIE B - ROUND 18
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 18
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 18
+            [OK Signal] Modena_vs_Monza
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Zambia vs Comoros: 26.12.2025 - 17:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kallon_vs_Bai Bureh Warriors (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Kamboi Eagles_vs_Luawa (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SIERRA LEONE - PREMIER LEAGUE - ROUND 8'.
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+            [OK Signal] Kallon_vs_Bai Bureh Warriors
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] No expansion buttons found or failed to load.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SIERRA LEONE - PREMIER LEAGUE - ROUND 8'.
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 8
+            [OK Signal] Kamboi Eagles_vs_Luawa
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Warning] Failed to fully load/expand H2H tab for Sakaryaspor_vs_Manisa FK: Page.wait_for_selector: Target crashed 
+Call log:
+  - waiting for locator("a.h2h__row") to be visible
+
+      [Error] Match failed Sakaryaspor_vs_Manisa FK: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("div.detailOver [data-testid=\"wcl-tabs\"] a[data-analytics-alias=\"stats-detail\"] button")
+
+  [CRITICAL ERROR] Logging state for 'process_match_task_Sakaryaspor_vs_Manisa FK'. See 'Logs/Errors' folder.
+    [Logger Failure] Could not write error state: Page.screenshot: Target crashed 
+Call log:
+  - taking page screenshot
+  - waiting for fonts to load...
+  - fonts loaded
+
+    [Batch Start] St. Liege vs St. Truiden: 26.12.2025 - 17:30
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Wrexham vs Sheffield Utd: 26.12.2025 - 17:30
+    [Batch Start] Al Hilal vs Al Khaleej: 26.12.2025 - 17:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Zambia_vs_Comoros (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 2'.
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+            [OK Signal] Zambia_vs_Comoros
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Khenchela vs Constantine: 26.12.2025 - 18:00
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for St. Liege_vs_St. Truiden (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Hilal_vs_Al Khaleej (25 matches found)
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Wrexham_vs_Sheffield Utd (24 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BELGIUM - JUPILER PRO LEAGUE - ROUND 20'.
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [Extractor Validation] Updated League to: BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+            [OK Signal] St. Liege_vs_St. Truiden
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [Extractor Validation] Updated League to: SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 11
+            [OK Signal] Al Hilal_vs_Al Khaleej
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 23
+            [OK Signal] Wrexham_vs_Sheffield Utd
+    [Batch Start] Saoura vs El Bayadh: 26.12.2025 - 18:00
+    [Batch Start] Anderlecht vs Charleroi: 26.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Khenchela_vs_Constantine (25 matches found)
+    [Batch Start] Morocco vs Mali: 26.12.2025 - 20:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'ALGERIA - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: ALGERIA - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 14
+            [OK Signal] Khenchela_vs_Constantine
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Manchester Utd vs Newcastle: 26.12.2025 - 20:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Saoura_vs_El Bayadh (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Anderlecht_vs_Charleroi (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'ALGERIA - LIGUE 1 - ROUND 14'.
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 14
+      [Extractor Validation] Updated League to: ALGERIA - LIGUE 1 - ROUND 14
+      [DB] UPSERTed 16 standings entries for ALGERIA - LIGUE 1 - ROUND 14
+      [OK Standing] Standings tab data extracted for ALGERIA - LIGUE 1 - ROUND 14
+            [OK Signal] Saoura_vs_El Bayadh
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BELGIUM - JUPILER PRO LEAGUE - ROUND 20'.
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [Extractor Validation] Updated League to: BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [DB] UPSERTed 16 standings entries for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+      [OK Standing] Standings tab data extracted for BELGIUM - JUPILER PRO LEAGUE - ROUND 20
+            [OK Signal] Anderlecht_vs_Charleroi
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [Batch Start] 1976 Phoenix FC vs Morvant Caledonia Utd: 26.12.2025 - 21:00
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Morocco_vs_Mali (25 matches found)
+    [Batch Start] Defence Force vs Central FC: 26.12.2025 - 21:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Manchester Utd_vs_Newcastle (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 2'.
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 2
+            [OK Signal] Morocco_vs_Mali
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ENGLAND - PREMIER LEAGUE - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for ENGLAND - PREMIER LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE - ROUND 18
+      [Extractor Validation] Updated League to: ENGLAND - PREMIER LEAGUE - ROUND 18
+      [DB] UPSERTed 20 standings entries for ENGLAND - PREMIER LEAGUE - ROUND 18
+      [OK Standing] Standings tab data extracted for ENGLAND - PREMIER LEAGUE - ROUND 18
+            [OK Signal] Manchester Utd_vs_Newcastle
+    [Batch Start] Eagles FC vs San Juan Jabloteh: 26.12.2025 - 21:00
+    [Batch Start] Point Fortin vs Sando: 26.12.2025 - 23:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for 1976 Phoenix FC_vs_Morvant Caledonia Utd (24 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Defence Force_vs_Central FC (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] 1976 Phoenix FC_vs_Morvant Caledonia Utd
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] Defence Force_vs_Central FC
+    [Batch Start] Police vs Prison Service: 26.12.2025 - 23:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Eagles FC_vs_San Juan Jabloteh (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Point Fortin_vs_Sando (25 matches found)
+    [Batch Start] Port Of Spain vs La Horquetta: 26.12.2025 - 23:00
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] Eagles FC_vs_San Juan Jabloteh
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] Point Fortin_vs_Sando
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Police_vs_Prison Service (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Port Of Spain_vs_La Horquetta (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] Police_vs_Prison Service
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for TRINIDAD AND TOBAGO - TT PREMIER LEAGUE - ROUND 10
+            [OK Signal] Port Of Spain_vs_La Horquetta
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.is_visible: Target crashed 
+Call log:
+    - checking visibility of locator("button[data-day-picker-arrow=\"next\"]").first
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 74 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:23:14 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:28:53 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:34:19 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:39:42 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:45:19 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:50:48 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 10:56:20 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Umayya vs Horriya Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
+
+      --- LEO: Starting new cycle at 2025-12-19 11:01:49 --- 
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Umayya vs Horriya (Attempt 1)
+  [Score Check] Tishreen vs Al Jaish (Attempt 1)
+  [Score Check] Damascus Al-Ahli vs Homs Al Fidaa (Attempt 1)
+  [Score Check] Al Taliya vs Foutoua (Attempt 1)
+  [Score Check] Al Karamah vs Al Wahda (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Al Karamah vs Al Wahda Match not finished yet.
+    [Skip]  Umayya vs Horriya Match not finished yet.
+  [Score Check] Barau vs Rivers United (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Al Taliya vs Foutoua Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Tishreen vs Al Jaish Match not finished yet.
+    [Skip]  Damascus Al-Ahli vs Homs Al Fidaa Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Barau vs Rivers United Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 53.3% Accurate - 60 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 462 Predictions
+  High Confidence: 46.4% Accurate - 248 Predictions
+  Low Confidence: 56.1% Accurate - 280 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Thursday, 18th December, 2025: 52.2% Accurate - 990 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID xYNkMuSG on 26.12.2025
+
+--- SKIPPING DAY: 19.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 20.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 26.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 130 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: xYNkMuSG on this date.
+    [Resume] Match found at index 129. Skipping 130 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 0 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
