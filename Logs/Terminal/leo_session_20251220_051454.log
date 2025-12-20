@@ -583,3 +583,79 @@
             [OK Signal] Mohammedan_vs_Rahmatgonj MFS
     [Cookies] Accepted via OneTrust
     [Cookies] Accepted via OneTrust
+    [Batch Start] Sethu W vs Gokulam Kerala W: 27.12.2025 - 09:30
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 8 home, 5 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for PWD Sports Club_vs_Fakirerpool YMC (14 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Adelaide United_vs_WS Wanderers (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Persik Kediri_vs_Persis Solo (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Sethu W_vs_Gokulam Kerala W (24 matches found)
+      [Extractor] Found 10 teams in standings for 'BANGLADESH - BFL - ROUND 8'.
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+      [Extractor Validation] Updated League to: BANGLADESH - BFL - ROUND 8
+      [DB] UPSERTed 10 standings entries for BANGLADESH - BFL - ROUND 8
+      [OK Standing] Standings tab data extracted for BANGLADESH - BFL - ROUND 8
+            [OK Signal] PWD Sports Club_vs_Fakirerpool YMC
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'INDONESIA - SUPER LEAGUE - ROUND 8'.
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: INDONESIA - SUPER LEAGUE - ROUND 8
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+            [OK Signal] Persik Kediri_vs_Persis Solo
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+            [OK Signal] Adelaide United_vs_WS Wanderers
+    [Batch Start] Sreebhumi W vs Sesa FA W: 27.12.2025 - 09:30
+    [Batch Start] Sariyer vs Bodrumspor: 27.12.2025 - 10:30
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'INDIA - IWL WOMEN - ROUND 3'.
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+      [Extractor Validation] Updated League to: INDIA - IWL WOMEN - ROUND 3
+      [DB] UPSERTed 8 standings entries for INDIA - IWL WOMEN - ROUND 3
+      [OK Standing] Standings tab data extracted for INDIA - IWL WOMEN - ROUND 3
+            [OK Signal] Sethu W_vs_Gokulam Kerala W
+    [Batch Start] Sivasspor vs Bandirmaspor: 27.12.2025 - 10:30
+    [Batch Start] Boeung Ket vs Svay Rieng: 27.12.2025 - 11:00
+
+   --- LEO: Shutting down gracefully. ---
