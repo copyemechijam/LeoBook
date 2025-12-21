@@ -1,0 +1,178 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-21 10:48:06 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 5 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 5 matches...
+  [Score Check] Bidco United vs Leopards (Attempt 1)
+  [Score Check] Al-Ula vs Al Jandal (Attempt 1)
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+  [Score Check] Ulinzi Stars vs Posta Rangers (Attempt 1)
+  [Score Check] Sofapaka vs Kariobangi Sharks (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Bidco United vs Leopards Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Ulinzi Stars vs Posta Rangers Match not finished yet.
+    [Skip]  Al-Ula vs Al Jandal Match not finished yet.
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+    [Skip]  Sofapaka vs Kariobangi Sharks Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 50.0% Accurate - 66 Predictions
+  Friday, 19th December, 2025: 48.7% Accurate - 113 Predictions
+  Saturday, 20th December, 2025: 55.2% Accurate - 299 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 466 Predictions
+  High Confidence: 50.2% Accurate - 606 Predictions
+  Low Confidence: 55.7% Accurate - 336 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Saturday, 20th December, 2025: 52.4% Accurate - 1408 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID pfuWi4FU on 27.12.2025
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 26.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 27.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 118 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: pfuWi4FU on this date.
+    [Resume] Match found at index 37. Skipping 38 previously processed matches.
+    [Batching] Processing 80 matches concurrently...
+    [Batch Start] Torino vs Cagliari: 27.12.2025 - 14:00
+    [Batch Start] Manika vs Tshinkunku: 27.12.2025 - 14:00
+    [Batch Start] New Jack vs Anges Verts: 27.12.2025 - 14:00
+    [Batch Start] Sepahan vs Chadormalu: 27.12.2025 - 14:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for New Jack_vs_Anges Verts (22 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Sepahan_vs_Chadormalu (22 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 15 teams in standings for 'DR CONGO - LIGUE 1 - ROUND 15'.
+      [DB] UPSERTed 15 standings entries for DR CONGO - LIGUE 1 - ROUND 15
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 15
+      [Extractor Validation] Updated League to: DR CONGO - LIGUE 1 - ROUND 15
+      [DB] UPSERTed 15 standings entries for DR CONGO - LIGUE 1 - ROUND 15
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 15
+            [OK Signal] New Jack_vs_Anges Verts
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 8 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Manika_vs_Tshinkunku (13 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] Carrarese vs Mantova: 27.12.2025 - 14:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Torino_vs_Cagliari (25 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for IRAN - PERSIAN GULF PRO LEAGUE - ROUND 15
+            [OK Signal] Sepahan_vs_Chadormalu
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'DR CONGO - LIGUE 1 - ROUND 10'.
+      [DB] UPSERTed 16 standings entries for DR CONGO - LIGUE 1 - ROUND 10
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 10
+      [Extractor Validation] Updated League to: DR CONGO - LIGUE 1 - ROUND 10
+      [DB] UPSERTed 16 standings entries for DR CONGO - LIGUE 1 - ROUND 10
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 10
+            [OK Signal] Manika_vs_Tshinkunku
+    [Batch Start] Catanzaro vs Cesena: 27.12.2025 - 14:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE A - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE A - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE A - ROUND 17
+      [Extractor Validation] Updated League to: ITALY - SERIE A - ROUND 17
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE A - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE A - ROUND 17
+            [OK Signal] Torino_vs_Cagliari
+    [Batch Start] Empoli vs Frosinone: 27.12.2025 - 14:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Juve Stabia vs Sudtirol: 27.12.2025 - 14:00
