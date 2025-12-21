@@ -176,3 +176,12 @@
     [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
     [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
     [Batch Start] Juve Stabia vs Sudtirol: 27.12.2025 - 14:00
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Carrarese_vs_Mantova (22 matches found)
