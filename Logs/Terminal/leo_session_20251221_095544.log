@@ -1,0 +1,133 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-21 09:55:48 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 341 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 341 matches...
+  [Score Check] Nkana vs Kansanshi (Attempt 1)
+  [Score Check] Mutondo Stars vs NAPSA Stars (Attempt 1)
+  [Score Check] Konkola vs Nchanga Rangers (Attempt 1)
+  [Score Check] Nkwazi vs Prison Leopards (Attempt 1)
+  [Score Check] Mufulira vs Power Dynamos (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Nkwazi vs Prison Leopards Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Mutondo Stars vs NAPSA Stars Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Mufulira vs Power Dynamos Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Nkana vs Kansanshi Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Konkola vs Nchanga Rangers Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Nkwazi vs Prison Leopards (Attempt 2)
+  [Score Check] Mutondo Stars vs NAPSA Stars (Attempt 2)
+  [Score Check] Mufulira vs Power Dynamos (Attempt 2)
+  [Score Check] Nkana vs Kansanshi (Attempt 2)
+  [Score Check] Konkola vs Nchanga Rangers (Attempt 2)
+    [Fail] Nkwazi vs Prison Leopards Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Mutondo Stars vs NAPSA Stars Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Nkwazi vs Prison Leopards (Attempt 3)
+    [Fail] Konkola vs Nchanga Rangers Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Mutondo Stars vs NAPSA Stars (Attempt 3)
+    [Fail] Nkana vs Kansanshi Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Mufulira vs Power Dynamos Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Konkola vs Nchanga Rangers (Attempt 3)
+  [Score Check] Nkana vs Kansanshi (Attempt 3)
+  [Score Check] Mufulira vs Power Dynamos (Attempt 3)
+    [Fail] Nkwazi vs Prison Leopards Could not extract score from page.
+    [Review Failed] Nkwazi vs Prison Leopards
+  [Score Check] Kabwe vs MUZA (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Mutondo Stars vs NAPSA Stars Could not extract score from page.
+    [Review Failed] Mutondo Stars vs NAPSA Stars
+  [Score Check] Green Eagles vs Mines (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Konkola vs Nchanga Rangers Could not extract score from page.
+    [Review Failed] Konkola vs Nchanga Rangers
+  [Score Check] Green Buffaloes vs Red Arrows (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Nkana vs Kansanshi Could not extract score from page.
+    [Review Failed] Nkana vs Kansanshi
+  [Score Check] Deportivo Nacional vs Racing Club Aruba (Attempt 1)
+    [Fail] Mufulira vs Power Dynamos Could not extract score from page.
+    [Review Failed] Mufulira vs Power Dynamos
+  [Score Check] La Fama vs Britannia (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Kabwe vs MUZA Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] Green Eagles vs Mines Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Kabwe vs MUZA (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Green Eagles vs Mines (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Green Buffaloes vs Red Arrows Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Green Buffaloes vs Red Arrows (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Deportivo Nacional vs Racing Club Aruba Could not extract score from page.
+      Retrying in 5 seconds...
+    [Fail] La Fama vs Britannia Could not extract score from page.
+      Retrying in 5 seconds...
+  [Score Check] Deportivo Nacional vs Racing Club Aruba (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] La Fama vs Britannia (Attempt 2)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Fail] Kabwe vs MUZA Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Green Eagles vs Mines Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Kabwe vs MUZA (Attempt 3)
+  [Score Check] Green Eagles vs Mines (Attempt 3)
+    [Fail] Green Buffaloes vs Red Arrows Could not extract score from page.
+      Retrying in 10 seconds...
+    [Fail] Deportivo Nacional vs Racing Club Aruba Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Green Buffaloes vs Red Arrows (Attempt 3)
+    [Fail] La Fama vs Britannia Could not extract score from page.
+      Retrying in 10 seconds...
+  [Score Check] Deportivo Nacional vs Racing Club Aruba (Attempt 3)
+  [Score Check] La Fama vs Britannia (Attempt 3)
+    [Fail] Kabwe vs MUZA Could not extract score from page.
+    [Review Failed] Kabwe vs MUZA
+  [Score Check] Notch vs Broki (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Notch vs Broki -> Score: 3-1
+  [Score Check] Real Koyari vs Bubali (Attempt 1)
+    [Fail] Green Eagles vs Mines Could not extract score from page.
+    [Review Failed] Green Eagles vs Mines
+  [Score Check] RC Saint Joseph vs Franciscain (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Real Koyari vs Bubali -> Score: 0-7
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+  [Score Check] Prison Service vs Port Of Spain (Attempt 1)
+    [Success] RC Saint Joseph vs Franciscain -> Score: 2-0
+  [Score Check] Sporting Jax W vs Tampa Bay Sun W (Attempt 1)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Success] Prison Service vs Port Of Spain -> Score: 1-2
+    [Fail] Green Buffaloes vs Red Arrows Could not extract score from page.
+    [Review Failed] Green Buffaloes vs Red Arrows
+  [Score Check] Dep. Cuenca vs Emelec (Attempt 1)
+  [Score Check] Aucas vs Macara (Attempt 1)
+
+   --- LEO: Shutting down gracefully. ---
