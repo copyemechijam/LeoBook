@@ -1,0 +1,76 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-21 11:00:26 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 5 past predictions to review (Limit: 400).
+[Processing] Starting batch review for 5 matches...
+  [Score Check] Bidco United vs Leopards (Attempt 1)
+  [Score Check] Ulinzi Stars vs Posta Rangers (Attempt 1)
+  [Score Check] Al-Ula vs Al Jandal (Attempt 1)
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+  [Score Check] Sofapaka vs Kariobangi Sharks (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Sofapaka vs Kariobangi Sharks Match not finished yet.
+    [Skip]  Bidco United vs Leopards Match not finished yet.
+    [Skip]  Ulinzi Stars vs Posta Rangers Match not finished yet.
+    [Skip]  Al-Ula vs Al Jandal Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 50.0% Accurate - 66 Predictions
+  Friday, 19th December, 2025: 48.7% Accurate - 113 Predictions
+  Saturday, 20th December, 2025: 55.2% Accurate - 299 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 53.0% Accurate - 466 Predictions
+  High Confidence: 50.2% Accurate - 606 Predictions
+  Low Confidence: 55.7% Accurate - 336 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Saturday, 20th December, 2025: 52.4% Accurate - 1408 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID IF9x64hg on 27.12.2025
+
+--- SKIPPING DAY: 21.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Error] Click next day failed: Locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+
+  [Critical] Daily navigation failed. Stopping session.
+[ERROR] An unexpected error occurred in the main loop: BrowserContext.close: Protocol error (Target.disposeBrowserContext): Failed to find context with id FBEFE37938BA0A990112D86AE88EAD1E
+Restarting cycle after a short delay...

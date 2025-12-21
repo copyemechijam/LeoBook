@@ -185,3 +185,43 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 2 H2H matches.
       [OK H2H] H2H tab data extracted for Carrarese_vs_Mantova (22 matches found)
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE B - ROUND 18'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 18
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 18
+      [Extractor Validation] Updated League to: ITALY - SERIE B - ROUND 18
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE B - ROUND 18
+      [OK Standing] Standings tab data extracted for ITALY - SERIE B - ROUND 18
+            [OK Signal] Carrarese_vs_Mantova
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Sampdoria vs Reggiana: 27.12.2025 - 14:00
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Empoli_vs_Frosinone (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Catanzaro_vs_Cesena (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for Juve Stabia_vs_Sudtirol (22 matches found)
+
+   --- LEO: Shutting down gracefully. ---
