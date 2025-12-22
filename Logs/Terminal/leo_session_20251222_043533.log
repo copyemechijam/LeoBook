@@ -1,0 +1,631 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-22 04:35:34 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 500).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Nasarawa vs Barau (Attempt 1)
+  [Score Check] Bidco United vs Leopards (Attempt 1)
+  [Score Check] Mara Sugar vs Muranga (Attempt 1)
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+  [Score Check] Ulinzi Stars vs Posta Rangers (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Ulinzi Stars vs Posta Rangers Match not finished yet.
+    [Skip]  Mara Sugar vs Muranga Match not finished yet.
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+  [Score Check] Sofapaka vs Kariobangi Sharks (Attempt 1)
+    [Skip]  Nasarawa vs Barau Match not finished yet.
+    [Skip]  Bidco United vs Leopards Match not finished yet.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Sofapaka vs Kariobangi Sharks Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 50.0% Accurate - 66 Predictions
+  Friday, 19th December, 2025: 48.7% Accurate - 113 Predictions
+  Saturday, 20th December, 2025: 55.3% Accurate - 300 Predictions
+  Sunday, 21st December, 2025: 54.7% Accurate - 265 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.9% Accurate - 467 Predictions
+  High Confidence: 51.7% Accurate - 843 Predictions
+  Low Confidence: 55.2% Accurate - 364 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Sunday, 21st December, 2025: 52.8% Accurate - 1674 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID zBbjjqHM on 29.12.2025
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 26.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 27.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 28.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 29.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 88 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: zBbjjqHM on this date.
+    [Resume] Match found at index 58. Skipping 59 previously processed matches.
+    [Batching] Processing 29 matches concurrently...
+    [Batch Start] West Brom vs QPR: 29.12.2025 - 19:45
+    [Batch Start] AFC Wimbledon vs Exeter: 29.12.2025 - 19:45
+    [Batch Start] Wrexham vs Preston: 29.12.2025 - 19:45
+    [Batch Start] Barnsley vs Lincoln: 29.12.2025 - 19:45
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Barnsley_vs_Lincoln (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for West Brom_vs_QPR (25 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Wrexham_vs_Preston (25 matches found)
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Barnsley_vs_Lincoln
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for AFC Wimbledon_vs_Exeter (25 matches found)
+    [Batch Start] Blackpool vs Rotherham: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] West Brom_vs_QPR
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Wrexham_vs_Preston
+    [Batch Start] Bolton vs Mansfield: 29.12.2025 - 19:45
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Bradford City vs Port Vale: 29.12.2025 - 19:45
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] AFC Wimbledon_vs_Exeter
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Burton vs Wigan: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Blackpool_vs_Rotherham (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Blackpool_vs_Rotherham
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bolton_vs_Mansfield (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Cardiff vs Stevenage: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Bolton_vs_Mansfield
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Burton_vs_Wigan (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bradford City_vs_Port Vale (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Huddersfield vs Northampton: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Burton_vs_Wigan
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Bradford City_vs_Port Vale
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Luton vs Leyton Orient: 29.12.2025 - 19:45
+    [Batch Start] Peterborough vs Reading: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Cardiff_vs_Stevenage (21 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Cardiff_vs_Stevenage
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Plymouth vs Wycombe: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Huddersfield_vs_Northampton (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Huddersfield_vs_Northampton
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Peterborough_vs_Reading (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Luton_vs_Leyton Orient (25 matches found)
+    [Batch Start] Stockport County vs Doncaster: 29.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Luton_vs_Leyton Orient
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Peterborough_vs_Reading
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Accrington vs Harrogate: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Bristol Rovers vs Barnet: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Plymouth_vs_Wycombe (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Plymouth_vs_Wycombe
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Cheltenham vs Swindon: 29.12.2025 - 19:45
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stockport County_vs_Doncaster (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Accrington_vs_Harrogate (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bristol Rovers_vs_Barnet (25 matches found)
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE ONE - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE ONE - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE ONE - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE ONE - ROUND 23
+            [OK Signal] Stockport County_vs_Doncaster
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Accrington_vs_Harrogate
+    [Batch Start] Chesterfield vs Cambridge Utd: 29.12.2025 - 19:45
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Bristol Rovers_vs_Barnet
+    [Batch Start] Crawley vs Bromley: 29.12.2025 - 19:45
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Cheltenham_vs_Swindon (25 matches found)
+    [Batch Start] Gillingham vs Colchester: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Cheltenham_vs_Swindon
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Grimsby vs Shrewsbury: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Chesterfield_vs_Cambridge Utd (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Chesterfield_vs_Cambridge Utd
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 3 H2H matches.
+      [OK H2H] H2H tab data extracted for Crawley_vs_Bromley (23 matches found)
+    [Batch Start] MK Dons vs Notts Co: 29.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Crawley_vs_Bromley
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Gillingham_vs_Colchester (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Salford vs Fleetwood: 29.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Grimsby_vs_Shrewsbury (25 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Gillingham_vs_Colchester
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Tranmere vs Barrow: 29.12.2025 - 19:45
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Grimsby_vs_Shrewsbury
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for MK Dons_vs_Notts Co (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Walsall vs Oldham: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] MK Dons_vs_Notts Co
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Birmingham vs Southampton: 29.12.2025 - 20:15
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Salford_vs_Fleetwood (24 matches found)
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Salford_vs_Fleetwood
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Tranmere_vs_Barrow (25 matches found)
+    [Batch Start] FC Porto vs AFS: 29.12.2025 - 20:15
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Walsall_vs_Oldham (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Tranmere_vs_Barrow
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Walsall_vs_Oldham
+    [Batch Start] Chingale de Tete vs Ferroviario Lichinga: 29.12.2025 - N/A
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Birmingham_vs_Southampton (25 matches found)
+    [Batch Start] Ferroviario Nampula vs Desportivo Matola: 29.12.2025 - N/A
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Birmingham_vs_Southampton
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 2 H2H matches.
+      [OK H2H] H2H tab data extracted for FC Porto_vs_AFS (22 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'PORTUGAL - LIGA PORTUGAL - ROUND 16'.
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 16
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 16
+      [Extractor Validation] Updated League to: PORTUGAL - LIGA PORTUGAL - ROUND 16
+      [DB] UPSERTed 18 standings entries for PORTUGAL - LIGA PORTUGAL - ROUND 16
+      [OK Standing] Standings tab data extracted for PORTUGAL - LIGA PORTUGAL - ROUND 16
+            [OK Signal] FC Porto_vs_AFS
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Chingale de Tete_vs_Ferroviario Lichinga (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Ferroviario Nampula_vs_Desportivo Matola (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.

@@ -1060,3 +1060,188 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for AS Roma_vs_Genoa (25 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - LEAGUE TWO - ROUND 23'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+      [Extractor Validation] Updated League to: ENGLAND - LEAGUE TWO - ROUND 23
+      [DB] UPSERTed 24 standings entries for ENGLAND - LEAGUE TWO - ROUND 23
+      [OK Standing] Standings tab data extracted for ENGLAND - LEAGUE TWO - ROUND 23
+            [OK Signal] Newport_vs_Crewe
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Millwall vs Bristol City: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ITALY - SERIE A - ROUND 17'.
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE A - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE A - ROUND 17
+      [Extractor Validation] Updated League to: ITALY - SERIE A - ROUND 17
+      [DB] UPSERTed 20 standings entries for ITALY - SERIE A - ROUND 17
+      [OK Standing] Standings tab data extracted for ITALY - SERIE A - ROUND 17
+            [OK Signal] AS Roma_vs_Genoa
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Norwich vs Watford: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Leicester_vs_Derby (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Leicester_vs_Derby
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Middlesbrough_vs_Hull (25 matches found)
+    [Batch Start] Oxford Utd vs Swansea: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Millwall_vs_Bristol City (25 matches found)
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Middlesbrough_vs_Hull
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Portsmouth vs Charlton: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Millwall_vs_Bristol City
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Norwich_vs_Watford (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Sheffield Wed vs Blackburn: 29.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Norwich_vs_Watford
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Stoke vs Sheffield Utd: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Portsmouth_vs_Charlton (25 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Oxford Utd_vs_Swansea (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Portsmouth_vs_Charlton
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Oxford Utd_vs_Swansea
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] West Brom vs QPR: 29.12.2025 - 19:45
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Wrexham vs Preston: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Sheffield Wed_vs_Blackburn (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Sheffield Wed_vs_Blackburn
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Stoke_vs_Sheffield Utd (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Batch Start] AFC Wimbledon vs Exeter: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 24 teams in standings for 'ENGLAND - CHAMPIONSHIP - ROUND 24'.
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [Extractor Validation] Updated League to: ENGLAND - CHAMPIONSHIP - ROUND 24
+      [DB] UPSERTed 24 standings entries for ENGLAND - CHAMPIONSHIP - ROUND 24
+      [OK Standing] Standings tab data extracted for ENGLAND - CHAMPIONSHIP - ROUND 24
+            [OK Signal] Stoke_vs_Sheffield Utd
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Barnsley vs Lincoln: 29.12.2025 - 19:45
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+
+   --- LEO: Shutting down gracefully. ---
