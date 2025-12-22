@@ -1,0 +1,219 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-22 03:43:35 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 6 past predictions to review (Limit: 500).
+[Processing] Starting batch review for 6 matches...
+  [Score Check] Mara Sugar vs Muranga (Attempt 1)
+  [Score Check] Bidco United vs Leopards (Attempt 1)
+  [Score Check] Nasarawa vs Barau (Attempt 1)
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+  [Score Check] Ulinzi Stars vs Posta Rangers (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Nasarawa vs Barau Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+  [Score Check] Sofapaka vs Kariobangi Sharks (Attempt 1)
+    [Skip]  Mara Sugar vs Muranga Match not finished yet.
+    [Skip]  Ulinzi Stars vs Posta Rangers Match not finished yet.
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+    [Skip]  Bidco United vs Leopards Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Sofapaka vs Kariobangi Sharks Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 50.0% Accurate - 66 Predictions
+  Friday, 19th December, 2025: 48.7% Accurate - 113 Predictions
+  Saturday, 20th December, 2025: 55.3% Accurate - 300 Predictions
+  Sunday, 21st December, 2025: 54.7% Accurate - 265 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.9% Accurate - 467 Predictions
+  High Confidence: 51.7% Accurate - 843 Predictions
+  Low Confidence: 55.2% Accurate - 364 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Sunday, 21st December, 2025: 52.8% Accurate - 1674 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID jihCXYSg on 28.12.2025
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 26.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 27.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 28.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 103 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: jihCXYSg on this date.
+    [Resume] Match found at index 102. Skipping 103 previously processed matches.
+    [Info] No new matches to process for this day.
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 29.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 88 valid fixtures. (Sorted by Time)
+    [Batching] Processing 88 matches concurrently...
+    [Batch Start] Bali United vs Dewa United: 29.12.2025 - 08:30
+    [Batch Start] Ispe FC vs Yarmanya United: 29.12.2025 - 09:00
+    [Batch Start] Rakhine United vs Ayeyawady: 29.12.2025 - 09:30
+    [Batch Start] Melbourne Victory vs Wellington Phoenix: 29.12.2025 - 08:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Rakhine United_vs_Ayeyawady (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 12 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Ispe FC_vs_Yarmanya United (22 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bali United_vs_Dewa United (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Melbourne Victory_vs_Wellington Phoenix (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 10
+            [OK Signal] Rakhine United_vs_Ayeyawady
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 12 teams in standings for 'MYANMAR - NATIONAL LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for MYANMAR - NATIONAL LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for MYANMAR - NATIONAL LEAGUE - ROUND 10
+            [OK Signal] Ispe FC_vs_Yarmanya United
+      [Extractor] Found 12 teams in standings for 'AUSTRALIA - A-LEAGUE - ROUND 10'.
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: AUSTRALIA - A-LEAGUE - ROUND 10
+      [DB] UPSERTed 12 standings entries for AUSTRALIA - A-LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for AUSTRALIA - A-LEAGUE - ROUND 10
+            [OK Signal] Melbourne Victory_vs_Wellington Phoenix
+      [Extractor] Found 18 teams in standings for 'INDONESIA - SUPER LEAGUE - ROUND 8'.
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: INDONESIA - SUPER LEAGUE - ROUND 8
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+            [OK Signal] Bali United_vs_Dewa United
+    [Batch Start] Fasil Kenema vs Ethio Electric: 29.12.2025 - 10:00
+    [Batch Start] Adana Demirspor vs Istanbulspor AS: 29.12.2025 - 11:30
+    [Batch Start] Welayta Dicha vs Arba Menche: 29.12.2025 - 12:00
+    [Batch Start] Persija Jakarta vs FC Bhayangkara: 29.12.2025 - 12:00
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Adana Demirspor_vs_Istanbulspor AS (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Welayta Dicha_vs_Arba Menche (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Fasil Kenema_vs_Ethio Electric (25 matches found)

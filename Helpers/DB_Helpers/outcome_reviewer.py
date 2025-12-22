@@ -16,7 +16,7 @@ from .health_monitor import HealthMonitor
 
 # --- CONFIGURATION ---
 BATCH_SIZE = 5      # How many matches to review at the same time
-LOOKBACK_LIMIT = 400 # Only check the last 50 eligible matches to prevent infinite backlogs
+LOOKBACK_LIMIT = 500 # Only check the last 500 eligible matches to prevent infinite backlogs
 ENRICHMENT_CONCURRENCY = 5 # Concurrency for enriching past H2H matches
 
 # --- PRODUCTION CONFIGURATION ---
