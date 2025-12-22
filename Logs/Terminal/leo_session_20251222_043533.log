@@ -629,3 +629,46 @@
       [Extractor] Found 10 home, 10 away, 1 H2H matches.
       [OK H2H] H2H tab data extracted for Ferroviario Nampula_vs_Desportivo Matola (21 matches found)
     [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MOZAMBIQUE - MOCAMBOLA - ROUND 24'.
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [Extractor Validation] Updated League to: MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+            [OK Signal] Chingale de Tete_vs_Ferroviario Lichinga
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MOZAMBIQUE - MOCAMBOLA - ROUND 24'.
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [Extractor Validation] Updated League to: MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+            [OK Signal] Ferroviario Nampula_vs_Desportivo Matola
+  [Navigation] Clicking next day...
+    [Error] Click next day failed: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button[data-day-picker-arrow=\"next\"]").first
+    - locator resolved to <button disabled type="button" aria-hidden="true" aria-label="Next day" class="wcl-arrow_YpdN4" data-day-picker-arrow="next">…</button>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not enabled
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not enabled
+     - retrying click action
+       - waiting 500ms
+
+  [Critical] Daily navigation failed. Stopping session.
+
+--- Flashscore Analysis Complete: 29 new predictions found. ---
+
+   [Phase 2] Starting booking process (Football.com)...
+
+   --- LEO: Cycle Complete. ---
+Sleeping for 6 hours until the next cycle...
