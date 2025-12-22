@@ -217,3 +217,670 @@
       [Extractor] Extracting H2H tab...
       [Extractor] Found 10 home, 10 away, 5 H2H matches.
       [OK H2H] H2H tab data extracted for Fasil Kenema_vs_Ethio Electric (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 20 teams in standings for 'TURKEY - 1. LIG - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for TURKEY - 1. LIG - ROUND 19
+      [OK Standing] Standings tab data extracted for TURKEY - 1. LIG - ROUND 19
+      [Extractor Validation] Updated League to: TURKEY - 1. LIG - ROUND 19
+      [DB] UPSERTed 20 standings entries for TURKEY - 1. LIG - ROUND 19
+      [OK Standing] Standings tab data extracted for TURKEY - 1. LIG - ROUND 19
+            [OK Signal] Adana Demirspor_vs_Istanbulspor AS
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Persija Jakarta_vs_FC Bhayangkara (25 matches found)
+    [Batch Start] Ittihad Kalba vs Al Jazira: 29.12.2025 - 12:50
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+            [OK Signal] Welayta Dicha_vs_Arba Menche
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+            [OK Signal] Fasil Kenema_vs_Ethio Electric
+    [Batch Start] Saint-Luc vs Don Bosco: 29.12.2025 - 13:00
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'INDONESIA - SUPER LEAGUE - ROUND 8'.
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+      [Extractor Validation] Updated League to: INDONESIA - SUPER LEAGUE - ROUND 8
+      [DB] UPSERTed 18 standings entries for INDONESIA - SUPER LEAGUE - ROUND 8
+      [OK Standing] Standings tab data extracted for INDONESIA - SUPER LEAGUE - ROUND 8
+            [OK Signal] Persija Jakarta_vs_FC Bhayangkara
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Welwalo Adigrat vs Bahir Dar Kenema: 29.12.2025 - 13:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Gicumbi vs Kiyovu: 29.12.2025 - 13:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Saint-Luc_vs_Don Bosco (20 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Ittihad Kalba_vs_Al Jazira (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'DR CONGO - LIGUE 1 - ROUND 12'.
+      [DB] UPSERTed 16 standings entries for DR CONGO - LIGUE 1 - ROUND 12
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 12
+      [Extractor Validation] Updated League to: DR CONGO - LIGUE 1 - ROUND 12
+      [DB] UPSERTed 16 standings entries for DR CONGO - LIGUE 1 - ROUND 12
+      [OK Standing] Standings tab data extracted for DR CONGO - LIGUE 1 - ROUND 12
+            [OK Signal] Saint-Luc_vs_Don Bosco
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 14 teams in standings for 'UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10'.
+      [DB] UPSERTed 14 standings entries for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [DB] UPSERTed 14 standings entries for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+            [OK Signal] Ittihad Kalba_vs_Al Jazira
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Muhanga vs Al-Merreikh: 29.12.2025 - 13:00
+    [Batch Start] Rutsiro vs Mukura Victory Sports: 29.12.2025 - 13:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Gicumbi_vs_Kiyovu (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Welwalo Adigrat_vs_Bahir Dar Kenema (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'RWANDA - PREMIER LEAGUE'.
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+      [Extractor Validation] Updated League to: RWANDA - PREMIER LEAGUE
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+            [OK Signal] Gicumbi_vs_Kiyovu
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+            [OK Signal] Welwalo Adigrat_vs_Bahir Dar Kenema
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Fehra vs Foullah Edifice: 29.12.2025 - 14:30
+    [Batch Start] Gazelle vs Sovotours: 29.12.2025 - 14:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Muhanga_vs_Al-Merreikh (20 matches found)
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Rutsiro_vs_Mukura Victory Sports (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'RWANDA - PREMIER LEAGUE'.
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+      [Extractor Validation] Updated League to: RWANDA - PREMIER LEAGUE
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+            [OK Signal] Muhanga_vs_Al-Merreikh
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'RWANDA - PREMIER LEAGUE'.
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+      [Extractor Validation] Updated League to: RWANDA - PREMIER LEAGUE
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+            [OK Signal] Rutsiro_vs_Mukura Victory Sports
+    [Batch Start] Shamal vs Al-Sadd: 29.12.2025 - 14:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Al Khaleej vs Al Fateh: 29.12.2025 - 14:35
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 7 home, 5 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Fehra_vs_Foullah Edifice (12 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 7 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Gazelle_vs_Sovotours (17 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'CHAD - PREMIERE DIVISION - LPFN - ROUND 9'.
+      [DB] UPSERTed 14 standings entries for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [OK Standing] Standings tab data extracted for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [Extractor Validation] Updated League to: CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [DB] UPSERTed 14 standings entries for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [OK Standing] Standings tab data extracted for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+            [OK Signal] Gazelle_vs_Sovotours
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'CHAD - PREMIERE DIVISION - LPFN - ROUND 9'.
+      [DB] UPSERTed 14 standings entries for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [OK Standing] Standings tab data extracted for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [Extractor Validation] Updated League to: CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [DB] UPSERTed 14 standings entries for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+      [OK Standing] Standings tab data extracted for CHAD - PREMIERE DIVISION - LPFN - ROUND 9
+            [OK Signal] Fehra_vs_Foullah Edifice
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Mekelle 70 Enderta vs St. George: 29.12.2025 - 15:00
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Accra Lions vs Hakla SC: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Khaleej_vs_Al Fateh (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Shamal_vs_Al-Sadd (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12'.
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12
+      [DB] UPSERTed 18 standings entries for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for SAUDI ARABIA - SAUDI PROFESSIONAL LEAGUE - ROUND 12
+            [OK Signal] Al Khaleej_vs_Al Fateh
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 12 teams in standings for 'QATAR - QSL - ROUND 11'.
+      [DB] UPSERTed 12 standings entries for QATAR - QSL - ROUND 11
+      [OK Standing] Standings tab data extracted for QATAR - QSL - ROUND 11
+      [Extractor Validation] Updated League to: QATAR - QSL - ROUND 11
+      [DB] UPSERTed 12 standings entries for QATAR - QSL - ROUND 11
+      [OK Standing] Standings tab data extracted for QATAR - QSL - ROUND 11
+            [OK Signal] Shamal_vs_Al-Sadd
+    [Batch Start] Dormaa vs Techiman Liberty: 29.12.2025 - 15:00
+    [Batch Start] Bayelsa United vs El Kanemi: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 12 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Accra Lions_vs_Hakla SC (22 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Mekelle 70 Enderta_vs_St. George (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'ETHIOPIA - PREMIER LEAGUE - ROUND 12'.
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [Extractor Validation] Updated League to: ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [DB] UPSERTed 20 standings entries for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+      [OK Standing] Standings tab data extracted for ETHIOPIA - PREMIER LEAGUE - ROUND 12
+            [OK Signal] Mekelle 70 Enderta_vs_St. George
+      [Extractor] Found 16 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 13'.
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [DB] UPSERTed 16 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+            [OK Signal] Accra Lions_vs_Hakla SC
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Enyimba vs Shooting: 29.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Ikorodu City vs Remo Stars: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Dormaa_vs_Techiman Liberty (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 8 teams in standings for 'GHANA - DIVISION ONE LEAGUE - ROUND 13'.
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [Extractor Validation] Updated League to: GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [DB] UPSERTed 8 standings entries for GHANA - DIVISION ONE LEAGUE - ROUND 13
+      [OK Standing] Standings tab data extracted for GHANA - DIVISION ONE LEAGUE - ROUND 13
+            [OK Signal] Dormaa_vs_Techiman Liberty
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bayelsa United_vs_El Kanemi (25 matches found)
+    [Batch Start] Kano Pillars vs Nasarawa: 29.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Bayelsa United_vs_El Kanemi
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Kun Khalifa vs Katsina Utd: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Enyimba_vs_Shooting (25 matches found)
+      [Extractor] Found 10 home, 10 away, 4 H2H matches.
+      [OK H2H] H2H tab data extracted for Ikorodu City_vs_Remo Stars (24 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Enyimba_vs_Shooting
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Ikorodu City_vs_Remo Stars
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Niger Tornadoes vs Barau: 29.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Plateau United vs Abia Warriors: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Kano Pillars_vs_Nasarawa (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Kano Pillars_vs_Nasarawa
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Kun Khalifa_vs_Katsina Utd (20 matches found)
+    [Batch Start] Rivers United vs Rangers Int'l: 29.12.2025 - 15:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Kun Khalifa_vs_Katsina Utd
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Warri Wolves vs Wikki Tourist: 29.12.2025 - 15:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Plateau United_vs_Abia Warriors (25 matches found)
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Niger Tornadoes_vs_Barau (20 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Plateau United_vs_Abia Warriors
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Niger Tornadoes_vs_Barau
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] ASFA Yennega vs Salitas: 29.12.2025 - 15:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Rahimo vs AS Douanes: 29.12.2025 - 15:30
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Rivers United_vs_Rangers Int'l (25 matches found)
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Warri Wolves_vs_Wikki Tourist (25 matches found)
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Rivers United_vs_Rangers Int'l
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] USFA vs Vitesse: 29.12.2025 - 15:30
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 20 teams in standings for 'NIGERIA - NPFL - ROUND 19'.
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+      [Extractor Validation] Updated League to: NIGERIA - NPFL - ROUND 19
+      [DB] UPSERTed 20 standings entries for NIGERIA - NPFL - ROUND 19
+      [OK Standing] Standings tab data extracted for NIGERIA - NPFL - ROUND 19
+            [OK Signal] Warri Wolves_vs_Wikki Tourist
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Al Dhafra vs Bani Yas: 29.12.2025 - 15:45
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for ASFA Yennega_vs_Salitas (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Rahimo_vs_AS Douanes (25 matches found)
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] ASFA Yennega_vs_Salitas
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] Rahimo_vs_AS Douanes
+    [Batch Start] Angola vs Egypt: 29.12.2025 - 16:00
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+    [Batch Start] Zimbabwe vs South Africa: 29.12.2025 - 16:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for USFA_vs_Vitesse (25 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Dhafra_vs_Bani Yas (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'BURKINA FASO - PREMIER LEAGUE - ROUND 15'.
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [Extractor Validation] Updated League to: BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [DB] UPSERTed 16 standings entries for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+      [OK Standing] Standings tab data extracted for BURKINA FASO - PREMIER LEAGUE - ROUND 15
+            [OK Signal] USFA_vs_Vitesse
+      [Extractor] Extracting Standings tab...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Found 14 teams in standings for 'UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10'.
+      [DB] UPSERTed 14 standings entries for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [Extractor Validation] Updated League to: UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [DB] UPSERTed 14 standings entries for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+      [OK Standing] Standings tab data extracted for UNITED ARAB EMIRATES - UAE LEAGUE - ROUND 10
+            [OK Signal] Al Dhafra_vs_Bani Yas
+    [Batch Start] Bombada vs Real Banjul: 29.12.2025 - 16:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Medina United vs Team Rhino: 29.12.2025 - 16:00
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [H2H Expansion] Expanding available match history...
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Zimbabwe_vs_South Africa (25 matches found)
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Angola_vs_Egypt (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 4 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 3'.
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [DB] UPSERTed 4 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+            [OK Signal] Zimbabwe_vs_South Africa
+    [H2H Expansion] Expanding available match history...
+    [H2H Expansion] Expanding available match history...
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 10 teams in standings for 'AFRICA - AFRICA CUP OF NATIONS - ROUND 3'.
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [Extractor Validation] Updated League to: AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [DB] UPSERTed 10 standings entries for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+      [OK Standing] Standings tab data extracted for AFRICA - AFRICA CUP OF NATIONS - ROUND 3
+            [OK Signal] Angola_vs_Egypt
+    [Batch Start] Al-Hilal Omdurman vs AS Kigali: 29.12.2025 - 16:00
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 5 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Medina United_vs_Team Rhino (15 matches found)
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bombada_vs_Real Banjul (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Batch Start] Bai Bureh Warriors vs Freetown City: 29.12.2025 - 16:15
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GAMBIA - GFA LEAGUE - ROUND 3'.
+      [DB] UPSERTed 16 standings entries for GAMBIA - GFA LEAGUE - ROUND 3
+      [OK Standing] Standings tab data extracted for GAMBIA - GFA LEAGUE - ROUND 3
+      [Extractor Validation] Updated League to: GAMBIA - GFA LEAGUE - ROUND 3
+      [DB] UPSERTed 16 standings entries for GAMBIA - GFA LEAGUE - ROUND 3
+      [OK Standing] Standings tab data extracted for GAMBIA - GFA LEAGUE - ROUND 3
+            [OK Signal] Medina United_vs_Team Rhino
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 16 teams in standings for 'GAMBIA - GFA LEAGUE - ROUND 3'.
+      [DB] UPSERTed 16 standings entries for GAMBIA - GFA LEAGUE - ROUND 3
+      [OK Standing] Standings tab data extracted for GAMBIA - GFA LEAGUE - ROUND 3
+      [Extractor Validation] Updated League to: GAMBIA - GFA LEAGUE - ROUND 3
+      [DB] UPSERTed 16 standings entries for GAMBIA - GFA LEAGUE - ROUND 3
+      [OK Standing] Standings tab data extracted for GAMBIA - GFA LEAGUE - ROUND 3
+            [OK Signal] Bombada_vs_Real Banjul
+    [Cookies] Accepted via OneTrust
+    [Batch Start] Al Ahli Doha vs Umm-Salal: 29.12.2025 - 16:30
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Batch Start] Al Riyadh vs Al Hazem: 29.12.2025 - 17:30
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 0 H2H matches.
+      [OK H2H] H2H tab data extracted for Al-Hilal Omdurman_vs_AS Kigali (20 matches found)
+    [Cookies] Accepted via OneTrust
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'RWANDA - PREMIER LEAGUE'.
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+      [Extractor Validation] Updated League to: RWANDA - PREMIER LEAGUE
+      [DB] UPSERTed 18 standings entries for RWANDA - PREMIER LEAGUE
+      [OK Standing] Standings tab data extracted for RWANDA - PREMIER LEAGUE
+            [OK Signal] Al-Hilal Omdurman_vs_AS Kigali
+    [Batch Start] Al Taawon vs Al Najma: 29.12.2025 - 17:30
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Bai Bureh Warriors_vs_Freetown City (25 matches found)
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 5 H2H matches.
+      [OK H2H] H2H tab data extracted for Al Ahli Doha_vs_Umm-Salal (25 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [Cookies] Accepted via OneTrust
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 18 teams in standings for 'SIERRA LEONE - PREMIER LEAGUE - ROUND 9'.
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 9
+      [Extractor Validation] Updated League to: SIERRA LEONE - PREMIER LEAGUE - ROUND 9
+      [DB] UPSERTed 18 standings entries for SIERRA LEONE - PREMIER LEAGUE - ROUND 9
+      [OK Standing] Standings tab data extracted for SIERRA LEONE - PREMIER LEAGUE - ROUND 9
+            [OK Signal] Bai Bureh Warriors_vs_Freetown City
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
