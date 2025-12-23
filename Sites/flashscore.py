@@ -310,7 +310,7 @@ async def run_flashscore_analysis(browser: Browser):
     last_processed_info = get_last_processed_info()
 
     # --- Daily Loop ---
-    for day_offset in range(10):
+    for day_offset in range(14):
         target_date = dt.now(NIGERIA_TZ) + timedelta(days=day_offset)
         target_full = target_date.strftime("%d.%m.%Y")
         

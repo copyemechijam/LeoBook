@@ -1,0 +1,130 @@
+    --- LEO: Initializing Databases ---      
+     Initializing databases...
+
+      --- LEO: Starting new cycle at 2025-12-22 16:10:47 --- 
+     Launching new browser instance...
+
+   [Phase 0] Checking for past matches to review...
+--- LEO V2.6: Outcome Review Engine (Concurrent) ---
+[Review] Found 4 past predictions to review (Limit: 500).
+[Processing] Starting batch review for 4 matches...
+  [Score Check] Bidco United vs Leopards (Attempt 1)
+  [Score Check] Ulinzi Stars vs Posta Rangers (Attempt 1)
+  [Score Check] Stockport U21 vs Cardiff U21 (Attempt 1)
+  [Score Check] Nasarawa vs Barau (Attempt 1)
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Cookies] Accepted via text: I Accept
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [Skip]  Bidco United vs Leopards Match not finished yet.
+    [Cookies] Accepted via text: I Accept
+    [Skip]  Stockport U21 vs Cardiff U21 Match not finished yet.
+    [Success] Ulinzi Stars vs Posta Rangers -> Score: 3-0
+    [Skip]  Nasarawa vs Barau Match not finished yet.
+--- Learning Engine: Updated 16 rule weights ---
+--- Review Process Complete ---
+   [Phase 0] Analyzing prediction accuracy across all reviewed matches...
+
+  [Prediction Accuracy Report]
+  ==================================================
+  Friday, 12th December, 2025: 67.6% Accurate - 102 Predictions
+  Saturday, 13th December, 2025: 49.0% Accurate - 351 Predictions
+  Sunday, 14th December, 2025: 54.6% Accurate - 313 Predictions
+  Monday, 15th December, 2025: 37.5% Accurate - 56 Predictions
+  Tuesday, 16th December, 2025: 50.0% Accurate - 40 Predictions
+  Wednesday, 17th December, 2025: 47.1% Accurate - 68 Predictions
+  Thursday, 18th December, 2025: 50.0% Accurate - 66 Predictions
+  Friday, 19th December, 2025: 48.2% Accurate - 114 Predictions
+  Saturday, 20th December, 2025: 55.1% Accurate - 301 Predictions
+  Sunday, 21st December, 2025: 54.5% Accurate - 266 Predictions
+  ==================================================
+  [Confidence-Based Accuracy]
+  Very High Confidence: 52.9% Accurate - 467 Predictions
+  High Confidence: 51.5% Accurate - 846 Predictions
+  Low Confidence: 55.2% Accurate - 364 Predictions
+  ==================================================
+  Friday, 12th December, 2025 to Sunday, 21st December, 2025: 52.7% Accurate - 1677 Predictions
+
+   [Phase 0] Accuracy analysis complete.
+
+   [Phase 1] Starting analysis engine (Flashscore)...
+
+--- Running Flashscore Analysis ---
+  [Navigation] Going to Flashscore...
+  [Navigation] Flashscore loaded successfully.
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Resume] Last processed: ID 4WXvlh0f on 29.12.2025
+
+--- SKIPPING DAY: 22.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 23.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Cookies] Accepted via OneTrust
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 24.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 25.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 26.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 27.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- SKIPPING DAY: 28.12.2025 (advancing to resume date) ---
+  [Navigation] Clicking next day...
+    [Success] Next day clicked and page updated.
+
+--- ANALYZING DATE: 29.12.2025 ---
+    [AI INTEL] Selectors found for 'home_page'. Skipping AI analysis.
+    [Extractor] Extracting match data from page...
+    [Matches Found] 89 valid fixtures. (Sorted by Time)
+    [Resume] Checking for last processed ID: 4WXvlh0f on this date.
+    [Resume] Match found at index 86. Skipping 87 previously processed matches.
+    [Batching] Processing 2 matches concurrently...
+    [Batch Start] Chingale de Tete vs Ferroviario Lichinga: 29.12.2025 - N/A
+    [Batch Start] Ferroviario Nampula vs Desportivo Matola: 29.12.2025 - N/A
+    [Cookies] Accepted via OneTrust
+    [Cookies] Accepted via OneTrust
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [AI INTEL] Selectors found for 'match_page'. Skipping AI analysis.
+    [H2H Expansion] Expanding available match history...
+    [Popup Handler] Clicked 'I understand' button via: button:has-text('I understand')
+    [H2H Expansion] Expanding available match history...
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Ferroviario Nampula_vs_Desportivo Matola (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+    [AI INTEL] Selectors found for 'h2h_tab'. Skipping AI analysis.
+      [Extractor] Extracting H2H tab...
+      [Extractor] Found 10 home, 10 away, 1 H2H matches.
+      [OK H2H] H2H tab data extracted for Chingale de Tete_vs_Ferroviario Lichinga (21 matches found)
+    [AI INTEL] Selectors found for 'standings_tab'. Skipping AI analysis.
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MOZAMBIQUE - MOCAMBOLA - ROUND 24'.
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [Extractor Validation] Updated League to: MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+            [OK Signal] Ferroviario Nampula_vs_Desportivo Matola
+      [Extractor] Extracting Standings tab...
+      [Extractor] Found 14 teams in standings for 'MOZAMBIQUE - MOCAMBOLA - ROUND 24'.
+      [DB] UPSERTed 14 standings entries for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [OK Standing] Standings tab data extracted for MOZAMBIQUE - MOCAMBOLA - ROUND 24
+      [Extractor Validation] Updated League to: MOZAMBIQUE - MOCAMBOLA - ROUND 24

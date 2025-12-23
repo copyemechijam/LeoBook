@@ -2020,3 +2020,75 @@ Call log:
 Call log:
   - waiting for locator("div.detailScore__wrapper span:nth-child(1)").first
 
+2025-12-23T05:45:41.944708 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:46:50.753069 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:48:02.435591 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:50:00.165745 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:51:07.635056 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:52:20.111219 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:52:32.201801 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:52:50.450662 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:53:39.709051 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:53:58.416416 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:54:51.665800 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:55:10.088190 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:55:39.792256 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:55:55.761836 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:56:46.989189 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:57:03.063735 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:57:58.577983 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+
+2025-12-23T05:58:14.473396 [MEDIUM] score_extraction_error: Failed to extract score: Locator.inner_text: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("div.detailScore__wrapper > span:nth-child(3)").first
+

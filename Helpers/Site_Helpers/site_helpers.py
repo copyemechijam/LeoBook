@@ -65,9 +65,9 @@ async def click_next_day(page: Page, match_row_selector: str) -> bool:
     if next_sel:
         try:
             btn = page.locator(next_sel).first
-            if await btn.is_visible(timeout=5000):
+            if await btn.is_visible(timeout=50000):
                 await btn.click()
-                await page.wait_for_load_state("domcontentloaded", timeout=30000)
+                await page.wait_for_load_state("domcontentloaded", timeout=90000)
                 print(f"    [Success] Next day clicked and page updated.")
                 return True
         except Exception as e:
